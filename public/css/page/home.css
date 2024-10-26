@@ -1,0 +1,421 @@
+body {
+  background-color: #191c20;
+  margin: 0;
+  padding: 200px;
+  padding-top: 18px;
+}
+.hero-upper {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.hero-upper h2,
+.hero-upper p {
+  margin: 0;
+  padding: 0;
+  line-height: 1; /* Menyesuaikan spasi antar-teks */
+  color: white;
+  font-style: bold;
+}
+
+/* Navbar section */
+
+.navbar {
+  background-color: #191c20; /* Ganti sesuai dengan tema yang diinginkan */
+  padding: 1px;
+  margin-left: 35px;
+  margin-right: 35px;
+  border-bottom: 3px solid #ff184e;
+}
+
+.navbar .container-fluid {
+  display: flex;
+  gap: 12px; /* Menentukan jarak antar elemen */
+}
+
+.navbar .navbar-brand {
+  color: white; /* Warna teks default */
+  text-decoration: none;
+  position: relative;
+  font-size: medium;
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar .navbar-brand:hover {
+  color: #ff4b4b; /* Warna saat hover */
+}
+
+.navbar .navbar-brand::after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 2px;
+  background-color: red; /* Warna underline saat hover */
+  bottom: -3px;
+  left: 0;
+  transition: width 0.3s ease; /* Animasi underline */
+}
+
+.navbar .navbar-brand:hover::after {
+  width: 100%;
+}
+/* Menambahkan background pada elemen aktif */
+.navbar .navbar-brand.active {
+  color: white; /* Warna teks elemen aktif */
+  border-radius: 5px;
+}
+
+.navbar .navbar-brand.active::after {
+  width: 100%; /* Full underline pada elemen aktif */
+  background-color: white; /* Warna underline elemen aktif */
+}
+
+.navbar .navbar-brand:hover {
+  color: #ff4b4b; /* Warna teks saat hover */
+}
+
+.navbar .navbar-brand.active:hover {
+  background-color: #ff184e; /* Tetap warna saat di-hover pada elemen aktif */
+  color: white;
+}
+
+/* Mengatur tata letak news-preview menjadi flexbox */
+.news-preview {
+  display: flex;
+  gap: 30px; /* Jarak antar mini card */
+  position: absolute; /* Agar bisa muncul tepat di bawah navbar */
+  top: 100%; /* Posisi di bawah navbar */
+  left: 0;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-left: 150px;
+  background-color: #191c20; /* Background untuk preview */
+  padding: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Sedikit shadow untuk efek */
+  z-index: 100; /* Pastikan berada di atas elemen lain */
+  visibility: hidden; /* Awalnya tersembunyi */
+  opacity: 0; /* Tidak terlihat */
+  transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out; /* Transisi muncul */
+}
+
+/* Menampilkan card saat navbar-brand di-hover */
+.navbar-brand:hover + .news-preview,
+.news-preview:hover {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* Menyesuaikan ukuran mini card */
+.news-card-mini {
+  width: 200px; /* Lebar card mini */
+  background-color: #25282c; /* Warna background card */
+  border-radius: 8px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  position: relative; /* Penting untuk positioning badge */
+  padding: 10px;
+}
+
+/* Mengatur ukuran gambar dalam mini card */
+.image-container-mini {
+  position: relative; /* Pastikan badge bisa diatur di dalam gambar */
+}
+
+.image-container-mini img {
+  width: 100%; /* Gambar mengisi lebar card */
+  height: auto;
+  border-radius: 5px;
+}
+
+/* Menyesuaikan ukuran dan posisi badge */
+.badge-bottom-left-mini {
+  position: absolute;
+  bottom: 10px; /* Jarak dari bawah image-container */
+  left: 10px; /* Jarak dari kiri image-container */
+  background-color: #ff184e;
+  color: white;
+  padding: 3px 8px;
+  font-size: 10px;
+  border-radius: 3px;
+  z-index: 1;
+}
+
+/* Styling untuk headline mini */
+.headline-mini {
+  font-size: 14px;
+  color: #fff;
+  text-decoration: none;
+  margin: 10px 0 5px;
+  font-weight: bold;
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; /* Agar judul panjang tidak terlalu melar */
+}
+
+.headline-mini:hover {
+  color: #ff184e;
+  box-shadow: #ccc;
+  transition: all ease 0.5ms;
+}
+
+/* Styling untuk deskripsi mini */
+.description-mini {
+  font-size: 12px;
+  color: #cccccc;
+}
+
+/* Styling untuk penulis */
+.author-mini {
+  font-size: 11px;
+  color: #aaaaaa;
+  margin-top: 5px;
+  position: relative;
+}
+/* Styling untuk rating pada mini card */
+.rating-mini {
+  font-size: 10px; /* Ukuran font lebih kecil untuk rating mini */
+  color: #fff; /* Warna bintang (golden star) */
+  margin-top: 5px; /* Jarak dari elemen di atasnya */
+}
+
+/* Simple Fade-in Animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.dropdown-toggle::after {
+  margin-left: 0.5em;
+}
+
+.dropdown-menu {
+  background-color: #333; /* Warna background dropdown */
+}
+
+.dropdown-item {
+  color: white;
+}
+
+.dropdown-item:hover {
+  background-color: #444;
+  color: #ff4b4b; /* Warna teks saat hover di dropdown */
+}
+
+/* About Section */
+
+.about {
+  display: flex;
+  flex-direction: row;
+  padding: 45px;
+  gap: 50px;
+  padding-right: 65px;
+}
+.about .text-about {
+  display: inline;
+  position: relative;
+  flex-direction: column;
+  column-gap: 10px;
+}
+.about .img-about {
+  position: relative;
+  display: inline-block;
+}
+
+.about-text {
+  font-size: 17px;
+}
+
+img {
+  height: 300px;
+  width: 350px;
+  border-radius: 5px;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); /* Blur shadow di sekitar gambar */
+  position: relative;
+  display: inline;
+}
+
+/* Efek refleksi buram di bawah gambar */
+.image-about::after {
+  content: "";
+  position: absolute;
+  top: 100%; /* Letakkan refleksi tepat di bawah gambar */
+  left: 0;
+  right: 0;
+  height: 100px; /* Ketinggian refleksi */
+  background: linear-gradient(
+    transparent,
+    rgba(0, 0, 0, 0.2)
+  ); /* Efek gradient untuk refleksi */
+  filter: blur(8px); /* Blur pada refleksi */
+  opacity: 0.6; /* Transparansi refleksi */
+  transform: scaleY(-1); /* Membalik refleksi secara vertikal */
+  width: 100%;
+  border-radius: 5px;
+  z-index: -1; /* Membuat refleksi berada di belakang gambar */
+}
+
+/* News Content */
+/* Container untuk menampung semua card */
+.news-container {
+  display: flex;
+  flex-wrap: wrap; /* Agar card baru otomatis pindah ke baris bawah jika penuh */
+  gap: 20px; /* Jarak antar card */
+  justify-content: space-between;
+  width: 100%; /* Lebar container */
+  padding: 35px;
+}
+
+/* Styling untuk setiap card berita */
+.news-card {
+  width: 30%; /* Lebar card agar ada 3 card dalam 1 baris */
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  background-color: #333333;
+}
+
+/* Container untuk gambar di card */
+.image-container {
+  position: relative;
+}
+
+.image-container img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+/* Badge di bagian bawah kiri gambar */
+.badge-bottom-left {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  background-color: rgba(255, 0, 0, 0.8);
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 12px;
+}
+
+/* Headline berita */
+.head_line {
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  text-decoration: none;
+  margin: 10px 0;
+  position: relative;
+}
+
+/* Hover effect untuk headline di card berita */
+.news-card .head_line {
+  text-decoration: none;
+  color: #fff; /* Warna teks default */
+  transition: all 0.3s ease; /* Transisi halus */
+  padding: 5px;
+  border-radius: 5px; /* Sudut headline sedikit melengkung */
+}
+
+.news-card .head_line:hover {
+  background-color: #ff184e; /* Warna latar belakang saat hover */
+  color: white; /* Warna teks saat hover */
+  box-shadow: 0 0 15px rgba(255, 24, 78, 0.6), 0 0 25px rgba(255, 255, 255, 0.5); /* Efek bersinar */
+}
+
+/* Badge di atas kiri headline */
+.headline::before {
+  content: "#Headline";
+  position: absolute;
+  top: -20px;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 12px;
+}
+
+/* Deskripsi singkat */
+.description {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 5px;
+}
+
+/* Nama penulis */
+.author {
+  position: relative;
+  font-size: 12px;
+  font-style: italic;
+  color: #fff;
+  margin-top: 23%;
+}
+
+/* Rating */
+.rating {
+  position: relative;
+  margin-top: 23%;
+  font-size: 11px;
+  color: white;
+}
+
+/* Styling untuk membuat card terlihat sedikit lebih tinggi */
+.news-card {
+  min-height: 450px;
+}
+
+/* pagination */
+/* Styling dasar untuk pagination */
+.pagination .page-link {
+  background-color: transparent; /* Menghilangkan background */
+  border: none; /* Menghilangkan border */
+  color: #fff; /* Warna teks */
+  font-size: 16px;
+  padding: 10px 15px; /* Ruang di dalam link */
+  transition: all 0.3s ease; /* Transisi untuk animasi */
+  position: relative;
+}
+
+/* Hover effect untuk pagination */
+.pagination .page-link:hover {
+  background-color: #ff184e; /* Warna latar belakang saat hover */
+  color: white; /* Warna teks saat hover */
+  box-shadow: 0 0 15px rgba(255, 24, 78, 0.6), 0 0 25px rgba(255, 255, 255, 0.5); /* Efek bersinar merah dan putih */
+  border-radius: 5px; /* Membuat sudut lebih halus */
+}
+
+/* Styling khusus untuk tombol prev/next agar konsisten */
+.pagination .page-link span {
+  color: #fff;
+}
+
+.pagination .page-item.active .page-link {
+  background-color: #ff184e; /* Warna tombol aktif */
+  color: white;
+  box-shadow: 0 0 15px rgba(255, 24, 78, 0.6), 0 0 25px rgba(255, 255, 255, 0.5); /* Efek bersinar untuk tombol aktif */
+  border-radius: 5px;
+}
+
+/* Agar tombol tidak terlihat bulat */
+.pagination .page-link {
+  border-radius: 5px; /* Membuat sudut tombol lebih halus, jika diinginkan */
+}
+
+/* Styling untuk pagination container agar berada di tengah */
+.pagination {
+  justify-content: center;
+}

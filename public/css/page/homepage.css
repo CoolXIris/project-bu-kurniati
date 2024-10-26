@@ -1,0 +1,15 @@
+.relative.bg-gray-800.rounded-lg.overflow-hidden {
+  /* Gaya khusus untuk elemen yang memiliki semua kelas tersebut */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Misalnya, menambahkan bayangan */
+  height: 300px;
+  border-radius: 10px;
+}
+
+.w-full.object-cover {
+  height: 300px;
+}
+
+a:hover {
+  color: #ff184e;
+  transition: width 0.3s ease;
+}
