@@ -90,7 +90,7 @@
             </span>
             </div>
             <h1 class="text-4xl font-bold mb-4">
-            Chip Flagship Mediatek Dimensity 9400 Maksimalkan Performa & Efisiensi, Siap Untuk Era AI Agentik
+            Review ZTE Blade A35: Nggak Sampai Sejuta, Bawa Gimmick Menarik
             </h1>
             <div class="flex items-center mb-4">
             <img alt="Author's profile picture" class="rounded-full w-12 h-12 mr-4" height="50" src="https://storage.googleapis.com/a1aa/image/Y9Rel7BNX3TZI6YZvYAvoq7qlVKbbNML3toqBZuIU7QHCtyJA.jpg" width="50"/>
@@ -103,18 +103,24 @@
             </p>
             </div>
             </div>
-            <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/MediaTek-Dimensity-9400.jpg') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover"/>
+            <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/ZTE-Blade-A35.jpg') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover"/>
             <p class="text-gray-300 mb-4">
             <span class="font-bold">
                 Jakarta, GadgetGlimpse
             </span>
-                – Dalam beberapa pekan ke depan, OPPO dan vivo bakal siap hadirkan penawaran flagship terbarunya. Dan sesuai rumor, keduanya dikabarkan siap menggunakan cip terbaru dari MediaTek. Kebetulan cip tersebut baru saja diresmikan kemarin (9/10), lewat kehadiran MediaTek Dimensity 9400 yang membawa peningkatan signifikan.
+            Mungkin saat ini sudah semakin sering friends mendengar sebuah istilah “smartphone terjangkau, sekarang sudah semakin bagus”. Bahkan nggak cuma di kelas mid-range saja, sejutaan rupiah pun punya fitur komplit. Lalu bagaimana dengan ZTE Blade A35 yang nggak sampai Rp1 juta?
             </p>
             <p class="text-gray-300 mb-4">
-                Digadang mampu mencetak skor Antutu hingga 3 juta poin, tidak hanya performa saja yang meningkat. Kehadiran MediaTek Dimensity 9400 juga memungkinkan para vendor smartphone untuk rilis perangkat yang memiliki kemampuan AI tingkat lanjut. Bahkan untuk perangkat dengan layar lipat tiga lias tri-fold seperti yang telah dirilis Huawei beberapa waktu lalu.Digadang mampu mencetak skor Antutu hingga 3 juta poin, tidak hanya performa saja yang meningkat. Kehadiran MediaTek Dimensity 9400 juga memungkinkan para vendor smartphone untuk rilis perangkat yang memiliki kemampuan AI tingkat lanjut. Bahkan untuk perangkat dengan layar lipat tiga lias tri-fold seperti yang telah dirilis Huawei beberapa waktu lalu.
+            Ya, semakin terjangkau harga smartphone, membuat sejumlah vendor mencoba memberikan opsi baru di rentang harga Rp900 ribuan. Lewat kehadiran ZTE Blade A35, ZTE seolah ingin membuktikan bila mereka bisa hadirkan sebuah perangkat yang masih nyaman untuk digunakan sehari-hari.
             </p>
             <p class="text-gray-300 mb-4">
-                Hal tersebut dikonfirmasi oleh Joe Chen selaku Presiden MediaTek, di mana cip MediaTek Dimensity 9400 siap mendorong teknologi AI termasuk AI generatif dengan pelatihan LoRA di perangkat dan pembuatan video. “Dimensity 9400 terus membangun momentum dalam peningkatan pangsa pasar, dan jejak MediaTek untuk menghadirkan performa andal dengan desain paling efisien demi pengalaman pengguna terbaik.”</p>
+            Bahkan tidak hanya fitur esensial saja, ZTE Blade A35 juga membawa sejumlah fitur ekstra, sekaligus tampil dalam desain stylish. Penasaran dengan semua yang dapat ditawarkan? Berikut review ZTE Blade A35 selengkapnya.</p>
+
+            <p class="text-gray-300 mb-4" style="font-size:20px">Desain</p>
+            <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/ZTE-Blade-A35.jpg') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover"/>
+            <p class="text-gray-300 mb-4">Terlihat kekinian dan stylish. Itulah impresi awal saya saat pertama kali melihat desain ZTE Blade A35—sulit dipercaya kalau harganya nggak sampai Rp1 juta. Biasanya hanya sekadar tampil sederhana, namun ZTE masih bisa berikan sentuhan menarik di sana-sini.</p>
+            <p class="text-gray-300 mb-4">Seperti aksen merah pada tombol power khas smartphone ZTE (hingga lingkaran sensor kamera di belakang), serta permukaan bodi belakang yang mereplikasi kaca glossy, diberikan titik-titik kilau yang masih cukup subtle, hanya muncul saat terkena pencahayaan tertentu saja pada opsi warna Starry Black. Sisi samping dan belakang dibuat flat, serta overall bodi ZTE Blade A35 terasa cukup solid dalam genggaman.</p>
+            <p class="text-gray-300 mb-4">Ketebalannya mencapai 8,5mm, dengan bobot kisaran 190 gram. Desain ZTE Blade A35 sangat bisa bersaing dengan opsi smartphone Android lainnya yang mungkin dijual dua kali lipat lebih mahal. Patut diapresiasi karena bisa memberikan pilihan yang menarik.</p>
             </div>
             <div class="lg:w-1/3 lg:pl-8">
                 <div class="mb-8">
