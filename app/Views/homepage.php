@@ -45,7 +45,6 @@
                     <div class="absolute hidden group-hover:block bg-gray-800 text-white mt-2 py-2 w-48">
                         <a href="<?= base_url('recommended')?>" class="block px-4 py-2">RECOMMENDED</a>
                         <a href="<?= base_url('tips') ?>" class="block px-4 py-2">TIPS</a>
-                        <a href="<?= base_url('testspeed')?>" class="block px-4 py-2">TEST SPEED JARINGAN</a>
                     </div>
                 </div>
             </div>
@@ -209,7 +208,7 @@
                     SMART VEHICLE
                 </span>
                 </div>
-                <a href=""><h2 class="text-lg font-bold">
+                <a href="<?= base_url('page/robotaxi')?>"><h2 class="text-lg font-bold">
                 Elon Musk Kenalkan RoboTaxi &amp; RoboVan, Taksi Serba Otomatis Siap Produksi 2027
                 </h2></a>
                 <div class="flex items-center mt-2 text-sm text-gray-400">
@@ -238,7 +237,7 @@
                     KOMPUTER
                 </span>
                 </div>
-                <a href=""><h2 class="text-lg font-bold">
+                <a href="<?= base_url('page/diablo_iv')?>"><h2 class="text-lg font-bold">
                 MSI &amp; Blizzard Entertainment Berkolaborasi Hadirkan Diablo IV: Vessel of Hatred
                 </h2></a>
                 <div class="flex items-center mt-2 text-sm text-gray-400">
@@ -511,7 +510,7 @@
         <div class="space-y-8">
             <div class="flex flex-col md:flex-row bg-gray-800 p-4 rounded-lg">
             <div class="flex-1">
-            <a href=""><h2 class="text-xl font-bold mb-2">
+            <a href="<?= base_url('page/permata_me')?>"><h2 class="text-xl font-bold mb-2">
             Permata ME Jadi Wajah Baru Mobile Banking Permata Bank, Punya Fitur Transfer 13 Mata Uang Asing
             </h2></a>
             <p class="text-gray-400 mb-4">
@@ -540,7 +539,7 @@
             <!-- berita kedua -->
             <div class="flex flex-col md:flex-row bg-gray-800 p-4 rounded-lg">
             <div class="flex-1">
-            <a href=""><h2 class="text-xl font-bold mb-2">
+            <a href="<?= base_url('page/oppo_campus')?>"><h2 class="text-xl font-bold mb-2">
             OPPO Campus Ambassador Perdana di Indonesia, Beri Benefit Menarik &amp; Kembangkan Potensi Mahasiswa
             </h2></a>
             <p class="text-gray-400 mb-4">
@@ -569,7 +568,7 @@
             <!-- berita ketiga -->
             <div class="flex flex-col md:flex-row bg-gray-800 p-4 rounded-lg">
             <div class="flex-1">
-            <a href=""><h2 class="text-xl font-bold mb-2">
+            <a href="<?= base_url('page/inflection_ai')?>"><h2 class="text-xl font-bold mb-2">
             Inflection AI dan Intel Luncurkan Sistem Enterprise AI Berbasis Gaudi 3
             </h2></a>
             <p class="text-gray-400 mb-4">
@@ -598,7 +597,7 @@
             <!-- berita keempat -->
             <div class="flex flex-col md:flex-row bg-gray-800 p-4 rounded-lg">
             <div class="flex-1">
-            <a href=""><h2 class="text-xl font-bold mb-2">
+            <a href="<?= base_url('page/tv_samsung')?>"><h2 class="text-xl font-bold mb-2">
             Alasan TV Samsung Menjadi Pusat Ekosistem di Rumah, Dari Aksesibilitas Hingga Kenyamanan
             </h2></a>
             <p class="text-gray-400 mb-4">

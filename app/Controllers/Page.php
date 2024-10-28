@@ -42,6 +42,30 @@ class Page extends BaseController
     {
         return view('page/vivo_x100pro');
     }
+    public function robotaxi()
+    {
+        return view('page/robotaxi');
+    }
+    public function oppo_campus()
+    {
+        return view('page/oppo_campus');
+    }
+    public function permata_me()
+    {
+        return view('page/permata_me');
+    }
+    public function tv_samsung()
+    {
+        return view('page/tv_samsung');
+    }
+    public function inflection_ai()
+    {
+        return view('page/inflection_ai');
+    }
+    public function diablo_iv()
+    {
+        return view('page/diablo_iv');
+    }
     
 }
 ?>
