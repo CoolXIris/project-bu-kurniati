@@ -1,4 +1,4 @@
-<section id="footer" class="footer" style="padding: 0;">
+<section id="footer" class="footer">
     <footer class="bg-gray-900 py-8">
             <div class="container mx-auto text-left px-4">
                 <div class="flex flex-col items-start mb-4">

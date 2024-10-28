@@ -79,7 +79,7 @@
                 SMARTPHONE
                 </span>
             </div>
-            <a href="<?= base_url('page/zte-blade')?>"><h2 class="text-2xl font-bold">
+            <a href="<?= base_url('page/zte_blade')?>"><h2 class="text-2xl font-bold">
                 Review ZTE Blade A35: Nggak Sampai Sejuta, Bawa Gimmick Menarik
             </h2></a>
             <div class="flex items-center mt-2">
@@ -127,7 +127,7 @@
             <span class="bg-pink-600 text-white text-xs font-bold px-2 py-1 rounded">
                 VERSUS
             </span>
-            <a href="<?= base_url('page/chipset-exynos2200')?>"><h3 class="text-lg font-bold mt-2">
+            <a href="<?= base_url('page/chipset_exynos2200')?>"><h3 class="text-lg font-bold mt-2">
                 Membandingkan Chipset Exynos 2200 vs Dimensity 7300, Mana yang Lebih Baik?
             </h3></a>
             <div class="flex items-center mt-2">
@@ -154,7 +154,7 @@
                 SMARTPHONE
                 </span>
             </div>
-            <a href="<?= base_url('page/vivox100pro')?>"><h3 class="text-lg font-bold">
+            <a href="<?= base_url('page/vivo_x100pro')?>"><h3 class="text-lg font-bold">
                 Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
             </h3></a>
             <div class="flex items-center mt-2">

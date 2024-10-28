@@ -1,7 +1,10 @@
 <html lang="en">
- <head>
+<head>
   <meta charset="utf-8"/>
   <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Halaman Terkini
+  </title>
   <script src="https://cdn.tailwindcss.com">
   </script>
   <link href="<?= base_url('css/bootstrap.min.css') ?>" rel="stylesheet">
@@ -15,12 +18,10 @@
   </style>
  </head>
 
- <body>
+ <body class="bg-gray-900 text-white">
     <?= $this->include('page-layout/navbar')?>
 
     <?= $this->renderSection('content')?>
-
-    <?= $this->include('page-layout/sidebar')?>
 
     <?= $this->include('page-layout/footer')?>
 
