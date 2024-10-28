@@ -30,6 +30,18 @@ class Page extends BaseController
     {
         return view('page/mediatek_dimensity9400');
     }
+    public function chipset_exynos2200()
+    {
+        return view('page/chipset_exynos2200');
+    }
+    public function zte_blade()
+    {
+        return view('page/zte_blade');
+    }
+    public function vivo_x100pro()
+    {
+        return view('page/vivo_x100pro');
+    }
     
 }
 ?>

@@ -127,9 +127,9 @@
             <span class="bg-pink-600 text-white text-xs font-bold px-2 py-1 rounded">
                 VERSUS
             </span>
-            <h3 class="text-lg font-bold mt-2">
+            <a href="<?= base_url('page/chipset-exynos2200')?>"><h3 class="text-lg font-bold mt-2">
                 Membandingkan Chipset Exynos 2200 vs Dimensity 7300, Mana yang Lebih Baik?
-            </h3>
+            </h3></a>
             <div class="flex items-center mt-2">
                 <img alt="Author's avatar" class="w-8 h-8 rounded-full" height="32" src="https://storage.googleapis.com/a1aa/image/ykMcY9wjMc5TJJndayXU0RvcAkyoll2vf7uykypvTafVtnlTA.jpg" width="32"/>
                 <div class="ml-2">
@@ -154,9 +154,9 @@
                 SMARTPHONE
                 </span>
             </div>
-            <h3 class="text-lg font-bold">
+            <a href="<?= base_url('page/vivox100pro')?>"><h3 class="text-lg font-bold">
                 Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
-            </h3>
+            </h3></a>
             <div class="flex items-center mt-2">
                 <div class="flex space-x-1">
                 <div class="w-4 h-4 bg-red-600 rounded-full">
