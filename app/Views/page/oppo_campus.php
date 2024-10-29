@@ -8,14 +8,11 @@
             <div class="lg:w-2/3">
                 <div class="flex items-center mb-4">
                     <span class="bg-red-600 text-white px-2 py-1 rounded mr-2">
-                        KOMPUTER
-                    </span>
-                    <span class="bg-red-600 text-white px-2 py-1 rounded">
-                        TIPS
+                        BERITA
                     </span>
                 </div>
                 <h1 class="text-4xl font-bold mb-4">
-                    Chip Flagship Mediatek Dimensity 9400 Maksimalkan Performa & Efisiensi, Siap Untuk Era AI Agentik
+                    OPPO Campus Ambassador Perdana di Indonesia, Beri Benefit Menarik & Kembangkan Potensi Mahasiswa
                 </h1>
                 <div class="flex items-center mb-4">
                     <img alt="Author's profile picture" class="rounded-full w-12 h-12 mr-4" height="50" src="https://storage.googleapis.com/a1aa/image/Y9Rel7BNX3TZI6YZvYAvoq7qlVKbbNML3toqBZuIU7QHCtyJA.jpg" width="50" />
@@ -23,23 +20,34 @@
                         <p class="font-bold">
                             Christopher Louis
                         </p>
-                        <p class="text-gray-400">
-                            Published 10 October 2024 18:05
+                        <p class="text-white-400">
+                            Published 11 October 2024 09:15
                         </p>
                     </div>
                 </div>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/MediaTek-Dimensity-9400.jpg') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
-                <p class="text-gray-300 mb-4">
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/oppo_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
+                <p class="text-white-300 mb-4" style="text-align: justify;">
                     <span class="font-bold">
-                        Jakarta, GadgetGlimpse
+                        GadgetGlimpse
                     </span>
-                    – Dalam beberapa pekan ke depan, OPPO dan vivo bakal siap hadirkan penawaran flagship terbarunya. Dan sesuai rumor, keduanya dikabarkan siap menggunakan cip terbaru dari MediaTek. Kebetulan cip tersebut baru saja diresmikan kemarin (9/10), lewat kehadiran MediaTek Dimensity 9400 yang membawa peningkatan signifikan.
+                    – Dalam beberapa pekan terakhir, OPPO Indonesia cukup aktif untuk berkontribusi terhadap sektor edukasi. Tidak hanya dengan menunjukkan bagaimana pabrik OPPO bekerja kepada para pelajar, kini telah dibuka program terbaru yang pertama diadakan di Indonesia. Yakni program OPPO Campus Ambassador, yang pendaftarannya telah dibuka hingga 27 Oktober 2024.
                 </p>
-                <p class="text-gray-300 mb-4">
-                    Digadang mampu mencetak skor Antutu hingga 3 juta poin, tidak hanya performa saja yang meningkat. Kehadiran MediaTek Dimensity 9400 juga memungkinkan para vendor smartphone untuk rilis perangkat yang memiliki kemampuan AI tingkat lanjut. Bahkan untuk perangkat dengan layar lipat tiga lias tri-fold seperti yang telah dirilis Huawei beberapa waktu lalu.Digadang mampu mencetak skor Antutu hingga 3 juta poin, tidak hanya performa saja yang meningkat. Kehadiran MediaTek Dimensity 9400 juga memungkinkan para vendor smartphone untuk rilis perangkat yang memiliki kemampuan AI tingkat lanjut. Bahkan untuk perangkat dengan layar lipat tiga lias tri-fold seperti yang telah dirilis Huawei beberapa waktu lalu.
-                </p>
-                <p class="text-gray-300 mb-4">
-                    Hal tersebut dikonfirmasi oleh Joe Chen selaku Presiden MediaTek, di mana cip MediaTek Dimensity 9400 siap mendorong teknologi AI termasuk AI generatif dengan pelatihan LoRA di perangkat dan pembuatan video. “Dimensity 9400 terus membangun momentum dalam peningkatan pangsa pasar, dan jejak MediaTek untuk menghadirkan performa andal dengan desain paling efisien demi pengalaman pengguna terbaik.”</p>
+                <p class="text-white-300 mb-4" style="text-align: justify;">Ya, ini merupakan program campus ambassador pertama yang diadakan oleh OPPO. Sebelumnya di tahun 2021, brand lain yang masih dalam satu naungan perusahaan induk, realme telah menghadirkan program serupa untuk para mahasiswa termasuk di Indonesia. Namun dari halaman resmi OPPO Indonesia, program OPPO Campus Ambassador dirancang lebih ekstensif.</p>
+                <p class="text-white-300 mb-4" style="text-align: justify;">Tidak hanya memberikan benefit eksklusif berupa pengalaman dan hadiah, OPPO Campus Ambassador dirancang agar mahasiswa lebih terampil dalam memanfaatkan teknologi maupun inovasi digital terkini, tidak terkecuali AI. Program ini bakal menyasar banyak kampus ternama, terutama di wilayah Jabodetabek.</p>
+                <p class="text-white-300 mb-4" style="text-align: justify;">Patrick Owen, Chief Marketing Officer OPPO Indonesia mengatakan bila program ini diharap bisa menciptakan kolaborasi yang produktif antara industri dan pendidikan, membuka peluang lebih luas bagi mahasiswa untuk terlibat dalam dunia teknologi dan pemasaran digital. Serta memperkuat hubungan OPPO dengan komunitas kampus.</p>
+
+                <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Ajak Mahasiswa Berkolaborasi Langsung dengan Expert dalam Industri</p>
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/oppo_2.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <p class="text-white-300 mb-4" style="text-align: justify;">Jadi apa saja keuntungan yang bakal diterima oleh para mahasiswa ketika mereka berpartisipasi dalam OPPO Campus Ambassador? Salah satunya adalah percepatan pengembangan karier dan keterampilan, melalui pemberian akses eksklusif ke sesi workshop maupun pelatihan yang diadakan oleh narasumber ternama hingga influenser maupun para expert di masing-masing bidang.</p>
+                <p class="text-white-300 mb-4" style="text-align: justify;">Selain itu, mahasiswa juga berkesempatan menjajal inovasi terbaru dari OPPO, termasuk dilibatkan dalam pengujian produk terbaru yang belum dirilis untuk publik. Bila berhasil menyelesaikan tugas dalam program, peserta OPPO Campus Ambassador juga bakal menerima honorarium, mendapatkan akses ke beragam acara OPPO untuk berjejaring, hingga mendapat sertifikat resmi sampai LinkedIn endorsement.</p>
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/oppo_3.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <p class="text-white-300 mb-4" style="text-align: justify;">Semua hal yang telah disebutkan, dinilai bakal mampu memperkuat profil karir mahasiswa dalam dunia kerja. OPPO juga bakal memberikan reward lain termasuk kit khusus ambassador, hingga cash allowance. Setidaknya, ada tiga peran utama yang bakal dijalankan sebagai OPPO Campus Ambassador ketika sudah terpilih nantinya.</p>
+                <p class="text-white-300 mb-4" style="text-align: justify;">Mereka akan berperan sebagai digital creator untuk menginspirasi generasi muda dengan merancang konten media sosial yang menarik, kewirausahaan pemuda, serta berkesempatan untuk merancang sebuah acara dengan konsep menarik bersama anggota komunitas OPPO untuk pengalaman yang lebih bermanfaat.</p>
+
+                <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Pendaftaran OPPO Campus Ambassador Dibuka Hingga 27 Oktober</p>
+                <p class="text-white-300 mb-4" style="text-align: justify;">Adakah friends yang kini sedang menjadi mahasiswa dan tertarik untuk mendaftarkan diri? Saat ini OPPO telah membuka pendaftaran OPPO Campus Ambassador hingga 27 Oktober 2024. Pengumuman terpilih bakal diinformasikan 1 November 2024, dan program bakal berjalan mulai November hingga Januari 2025 mendatang.</p>
+                <p class="text-white-300 mb-4" style="text-align: justify;">Kamu bisa akses halaman berikut ini untuk mendaftarkan diri, di mana OPPO Campus Ambassador akan meminta sejumlah data seperti nama, domisili, universitas beserta jurusan, hingga akun media sosial. Pendaftar juga wajib membuat sebuah video pengenalan singkat lewat media sosial Instagram atau TikTok mereka.</p>
+
             </div>
             <div class="lg:w-1/3 lg:pl-8 sticky">
                 <div class="mb-8">
