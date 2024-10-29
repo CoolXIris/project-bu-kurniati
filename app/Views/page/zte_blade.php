@@ -30,6 +30,29 @@
                     </div>
                 </div>
                 <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/ZTE-Blade-A35.jpg') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
+                <div class="bg-gray-800 p-6 rounded-lg shadow-lg mb-4">
+                    <div class="flex items-center justify-between border-b border-gray-700 pb-4 mb-4">
+                        <div class="flex items-center">
+                            <i class="fas fa-book text-red-500 mr-2"></i>
+                            <h2 class="text-lg font-bold">Contents</h2>
+                        </div>
+                        <i id="toggleIcon-content1" class="fas fa-chevron-up cursor-pointer" onclick="toggleContent('content1')"></i>
+                    </div>
+                    <div id="content1" class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                        <div>
+                            <p class="border-b border-gray-700 pb-2 mb-2">Desain</p>
+                            <p class="border-b border-gray-700 pb-2 mb-2">Layar</p>
+                            <p class="border-b border-gray-700 pb-2 mb-2">Kamera</p>
+                            <p class="border-b border-gray-700 pb-2 mb-2">Fitur</p>
+                        </div>
+                        <div>
+                            <p class="border-b border-gray-700 pb-2 mb-2">Performa</p>
+                            <p class="border-b border-gray-700 pb-2 mb-2">Baterai</p>
+                            <p class="border-b border-gray-700 pb-2 mb-2">Kesimpulan</p>
+                            <p class="border-b border-gray-700 pb-2 mb-2">Spesifikasi ZTE Blade A35</p>
+                        </div>
+                    </div>
+                </div>
                 <p class="text-white-300 mb-4" style="text-align: justify;">
                     <span class="font-bold">
                         Jakarta, GadgetGlimpse
@@ -187,101 +210,166 @@
     </div>
 </section>
 
+<section class="specification">
+    <div class="max-w-4xl ml-0 p-4">
+        <div class="flex flex-col md:flex-row">
+            <div class="w-full md:w-1/2 p-4 flex items-center justify-center">
+                <img
+                    alt="Smartphone with a large screen and a circular camera module on the back"
+                    class="border-2 border-gray-700 object-cover w-full md:w-auto"
+                    src="<?= base_url('css/img/spec_zte.png') ?>"
+                    style="border-radius: 3%;" />
+            </div>
+            <div class="w-full md:w-1/2 p-4 flex flex-col justify-between">
+                <div>
+                    <h1 class="text-3xl font-bold text-blue-400 mb-1">Rp999.000,00</h1>
+                    <p class="mt-2"><span class="font-bold">Brand:</span> ZTE</p>
+                    <p class="mt-1"><span class="font-bold">Category:</span> Smartphone</p>
+                    <div class="mt-2">
+                        <input class="mr-2" id="compare" type="checkbox" />
+                        <label for="compare">Add to Compare</label>
+                    </div>
+                </div>
+                <div class="mt-4 space-y-2">
+                    <div class="flex items-center">
+                        <i class="fas fa-microchip text-blue-400 mr-2"></i>
+                        <span class="w-1/3">Chipset</span>
+                        <span class="ml-auto w-2/3 text-right">Unisoc SC9863A (28 nm)</span>
+                    </div>
+                    <div class="flex items-center">
+                        <i class="fas fa-memory text-blue-400 mr-2"></i>
+                        <span class="w-1/3">Memory</span>
+                        <span class="ml-auto w-2/3 text-right">4GB RAM, 64GB ROM</span>
+                    </div>
+                    <div class="flex items-center">
+                        <i class="fas fa-battery-full text-blue-400 mr-2"></i>
+                        <span class="w-1/3">Battery</span>
+                        <span class="ml-auto w-2/3 text-right">5000 mAh</span>
+                    </div>
+                    <div class="flex items-center">
+                        <i class="fas fa-tv text-blue-400 mr-2"></i>
+                        <span class="w-1/3">Display</span>
+                        <span class="ml-auto w-2/3 text-right">6.75 inches, 720 x 1600 pixels, HD+</span>
+                    </div>
+                    <div class="flex items-center">
+                        <i class="fas fa-camera text-blue-400 mr-2"></i>
+                        <span class="w-1/3">Camera</span>
+                        <span class="ml-auto w-2/3 text-right">13MP (wide); 5MP (front)</span>
+                    </div>
+                    <div class="flex items-center">
+                        <i class="fas fa-cogs text-blue-400 mr-2"></i>
+                        <span class="w-1/3">OS</span>
+                        <span class="ml-auto w-2/3 text-right">Android 14, MyOS</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 <section class="summary">
-    <div class="ml-0 p-4" style="width:900px">
-        <div class="mt-6 border-t border-white-700 pt-4"></div>
-        <div class="bg-white-900 rounded-lg overflow-hidden">
-            <div class="flex">
-                <img src="<?= base_url('css/img/d_zte.png') ?>" alt="Close-up of ZTE Blade A35 smartphone" class="w-1/2 h-auto" style="margin-left: 20px;" />
-                <div class="w-1/2 p-4">
-                    <h1 class="text-2xl font-bold">Review ZTE Blade A35</h1>
+    <div class="max-w-3xl ml-0 p-4">
+        <div class="mt-6 border-t border-gray-700 pt-4"></div>
+        <div class="bg-gray-800 rounded-lg overflow-hidden">
+            <div class="flex flex-col md:flex-row">
+                <img
+                    src="<?= base_url('css/img/d_zte.png') ?>"
+                    alt="Close-up of ZTE Blade A35 smartphone"
+                    class="w-full md:w-1/2 h-auto mx-auto md:ml-4"
+                    style="border-radius: 3%;" />
+                <div class="w-full md:w-1/2 p-4 flex flex-col justify-center">
+                    <h1 class="text-2xl font-bold text-white">Review ZTE Blade A35</h1>
                     <div class="flex items-center justify-between mt-2">
                         <div class="text-4xl font-bold text-yellow-500">8.6</div>
                     </div>
                 </div>
             </div>
             <div class="p-4">
-                <div class="mt-4">
-                    <div class="flex items-center justify-between">
-                        <span class="text-lg">Design</span>
-                        <span class="text-lg">8.7</span>
-                    </div>
-                    <div class="h-2 bg-white-700 rounded-full mt-1">
-                        <div class="h-full bg-yellow-500 rounded-full" style="width: 87%;"></div>
-                    </div>
-                </div>
-                <div class="mt-4">
-                    <div class="flex items-center justify-between">
-                        <span class="text-lg">Display</span>
-                        <span class="text-lg">8.6</span>
-                    </div>
-                    <div class="h-2 bg-white-700 rounded-full mt-1">
-                        <div class="h-full bg-yellow-500 rounded-full" style="width: 86%;"></div>
-                    </div>
-                </div>
-                <div class="mt-4">
-                    <div class="flex items-center justify-between">
-                        <span class="text-lg">Camera</span>
-                        <span class="text-lg">8.4</span>
-                    </div>
-                    <div class="h-2 bg-white-700 rounded-full mt-1">
-                        <div class="h-full bg-yellow-500 rounded-full" style="width: 84%;"></div>
-                    </div>
-                </div>
-                <div class="mt-4">
-                    <div class="flex items-center justify-between">
-                        <span class="text-lg">Features</span>
-                        <span class="text-lg">8.5</span>
-                    </div>
-                    <div class="h-2 bg-white-700 rounded-full mt-1">
-                        <div class="h-full bg-yellow-500 rounded-full" style="width: 85%;"></div>
-                    </div>
-                </div>
-                <div class="mt-4">
-                    <div class="flex items-center justify-between">
-                        <span class="text-lg">Performance</span>
-                        <span class="text-lg">8.5</span>
-                    </div>
-                    <div class="h-2 bg-white-700 rounded-full mt-1">
-                        <div class="h-full bg-yellow-500 rounded-full" style="width: 85%;"></div>
-                    </div>
-                </div>
-                <div class="mt-4">
-                    <div class="flex items-center justify-between">
-                        <span class="text-lg">Battery</span>
-                        <span class="text-lg">8.7</span>
-                    </div>
-                    <div class="h-2 bg-white-700 rounded-full mt-1">
-                        <div class="h-full bg-yellow-500 rounded-full" style="width: 87%;"></div>
-                    </div>
-                </div>
-                <div class="mt-6 border-t border-white-700 pt-4">
-                    <div class="flex">
-                        <div class="w-1/2">
-                            <h2 class="text-xl font-bold mb-2"><i class="fas fa-thumbs-up text-green-500"></i> Good Stuff</h2>
-                            <ul class="list-disc list-inside">
-                                <li>Desain stylish di segmen harganya</li>
-                                <li>Layar besar nan berkualitas</li>
-                                <li>Kamera belakang bisa diandalkan</li>
-                                <li>Fitur ekstra termasuk Live Island</li>
-                            </ul>
+                <!-- Progress bars with ratings -->
+                <div class="space-y-4">
+                    <div>
+                        <div class="flex items-center justify-between">
+                            <span class="text-lg text-white">Design</span>
+                            <span class="text-lg text-white">8.7</span>
                         </div>
-                        <div class="w-1/2">
-                            <h2 class="text-xl font-bold mb-2"><i class="fas fa-thumbs-down text-red-500"></i> Bad Stuff</h2>
-                            <ul class="list-disc list-inside">
-                                <li>Performa bukan yang terbaik di kelasnya</li>
-                                <li>Daya tahan baterai standar</li>
-                            </ul>
+                        <div class="h-2 bg-gray-700 rounded-full mt-1">
+                            <div class="h-full bg-yellow-500 rounded-full" style="width: 87%;"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="flex items-center justify-between">
+                            <span class="text-lg text-white">Display</span>
+                            <span class="text-lg text-white">8.6</span>
+                        </div>
+                        <div class="h-2 bg-gray-700 rounded-full mt-1">
+                            <div class="h-full bg-yellow-500 rounded-full" style="width: 86%;"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="flex items-center justify-between">
+                            <span class="text-lg text-white">Camera</span>
+                            <span class="text-lg text-white">8.4</span>
+                        </div>
+                        <div class="h-2 bg-gray-700 rounded-full mt-1">
+                            <div class="h-full bg-yellow-500 rounded-full" style="width: 84%;"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="flex items-center justify-between">
+                            <span class="text-lg text-white">Features</span>
+                            <span class="text-lg text-white">8.5</span>
+                        </div>
+                        <div class="h-2 bg-gray-700 rounded-full mt-1">
+                            <div class="h-full bg-yellow-500 rounded-full" style="width: 85%;"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="flex items-center justify-between">
+                            <span class="text-lg text-white">Performance</span>
+                            <span class="text-lg text-white">8.5</span>
+                        </div>
+                        <div class="h-2 bg-gray-700 rounded-full mt-1">
+                            <div class="h-full bg-yellow-500 rounded-full" style="width: 85%;"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="flex items-center justify-between">
+                            <span class="text-lg text-white">Battery</span>
+                            <span class="text-lg text-white">8.7</span>
+                        </div>
+                        <div class="h-2 bg-gray-700 rounded-full mt-1">
+                            <div class="h-full bg-yellow-500 rounded-full" style="width: 87%;"></div>
                         </div>
                     </div>
                 </div>
-                <div class="mt-6 border-t border-white-700 pt-4">
-                    <h2 class="text-xl font-bold">Summary</h2>
-                    <p class="mt-2">Untuk segmen harga kurang dari Rp1 juta, ZTE Blade A35 bisa hadir sebagai opsi smartphone Android yang tidak hanya membawa fitur-fitur esensial, namun juga sejumlah fitur ekstra yang menarik untuk dimiliki.</p>
+                <!-- Good stuff / Bad stuff section -->
+                <div class="mt-6 border-t border-gray-700 pt-4 flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
+                    <div class="w-full md:w-1/2">
+                        <h2 class="text-xl font-bold mb-2 text-green-500"><i class="fas fa-thumbs-up"></i> Good Stuff</h2>
+                        <ul class="list-disc list-inside text-white">
+                            <li>Desain stylish di segmen harganya</li>
+                            <li>Layar besar nan berkualitas</li>
+                            <li>Kamera belakang bisa diandalkan</li>
+                            <li>Fitur ekstra termasuk Live Island</li>
+                        </ul>
+                    </div>
+                    <div class="w-full md:w-1/2">
+                        <h2 class="text-xl font-bold mb-2 text-red-500"><i class="fas fa-thumbs-down"></i> Bad Stuff</h2>
+                        <ul class="list-disc list-inside text-white">
+                            <li>Performa bukan yang terbaik di kelasnya</li>
+                            <li>Daya tahan baterai standar</li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Summary -->
+                <div class="mt-6 border-t border-gray-700 pt-4">
+                    <h2 class="text-xl font-bold text-white">Summary</h2>
+                    <p class="mt-2 text-gray-300">Untuk segmen harga kurang dari Rp1 juta, ZTE Blade A35 bisa hadir sebagai opsi smartphone Android yang tidak hanya membawa fitur-fitur esensial, namun juga sejumlah fitur ekstra yang menarik untuk dimiliki.</p>
                 </div>
             </div>
-            <div class="mt-6 border-t border-white-700 pt-4"></div>
         </div>
     </div>
 </section>
+
 <?= $this->endSection() ?>

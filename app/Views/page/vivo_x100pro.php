@@ -218,94 +218,54 @@
 
 <section class="specification">
     <div class="max-w-4xl ml-0 p-4">
-        <div class="flex">
-            <div class="w-1/2 p-4 flex items-stretch">
-                <img alt="Smartphone with a large screen and a circular camera module on the back" class="border-2 border-gray-700 object-cover" src="<?= base_url('css/img/spec_x100.png') ?>" style="border-radius: 3%;" />
+        <div class="flex flex-col md:flex-row">
+            <div class="w-full md:w-1/2 p-4 flex items-center justify-center">
+                <img
+                    alt="Smartphone with a large screen and a circular camera module on the back"
+                    class="border-2 border-gray-700 object-cover w-full md:w-auto"
+                    src="<?= base_url('css/img/spec_zte.png') ?>"
+                    style="border-radius: 3%;" />
             </div>
-            <div class="w-1/2 p-4 flex flex-col justify-between">
+            <div class="w-full md:w-1/2 p-4 flex flex-col justify-between">
                 <div>
-                    <h1 class="text-3xl font-bold text-blue-400 mb-1">
-                        Rp16.999.000,00
-                    </h1>
-                    <p class="mt-2">
-                        <span class="font-bold">
-                            Brand:
-                        </span>
-                        Vivo
-                    </p>
-                    <p class="mt-1">
-                        <span class="font-bold">
-                            Category:
-                        </span>
-                        Smartphone
-                    </p>
+                    <h1 class="text-3xl font-bold text-blue-400 mb-1">Rp16.999.000,00</h1>
+                    <p class="mt-2"><span class="font-bold">Brand:</span> Vivo</p>
+                    <p class="mt-1"><span class="font-bold">Category:</span> Smartphone</p>
                     <div class="mt-2">
                         <input class="mr-2" id="compare" type="checkbox" />
-                        <label for="compare">
-                            Add to Compare
-                        </label>
+                        <label for="compare">Add to Compare</label>
                     </div>
                 </div>
-                <div class="mt-4">
-                    <div class="flex items-center mt-2">
-                        <i class="fas fa-microchip text-blue-400 mr-2">
-                        </i>
-                        <span class="w-1/3">
-                            Chipset
-                        </span>
-                        <span class="ml-auto w-2/3 text-right">
-                            Mediatek Dimensity 9300 (4 nm)
-                        </span>
+                <div class="mt-4 space-y-2">
+                    <div class="flex items-center">
+                        <i class="fas fa-microchip text-blue-400 mr-2"></i>
+                        <span class="w-1/3">Chipset</span>
+                        <span class="ml-auto w-2/3 text-right">Mediatek Dimensity 9300 (4 nm)</span>
                     </div>
-                    <div class="flex items-center mt-2">
-                        <i class="fas fa-memory text-blue-400 mr-2">
-                        </i>
-                        <span class="w-1/3">
-                            Memory
-                        </span>
-                        <span class="ml-auto w-2/3 text-right">
-                            16GB RAM, 512GB ROM
-                        </span>
+                    <div class="flex items-center">
+                        <i class="fas fa-memory text-blue-400 mr-2"></i>
+                        <span class="w-1/3">Memory</span>
+                        <span class="ml-auto w-2/3 text-right">16GB RAM, 512GB ROM</span>
                     </div>
-                    <div class="flex items-center mt-2">
-                        <i class="fas fa-battery-full text-blue-400 mr-2">
-                        </i>
-                        <span class="w-1/3">
-                            Battery
-                        </span>
-                        <span class="ml-auto w-2/3 text-right">
-                            5400 mAh
-                        </span>
+                    <div class="flex items-center">
+                        <i class="fas fa-battery-full text-blue-400 mr-2"></i>
+                        <span class="w-1/3">Battery</span>
+                        <span class="ml-auto w-2/3 text-right">5400 mAh</span>
                     </div>
-                    <div class="flex items-center mt-2">
-                        <i class="fas fa-tv text-blue-400 mr-2">
-                        </i>
-                        <span class="w-1/3">
-                            Display
-                        </span>
-                        <span class="ml-auto w-2/3 text-right">
-                            LTPO AMOLED, 1B colors, 120Hz, 3000 nits (peak)
-                        </span>
+                    <div class="flex items-center">
+                        <i class="fas fa-tv text-blue-400 mr-2"></i>
+                        <span class="w-1/3">Display</span>
+                        <span class="ml-auto w-2/3 text-right">LTPO AMOLED, 1B colors, 120Hz, 3000 nits (peak)</span>
                     </div>
-                    <div class="flex items-center mt-2">
-                        <i class="fas fa-camera text-blue-400 mr-2">
-                        </i>
-                        <span class="w-1/3">
-                            Camera
-                        </span>
-                        <span class="ml-auto w-2/3 text-right">
-                            50 MP, f/1.8, (wide), 50 MP, f/2.5, 100mm (periscope telephoto), 50 MP, f/2.0, 15mm, 119˚ (ultrawide)
-                        </span>
+                    <div class="flex items-center">
+                        <i class="fas fa-camera text-blue-400 mr-2"></i>
+                        <span class="w-1/3">Camera</span>
+                        <span class="ml-auto w-2/3 text-right">50 MP, f/1.8 (wide), 50 MP, f/2.5, 100mm (periscope telephoto), 50 MP, f/2.0, 15mm, 119˚ (ultrawide)</span>
                     </div>
-                    <div class="flex items-center mt-2">
-                        <i class="fas fa-cogs text-blue-400 mr-2">
-                        </i>
-                        <span class="w-1/3">
-                            OS
-                        </span>
-                        <span class="ml-auto w-2/3 text-right">
-                            Android 14, Funtouch OS 14 (International)
-                        </span>
+                    <div class="flex items-center">
+                        <i class="fas fa-cogs text-blue-400 mr-2"></i>
+                        <span class="w-1/3">OS</span>
+                        <span class="ml-auto w-2/3 text-right">Android 14, Funtouch OS 14 (International)</span>
                     </div>
                 </div>
             </div>
@@ -313,102 +273,109 @@
     </div>
 </section>
 
+
 <section class="summary">
-    <div class="ml-0 p-4" style="width:900px">
-        <div class="mt-6 border-t border-white-700 pt-4"></div>
-        <div class="bg-white-900 rounded-lg overflow-hidden">
-            <div class="flex">
-                <img src="<?= base_url('css/img/ke_x100.png') ?>" alt="Close-up of ZTE Blade A35 smartphone" class="w-1/2 h-auto" style="margin-left: 20px;" />
-                <div class="w-1/2 p-4">
-                    <h1 class="text-2xl font-bold">Review Vivo X100 Pro</h1>
+    <div class="max-w-3xl ml-3 p-4">
+        <div class="mt-6 border-t border-gray-700 pt-4"></div>
+        <div class="bg-gray-800 rounded-lg overflow-hidden">
+            <div class="flex flex-col md:flex-row">
+                <img
+                    src="<?= base_url('css/img/ke_x100.png') ?>"
+                    alt="Close-up of ZTE Blade A35 smartphone"
+                    class="w-full md:w-1/2 h-auto mx-auto md:ml-4"
+                    style="border-radius: 3%;" />
+                <div class="w-full md:w-1/2 p-4 flex flex-col justify-center">
+                    <h1 class="text-2xl font-bold text-white">Review Vivo X100 Pro</h1>
                     <div class="flex items-center justify-between mt-2">
                         <div class="text-4xl font-bold text-yellow-500">8.6</div>
                     </div>
                 </div>
             </div>
             <div class="p-4">
-                <div class="mt-4">
-                    <div class="flex items-center justify-between">
-                        <span class="text-lg">Design</span>
-                        <span class="text-lg">8</span>
-                    </div>
-                    <div class="h-2 bg-white-700 rounded-full mt-1">
-                        <div class="h-full bg-yellow-500 rounded-full" style="width: 87%;"></div>
-                    </div>
-                </div>
-                <div class="mt-4">
-                    <div class="flex items-center justify-between">
-                        <span class="text-lg">Display</span>
-                        <span class="text-lg">9</span>
-                    </div>
-                    <div class="h-2 bg-white-700 rounded-full mt-1">
-                        <div class="h-full bg-yellow-500 rounded-full" style="width: 86%;"></div>
-                    </div>
-                </div>
-                <div class="mt-4">
-                    <div class="flex items-center justify-between">
-                        <span class="text-lg">Camera</span>
-                        <span class="text-lg">9</span>
-                    </div>
-                    <div class="h-2 bg-white-700 rounded-full mt-1">
-                        <div class="h-full bg-yellow-500 rounded-full" style="width: 84%;"></div>
-                    </div>
-                </div>
-                <div class="mt-4">
-                    <div class="flex items-center justify-between">
-                        <span class="text-lg">Features</span>
-                        <span class="text-lg">8.2</span>
-                    </div>
-                    <div class="h-2 bg-white-700 rounded-full mt-1">
-                        <div class="h-full bg-yellow-500 rounded-full" style="width: 85%;"></div>
-                    </div>
-                </div>
-                <div class="mt-4">
-                    <div class="flex items-center justify-between">
-                        <span class="text-lg">Performance</span>
-                        <span class="text-lg">8.8</span>
-                    </div>
-                    <div class="h-2 bg-white-700 rounded-full mt-1">
-                        <div class="h-full bg-yellow-500 rounded-full" style="width: 85%;"></div>
-                    </div>
-                </div>
-                <div class="mt-4">
-                    <div class="flex items-center justify-between">
-                        <span class="text-lg">Battery</span>
-                        <span class="text-lg">8.7</span>
-                    </div>
-                    <div class="h-2 bg-white-700 rounded-full mt-1">
-                        <div class="h-full bg-yellow-500 rounded-full" style="width: 87%;"></div>
-                    </div>
-                </div>
-                <div class="mt-6 border-t border-white-700 pt-4">
-                    <div class="flex">
-                        <div class="w-1/2">
-                            <h2 class="text-xl font-bold mb-2"><i class="fas fa-thumbs-up text-green-500"></i> Good Stuff</h2>
-                            <ul class="list-disc list-inside">
-                                <li>Kualitas fotografi jempolan</li>
-                                <li>Harga sudah turun</li>
-                                <li>Baterai besar dengan kecepatan pengisian daya instan</li>
-                                <li>Performa Ngegas</li>
-                            </ul>
+                <!-- Progress bars with ratings -->
+                <div class="space-y-4">
+                    <div>
+                        <div class="flex items-center justify-between">
+                            <span class="text-lg text-white">Design</span>
+                            <span class="text-lg text-white">8</span>
                         </div>
-                        <div class="w-1/2">
-                            <h2 class="text-xl font-bold mb-2"><i class="fas fa-thumbs-down text-red-500"></i> Bad Stuff</h2>
-                            <ul class="list-disc list-inside">
-                                <li>Fitur AI minim</li>
-                                <li>Jaminan pembaruan OS tergolong singkat</li>
-                                <li>Kemampuan zoom pada mode video belum sempurna</li>
-                                <li>Generasi baru siap debut</li>
-                            </ul>
+                        <div class="h-2 bg-gray-700 rounded-full mt-1">
+                            <div class="h-full bg-yellow-500 rounded-full" style="width: 87%;"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="flex items-center justify-between">
+                            <span class="text-lg text-white">Display</span>
+                            <span class="text-lg text-white">9</span>
+                        </div>
+                        <div class="h-2 bg-gray-700 rounded-full mt-1">
+                            <div class="h-full bg-yellow-500 rounded-full" style="width: 86%;"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="flex items-center justify-between">
+                            <span class="text-lg text-white">Camera</span>
+                            <span class="text-lg text-white">9</span>
+                        </div>
+                        <div class="h-2 bg-gray-700 rounded-full mt-1">
+                            <div class="h-full bg-yellow-500 rounded-full" style="width: 84%;"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="flex items-center justify-between">
+                            <span class="text-lg text-white">Features</span>
+                            <span class="text-lg text-white">8.2</span>
+                        </div>
+                        <div class="h-2 bg-gray-700 rounded-full mt-1">
+                            <div class="h-full bg-yellow-500 rounded-full" style="width: 85%;"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="flex items-center justify-between">
+                            <span class="text-lg text-white">Performance</span>
+                            <span class="text-lg text-white">8.8</span>
+                        </div>
+                        <div class="h-2 bg-gray-700 rounded-full mt-1">
+                            <div class="h-full bg-yellow-500 rounded-full" style="width: 85%;"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="flex items-center justify-between">
+                            <span class="text-lg text-white">Battery</span>
+                            <span class="text-lg text-white">8.7</span>
+                        </div>
+                        <div class="h-2 bg-gray-700 rounded-full mt-1">
+                            <div class="h-full bg-yellow-500 rounded-full" style="width: 87%;"></div>
                         </div>
                     </div>
                 </div>
-                <div class="mt-6 border-t border-white-700 pt-4">
-                    <h2 class="text-xl font-bold">Summary</h2>
-                    <p class="mt-2">vivo X100 Pro sangat menggoda dengan kombinasi sensor, kolaborasi ZEISS, dan cip V3 eksklusif yang memberikan pengalaman fotografi next-level. Sayangnya hadir resmi cukup terlambat, meski harganya saat ini sudah turun cukup jauh.</p>
+                <!-- Good stuff / Bad stuff section -->
+                <div class="mt-6 border-t border-gray-700 pt-4 flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
+                    <div class="w-full md:w-1/2">
+                        <h2 class="text-xl font-bold mb-2 text-green-500"><i class="fas fa-thumbs-up"></i> Good Stuff</h2>
+                        <ul class="list-disc list-inside text-white">
+                            <li>Kualitas fotografi jempolan</li>
+                            <li>Harga sudah turun</li>
+                            <li>Baterai besar dengan kecepatan pengisian daya instan</li>
+                            <li>Performa Ngegas</li>
+                        </ul>
+                    </div>
+                    <div class="w-full md:w-1/2">
+                        <h2 class="text-xl font-bold mb-2 text-red-500"><i class="fas fa-thumbs-down"></i> Bad Stuff</h2>
+                        <ul class="list-disc list-inside text-white">
+                            <li>Fitur AI minim</li>
+                            <li>Jaminan pembaruan OS tergolong singkat</li>
+                            <li>Kemampuan zoom pada mode video belum sempurna</li>
+                            <li>Generasi baru siap debut</li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Summary -->
+                <div class="mt-6 border-t border-gray-700 pt-4">
+                    <h2 class="text-xl font-bold text-white">Summary</h2>
+                    <p class="mt-2 text-gray-300">vivo X100 Pro sangat menggoda dengan kombinasi sensor, kolaborasi ZEISS, dan cip V3 eksklusif yang memberikan pengalaman fotografi next-level. Sayangnya hadir resmi cukup terlambat, meski harganya saat ini sudah turun cukup jauh.</p>
                 </div>
             </div>
-            <div class="mt-6 border-t border-white-700 pt-4"></div>
         </div>
     </div>
 </section>
