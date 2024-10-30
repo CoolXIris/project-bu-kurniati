@@ -304,7 +304,7 @@
                                     SMARTPHONE
                                 </span>
                             </div>
-                            <a href="">
+                            <a href="<?= base_url('page/zte_blade') ?>">
                                 <h2 class="text-xl font-bold">
                                     Review ZTE Blade A35: Nggak Sampai Sejuta, Bawa Gimmick Menarik
                                 </h2>
@@ -337,7 +337,7 @@
                                     REVIEW
                                 </span>
                             </div>
-                            <a href="">
+                            <a href="<?= base_url('page/oppo_reno12f') ?>">
                                 <h2 class="text-xl font-bold">
                                     Review OPPO Reno12F 5G: Smartphone Stylish Tahan Banting
                                 </h2>
@@ -373,7 +373,7 @@
                                     SMARTPHONE
                                 </span>
                             </div>
-                            <a href="">
+                            <a href="<?= base_url('page/realme_13pro') ?>">
                                 <h2 class="text-xl font-bold">
                                     Review realme 13 Pro+ 5G: Ketika Algoritma AI & Sensor Sony LYTIA Bersinergi
                                 </h2>
@@ -406,7 +406,7 @@
                                     REVIEW
                                 </span>
                             </div>
-                            <a href="">
+                            <a href="<?= base_url('page/gal_wtch7') ?>">
                                 <h2 class="text-xl font-bold">
                                     Review Samsung Galaxy Watch7: Makin Pintar dengan AI
                                 </h2>
@@ -439,7 +439,7 @@
                     <div class="bg-gray-800 p-4 rounded-lg flex flex-col md:flex-row">
                         <img alt="Lenovo Yoga Book 9i (2024) laptop with dual screens" class="rounded-lg mb-4 md:mb-0" height="100" src="https://storage.googleapis.com/a1aa/image/g5aliXRfjP3tKaASfe4Sla1lPAumfeB6kHK9sSNXcwzisGtcC.jpg" width="150" />
                         <div class="md:ml-4">
-                            <a href="">
+                            <a href="<?= base_url('page/len_yoga9i') ?>">
                                 <h2 class="text-lg font-bold mb-2">
                                     Review Lenovo Yoga Book 9i (2024): Laptop Dua Layar Untuk Produktivitas Maksimal
                                 </h2>
@@ -460,7 +460,7 @@
                     <div class="bg-gray-800 p-4 rounded-lg flex flex-col md:flex-row">
                         <img alt="iPad Air M2 13 inch with large screen" class="rounded-lg mb-4 md:mb-0" height="100" src="https://storage.googleapis.com/a1aa/image/VwCiCPJpMM4rGVrnFg8If1pcaYfyrpqjeEEBMFbrAThOrRLnA.jpg" width="150" />
                         <div class="md:ml-4">
-                            <a href="">
+                            <a href="<?= base_url('page/ipad_m2') ?> ">
                                 <h2 class="text-lg font-bold mb-2">
                                     Review iPad Air M2 13 Inci: Layar Lega, Bisa Gantikan Laptop?
                                 </h2>
@@ -481,7 +481,7 @@
                     <div class="bg-gray-800 p-4 rounded-lg flex flex-col md:flex-row">
                         <img alt="realme 13 smartphone with camera and gaming performance" class="rounded-lg mb-4 md:mb-0" height="100" src="https://storage.googleapis.com/a1aa/image/TseTZnUs291db6U1JcnIrs1rmmiPOr5Zzc1SxQwh0tpya0yJA.jpg" width="150" />
                         <div class="md:ml-4">
-                            <a href="">
+                            <a href="<?= base_url('page/realme13') ?>">
                                 <h2 class="text-lg font-bold mb-2">
                                     Review realme 13: Gabungkan Kamera &amp; Performa Gaming Optimal di Kelasnya
                                 </h2>

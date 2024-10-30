@@ -1,8 +1,10 @@
-<?php namespace App\Controllers;
+<?php
 
-class Page extends BaseController 
+namespace App\Controllers;
+
+class Page extends BaseController
 {
-    public function review() 
+    public function review()
     {
         return view('review', ['activePage' => 'review']);
     }
@@ -66,6 +68,28 @@ class Page extends BaseController
     {
         return view('page/diablo_iv');
     }
-    
+    public function realme13()
+    {
+        return view('page/realme13');
+    }
+    public function realme_13pro()
+    {
+        return view('page/realme_13pro');
+    }
+    public function ipad_m2()
+    {
+        return view('page/ipad_m2');
+    }
+    public function oppo_reno12f()
+    {
+        return view('page/oppo_reno12f');
+    }
+    public function len_yoga9i()
+    {
+        return view('page/len_yoga9i');
+    }
+    public function gal_wtch7()
+    {
+        return view('page/gal_wtch7');
+    }
 }
-?>
