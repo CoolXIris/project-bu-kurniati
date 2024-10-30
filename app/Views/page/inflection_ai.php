@@ -25,7 +25,7 @@
                         </p>
                     </div>
                 </div>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/infle_ai.jpeg') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/infle_ai.jpeg') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">
                     <span class="font-bold">
                         GadgetGlimpse
@@ -37,7 +37,7 @@
 
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Keunggulan Desain dan Kinerja AI Inflection for Enterprise</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/infle_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/infle_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Inflection AI for Enterprise didesain untuk menawarkan kemampuan AI yang ramah pengguna, memudahkan kolaborasi antara karyawan dengan AI. Pengalaman ini diperkuat dengan kemampuan AI yang dikembangkan menggunakan model Inflection 3.0, yang secara khusus ditargetkan untuk lingkungan enterprise. Dengan ini, perusahaan tidak hanya mendapatkan AI yang pintar, tetapi juga yang sesuai dengan tone dan budaya internal mereka.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Sistem ini juga didukung oleh Intel Gaudi 3 yang menawarkan harga dan kinerja yang optimal. Menurut hasil pengukuran, Gaudi 3 memberikan performa dua kali lebih baik dalam hal harga per watt dibandingkan dengan GPU kompetitor seperti NVIDIA H100. Hal ini memungkinkan perusahaan untuk menekan biaya implementasi AI sambil tetap mendapatkan performa tinggi yang dibutuhkan untuk pelatihan dan pengembangan model AI yang kompleks.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Selain itu, perusahaan dapat menggunakan teknologi ini di berbagai lingkungan, baik itu cloud, on-premise, atau hybrid. Fleksibilitas ini sangat penting bagi perusahaan yang ingin mengontrol sepenuhnya infrastruktur AI mereka, sekaligus memastikan data perusahaan tetap aman dan terlindungi.</p>
@@ -48,8 +48,8 @@
                 <p class="text-white-300 mb-4" style="text-align: justify;">Inflection for Enterprise juga memanfaatkan teknologi Reinforcement Learning from Human Feedback (RLHF) untuk memastikan AI dapat memberikan hasil yang konsisten dan relevan dengan kebutuhan perusahaan. Dengan RLHF, AI terus belajar dari interaksi dengan pengguna, meningkatkan performa dan akurasi dari waktu ke waktu, dan memberikan solusi yang lebih tepat dan sesuai dengan ekspektasi perusahaan.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Secara keseluruhan, kolaborasi antara Inflection AI dan Intel melalui Inflection for Enterprise memberikan solusi AI yang komprehensif dan terjangkau untuk perusahaan. Sistem ini memungkinkan perusahaan untuk memanfaatkan AI canggih tanpa harus berinvestasi besar dalam infrastruktur atau keahlian teknis yang mendalam.</p>
             </div>
-            <div class="lg:w-1/3 lg:pl-8 sticky">
-                <div class="mb-8">
+            <div class="lg:w-1/3 lg:pl-8">
+                <div class="sticky top-4 mb-8">
                     <h2 class="text-xl font-bold mb-4 border-b border-pink-600 pb-2">
                         Latest Stories
                     </h2>
@@ -97,53 +97,53 @@
                             </p>
                         </div>
                     </div>
-                </div>
-                <div>
-                    <h2 class="text-xl font-bold mb-4 border-b border-pink-600 pb-2">
-                        Latest Review
-                    </h2>
-                    <div class="flex items-center mb-4">
-                        <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
-                        <div>
-                            <p class="font-bold">
-                                Review ZTE Blade A35: Nggak Sampai Sejuta, Bawa Gimmick Menarik
-                            </p>
-                            <p class="text-white-400">
-                                Review
-                            </p>
+                    <div>
+                        <h2 class="text-xl font-bold mb-4 border-b border-pink-600 pb-2">
+                            Latest Review
+                        </h2>
+                        <div class="flex items-center mb-4">
+                            <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
+                            <div>
+                                <p class="font-bold">
+                                    Review ZTE Blade A35: Nggak Sampai Sejuta, Bawa Gimmick Menarik
+                                </p>
+                                <p class="text-white-400">
+                                    Review
+                                </p>
+                            </div>
                         </div>
-                    </div>
-                    <div class="flex items-center mb-4">
-                        <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
-                        <div>
-                            <p class="font-bold">
-                                Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
-                            </p>
-                            <p class="text-white-400">
-                                Review
-                            </p>
+                        <div class="flex items-center mb-4">
+                            <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
+                            <div>
+                                <p class="font-bold">
+                                    Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
+                                </p>
+                                <p class="text-white-400">
+                                    Review
+                                </p>
+                            </div>
                         </div>
-                    </div>
-                    <div class="flex items-center mb-4">
-                        <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
-                        <div>
-                            <p class="font-bold">
-                                Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
-                            </p>
-                            <p class="text-white-400">
-                                Review
-                            </p>
+                        <div class="flex items-center mb-4">
+                            <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
+                            <div>
+                                <p class="font-bold">
+                                    Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
+                                </p>
+                                <p class="text-white-400">
+                                    Review
+                                </p>
+                            </div>
                         </div>
-                    </div>
-                    <div class="flex items-center mb-4">
-                        <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
-                        <div>
-                            <p class="font-bold">
-                                Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
-                            </p>
-                            <p class="text-white-400">
-                                Review
-                            </p>
+                        <div class="flex items-center mb-4">
+                            <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
+                            <div>
+                                <p class="font-bold">
+                                    Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
+                                </p>
+                                <p class="text-white-400">
+                                    Review
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>

@@ -61,8 +61,8 @@
                 <p class="text-white-300 mb-4" style="text-align: justify;">Ekspansi ini memperkenalkan wilayah baru bernama Nahantu, sebuah hutan rimba yang dipenuhi dengan dungeon, benteng, dan musuh baru. Pemain dapat menjelajahi lokasi yang terinspirasi dari Kurast di Diablo II, sambil merekrut sekutu kuat berupa tentara bayaran. Tentara bayaran ini memiliki kemampuan unik dan alur cerita pribadi, menambah kedalaman strategi dalam pertempuran. Selain itu, terdapat aktivitas The Dark Citadel, sebuah konten akhir permainan yang menantang pemain untuk bekerja sama dan menyelesaikan dungeon yang kompleks dengan bos yang berbahaya​.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Salah satu fitur paling menarik dari The Vessel of Hatred adalah diperkenalkannya kelas baru bernama Spiritborn. Kelas ini berfokus pada kelincahan dan seni bela diri, serta memiliki kekuatan mistis yang berasal dari empat penjaga roh. Penjaga-penjaga ini—Jaguar, Elang, Gorilla, dan Kelabang, sehingga menawarkan gaya permainan yang berbeda, mulai dari kecepatan serangan dan mobilitas hingga pertahanan dan kontrol massa. Kelas baru ini menambah dinamika pertempuran yang cepat dan agresif bagi pemain yang menyukai gaya bermain yang ofensif​.</p>
             </div>
-            <div class="lg:w-1/3 lg:pl-8 sticky">
-                <div class="mb-8">
+            <div class="lg:w-1/3 lg:pl-8">
+                <div class="sticky top-4 mb-8">
                     <h2 class="text-xl font-bold mb-4 border-b border-pink-600 pb-2">
                         Latest Stories
                     </h2>
@@ -110,53 +110,53 @@
                             </p>
                         </div>
                     </div>
-                </div>
-                <div>
-                    <h2 class="text-xl font-bold mb-4 border-b border-pink-600 pb-2">
-                        Latest Review
-                    </h2>
-                    <div class="flex items-center mb-4">
-                        <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
-                        <div>
-                            <p class="font-bold">
-                                Review ZTE Blade A35: Nggak Sampai Sejuta, Bawa Gimmick Menarik
-                            </p>
-                            <p class="text-white-400">
-                                Review
-                            </p>
+                    <div>
+                        <h2 class="text-xl font-bold mb-4 border-b border-pink-600 pb-2">
+                            Latest Review
+                        </h2>
+                        <div class="flex items-center mb-4">
+                            <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
+                            <div>
+                                <p class="font-bold">
+                                    Review ZTE Blade A35: Nggak Sampai Sejuta, Bawa Gimmick Menarik
+                                </p>
+                                <p class="text-white-400">
+                                    Review
+                                </p>
+                            </div>
                         </div>
-                    </div>
-                    <div class="flex items-center mb-4">
-                        <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
-                        <div>
-                            <p class="font-bold">
-                                Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
-                            </p>
-                            <p class="text-white-400">
-                                Review
-                            </p>
+                        <div class="flex items-center mb-4">
+                            <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
+                            <div>
+                                <p class="font-bold">
+                                    Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
+                                </p>
+                                <p class="text-white-400">
+                                    Review
+                                </p>
+                            </div>
                         </div>
-                    </div>
-                    <div class="flex items-center mb-4">
-                        <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
-                        <div>
-                            <p class="font-bold">
-                                Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
-                            </p>
-                            <p class="text-white-400">
-                                Review
-                            </p>
+                        <div class="flex items-center mb-4">
+                            <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
+                            <div>
+                                <p class="font-bold">
+                                    Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
+                                </p>
+                                <p class="text-white-400">
+                                    Review
+                                </p>
+                            </div>
                         </div>
-                    </div>
-                    <div class="flex items-center mb-4">
-                        <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
-                        <div>
-                            <p class="font-bold">
-                                Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
-                            </p>
-                            <p class="text-white-400">
-                                Review
-                            </p>
+                        <div class="flex items-center mb-4">
+                            <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
+                            <div>
+                                <p class="font-bold">
+                                    Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
+                                </p>
+                                <p class="text-white-400">
+                                    Review
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>

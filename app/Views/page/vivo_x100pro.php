@@ -112,8 +112,8 @@
                 <p class="text-white-300 mb-4" style="text-align: justify;">Pun kalau dirasa masih terlalu mahal, ada vivo X100 yang hadir membawa kualitas sensor utama setara, dan sensor periskop yang sama persis, juga bisa menjadi alternatif bila Gizmo friends benar-benar menginginkan kualitas foto terbaik. Semoga generasi berikutnya bisa hadir lebih cepat dari pengenalan perdana di negara asal maupun global, agar konsumen bisa menjajal kehebatan flagship vivo dalam waktu yang lebih cepat.</p>
 
             </div>
-            <div class="lg:w-1/3 lg:pl-8 sticky">
-                <div class="mb-8">
+            <div class="lg:w-1/3 lg:pl-8">
+                <div class="sticky top-4 mb-8">
                     <h2 class="text-xl font-bold mb-4 border-b border-pink-600 pb-2">
                         Latest Stories
                     </h2>
@@ -161,53 +161,53 @@
                             </p>
                         </div>
                     </div>
-                </div>
-                <div>
-                    <h2 class="text-xl font-bold mb-4 border-b border-pink-600 pb-2">
-                        Latest Review
-                    </h2>
-                    <div class="flex items-center mb-4">
-                        <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
-                        <div>
-                            <p class="font-bold">
-                                Review ZTE Blade A35: Nggak Sampai Sejuta, Bawa Gimmick Menarik
-                            </p>
-                            <p class="text-white-400">
-                                Review
-                            </p>
+                    <div>
+                        <h2 class="text-xl font-bold mb-4 border-b border-pink-600 pb-2">
+                            Latest Review
+                        </h2>
+                        <div class="flex items-center mb-4">
+                            <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
+                            <div>
+                                <p class="font-bold">
+                                    Review ZTE Blade A35: Nggak Sampai Sejuta, Bawa Gimmick Menarik
+                                </p>
+                                <p class="text-white-400">
+                                    Review
+                                </p>
+                            </div>
                         </div>
-                    </div>
-                    <div class="flex items-center mb-4">
-                        <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
-                        <div>
-                            <p class="font-bold">
-                                Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
-                            </p>
-                            <p class="text-white-400">
-                                Review
-                            </p>
+                        <div class="flex items-center mb-4">
+                            <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
+                            <div>
+                                <p class="font-bold">
+                                    Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
+                                </p>
+                                <p class="text-white-400">
+                                    Review
+                                </p>
+                            </div>
                         </div>
-                    </div>
-                    <div class="flex items-center mb-4">
-                        <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
-                        <div>
-                            <p class="font-bold">
-                                Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
-                            </p>
-                            <p class="text-white-400">
-                                Review
-                            </p>
+                        <div class="flex items-center mb-4">
+                            <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
+                            <div>
+                                <p class="font-bold">
+                                    Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
+                                </p>
+                                <p class="text-white-400">
+                                    Review
+                                </p>
+                            </div>
                         </div>
-                    </div>
-                    <div class="flex items-center mb-4">
-                        <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
-                        <div>
-                            <p class="font-bold">
-                                Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
-                            </p>
-                            <p class="text-white-400">
-                                Review
-                            </p>
+                        <div class="flex items-center mb-4">
+                            <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
+                            <div>
+                                <p class="font-bold">
+                                    Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
+                                </p>
+                                <p class="text-white-400">
+                                    Review
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>

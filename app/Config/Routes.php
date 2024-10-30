@@ -22,5 +22,9 @@ $routes->get('/page/tv_samsung', 'Page::tv_samsung');
 $routes->get('/page/oppo_campus', 'Page::oppo_campus');
 $routes->get('/page/robotaxi', 'Page::robotaxi');
 $routes->get('/page/permata_me', 'Page::permata_me');
-
-
+$routes->get('/page/realme13', 'Page::realme13');
+$routes->get('/page/realme_13pro', 'Page::realme_13pro');
+$routes->get('/page/ipad_m2', 'Page::ipad_m2');
+$routes->get('/page/oppo_reno12f', 'Page::oppo_reno12f');
+$routes->get('/page/len_yoga9i', 'Page::len_yoga9i');
+$routes->get('/page/gal_wtch7', 'Page::gal_wtch7');

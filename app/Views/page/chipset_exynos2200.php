@@ -55,8 +55,8 @@
                 <p class="text-white-300 mb-4" style="text-align: justify;">Cip Dimensity 7300 membawa NPU generasi keenam dari MediaTek, yakni seri 655. Sementara Exynos 2200, walaupun rilis awal 2022, sudah mengusung NPU yang cukup powerful dengan DSP khusus dan arsitektur dual-core. Mengutip hasil tes Geekbench AI, rerata skor yang dihasilkan dari smartphone dengan Dimensity 7300 mencapai 564 poin untuk single precision, dan 562 untuk half precision.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Sementara untuk variabel tes AI yang sama, Samsung Galaxy S23 FE dengan Exynos 2200, bisa hasilkan skor masing-masing 1106 dan 1246, alias dua kali lipat lebih tinggi. Tidak mengagetkan, mengingat baik Galaxy S22 dan S23 FE, sudah mendapatkan sejumlah fitur Galaxy AI terbaru. Meski Dimensity 7300 juga hadir dengan kemampuan AI yang tak kalah oke, debut lewat smartphone yang membawa banyak fitur AI seperti OPPO Reno12 Series di Indonesia.</p>
             </div>
-            <div class="lg:w-1/3 lg:pl-8 sticky">
-                <div class="mb-8">
+            <div class="lg:w-1/3 lg:pl-8">
+                <div class="sticky top-4 mb-8">
                     <h2 class="text-xl font-bold mb-4 border-b border-pink-600 pb-2">
                         Latest Stories
                     </h2>
@@ -104,53 +104,53 @@
                             </p>
                         </div>
                     </div>
-                </div>
-                <div>
-                    <h2 class="text-xl font-bold mb-4 border-b border-pink-600 pb-2">
-                        Latest Review
-                    </h2>
-                    <div class="flex items-center mb-4">
-                        <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
-                        <div>
-                            <p class="font-bold">
-                                Review ZTE Blade A35: Nggak Sampai Sejuta, Bawa Gimmick Menarik
-                            </p>
-                            <p class="text-white-400">
-                                Review
-                            </p>
+                    <div>
+                        <h2 class="text-xl font-bold mb-4 border-b border-pink-600 pb-2">
+                            Latest Review
+                        </h2>
+                        <div class="flex items-center mb-4">
+                            <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
+                            <div>
+                                <p class="font-bold">
+                                    Review ZTE Blade A35: Nggak Sampai Sejuta, Bawa Gimmick Menarik
+                                </p>
+                                <p class="text-white-400">
+                                    Review
+                                </p>
+                            </div>
                         </div>
-                    </div>
-                    <div class="flex items-center mb-4">
-                        <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
-                        <div>
-                            <p class="font-bold">
-                                Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
-                            </p>
-                            <p class="text-white-400">
-                                Review
-                            </p>
+                        <div class="flex items-center mb-4">
+                            <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
+                            <div>
+                                <p class="font-bold">
+                                    Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
+                                </p>
+                                <p class="text-white-400">
+                                    Review
+                                </p>
+                            </div>
                         </div>
-                    </div>
-                    <div class="flex items-center mb-4">
-                        <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
-                        <div>
-                            <p class="font-bold">
-                                Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
-                            </p>
-                            <p class="text-white-400">
-                                Review
-                            </p>
+                        <div class="flex items-center mb-4">
+                            <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
+                            <div>
+                                <p class="font-bold">
+                                    Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
+                                </p>
+                                <p class="text-white-400">
+                                    Review
+                                </p>
+                            </div>
                         </div>
-                    </div>
-                    <div class="flex items-center mb-4">
-                        <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
-                        <div>
-                            <p class="font-bold">
-                                Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
-                            </p>
-                            <p class="text-white-400">
-                                Review
-                            </p>
+                        <div class="flex items-center mb-4">
+                            <img alt="Thumbnail of the review" class="w-24 h-16 mr-4" height="60" src="https://storage.googleapis.com/a1aa/image/57JpYjF3TK6RIFqafr44NJ4Ox7AfxwSkUp2GJyzyLL1UEalTA.jpg" width="100" />
+                            <div>
+                                <p class="font-bold">
+                                    Review vivo X100 Pro: Hadir Belakangan, Kualitas Foto Jempolan
+                                </p>
+                                <p class="text-white-400">
+                                    Review
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>
