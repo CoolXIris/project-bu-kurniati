@@ -70,8 +70,8 @@
                 <!-- Main Article -->
                 <div class="md:col-span-2">
                     <div class="relative">
-                        <img alt="ZTE Blade A35 smartphone with its box" class="w-full h-auto rounded-lg" src="<?= base_url('css/img/ZTE-Blade-A35.jpg') ?>" style="width: 800px;height:615px;object-fit:cover" />
-                        <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent p-4 rounded-b-lg" style="width: 800px;">
+                        <img alt="ZTE Blade A35 smartphone with its box" class="w-full h-auto rounded-lg" src="<?= base_url('css/img/ZTE-Blade-A35.jpg') ?>" style="width: 800px;height:615px;object-fit:content" />
+                        <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent p-4 rounded-b-lg" style="width: auto;">
                             <div class="flex space-x-2 mb-2">
                                 <span class="bg-blue-600 text-white text-xs font-bold px-2 py-1 rounded">
                                     REVIEW
@@ -126,7 +126,7 @@
                 <div class="space-y-4">
                     <div class="relative">
                         <img alt="Comparison of Exynos 2200 and Dimensity 7300 chipsets" class="w-full h-auto rounded-lg" height="200" src="https://storage.googleapis.com/a1aa/image/HZrTybHugZa2BhoRqB77xQ0ppH2SO3JMTmslFZlVkkDV7Z5E.jpg" width="400" style="width: 400px;height:300px" />
-                        <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent p-4 rounded-b-lg" style="width: 400px;">
+                        <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent p-4 rounded-b-lg" style="width: auto;">
                             <span class="bg-pink-600 text-white text-xs font-bold px-2 py-1 rounded">
                                 VERSUS
                             </span>
@@ -150,7 +150,7 @@
                     </div>
                     <div class="relative">
                         <img alt="vivo X100 Pro smartphone" class="w-full h-auto rounded-lg" height="200" src="https://storage.googleapis.com/a1aa/image/mLkdx29CFK6PE9sgtOZ8odC5T4kafUajAjZUxfdlKHDRtnlTA.jpg" width="400" style="width: 400px;height:300px" />
-                        <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent p-4 rounded-b-lg" style="width: 400px;">
+                        <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent p-4 rounded-b-lg" style="width: auto;">
                             <div class="flex space-x-2 mb-2">
                                 <span class="bg-blue-600 text-white text-xs font-bold px-2 py-1 rounded">
                                     REVIEW
