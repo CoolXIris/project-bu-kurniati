@@ -1,23 +1,11 @@
 body {
   background-color: #191c20;
   margin: 0;
-  padding: 200px;
+  padding: 140px;
   padding-top: 18px;
-}
-.hero-upper {
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-  margin-bottom: 10px;
-}
-
-.hero-upper h2,
-.hero-upper p {
-  margin: 0;
-  padding: 0;
-  line-height: 1; /* Menyesuaikan spasi antar-teks */
-  color: white;
-  font-style: bold;
+  padding-bottom: 0;
+  font-family: Arial, sans-serif;
+  color: #fff;
 }
 
 /* Navbar section */
@@ -85,14 +73,16 @@ body {
 /* Mengatur tata letak news-preview menjadi flexbox */
 .news-preview {
   display: flex;
-  gap: 10px; /* Jarak antar mini card */
+  gap: 30px; /* Jarak antar mini card */
   position: absolute; /* Agar bisa muncul tepat di bawah navbar */
   top: 100%; /* Posisi di bawah navbar */
   left: 0;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-left: 150px;
   background-color: #191c20; /* Background untuk preview */
   padding: 10px;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Sedikit shadow untuk efek */
-  border: 1px solid #ccc; /* Garis pembatas */
   z-index: 100; /* Pastikan berada di atas elemen lain */
   visibility: hidden; /* Awalnya tersembunyi */
   opacity: 0; /* Tidak terlihat */
@@ -145,7 +135,7 @@ body {
 /* Styling untuk headline mini */
 .headline-mini {
   font-size: 14px;
-  color: #ff184e;
+  color: #fff;
   text-decoration: none;
   margin: 10px 0 5px;
   font-weight: bold;
@@ -153,6 +143,12 @@ body {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis; /* Agar judul panjang tidak terlalu melar */
+}
+
+.headline-mini:hover {
+  color: #ff184e;
+  box-shadow: #ccc;
+  transition: all ease 0.5ms;
 }
 
 /* Styling untuk deskripsi mini */
@@ -166,6 +162,7 @@ body {
   font-size: 11px;
   color: #aaaaaa;
   margin-top: 5px;
+  position: relative;
 }
 /* Styling untuk rating pada mini card */
 .rating-mini {
@@ -204,23 +201,27 @@ body {
 }
 
 /* About Section */
+
 .about {
   display: flex;
   flex-direction: row;
   padding: 45px;
-  gap: 260px;
+  gap: 50px;
   padding-right: 65px;
 }
 .about .text-about {
-  display: flex;
+  display: inline;
+  position: relative;
   flex-direction: column;
   column-gap: 10px;
 }
 .about .img-about {
-  justify-content: center;
-  align-items: center;
   position: relative;
   display: inline-block;
+}
+
+.about-text {
+  font-size: 17px;
 }
 
 img {
@@ -229,6 +230,7 @@ img {
   border-radius: 5px;
   box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); /* Blur shadow di sekitar gambar */
   position: relative;
+  display: inline;
 }
 
 /* Efek refleksi buram di bawah gambar */
@@ -344,16 +346,16 @@ img {
 
 /* Nama penulis */
 .author {
+  position: relative;
   font-size: 12px;
   font-style: italic;
   color: #fff;
-  position: absolute;
   margin-top: 23%;
 }
 
 /* Rating */
 .rating {
-  position: absolute;
+  position: relative;
   margin-top: 23%;
   font-size: 11px;
   color: white;

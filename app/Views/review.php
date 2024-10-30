@@ -1,52 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gadget Glimpse | Review Gadget, Laptop, News Site</title>
-    <link href="<?= base_url('css/bootstrap.min.css') ?>" rel="stylesheet">
-    <link href="<?= base_url('css/page/home.css') ?>" rel="stylesheet">
-</head>
-<body>
+<?= $this->extend('layout/content_layout')?>
 
-    <!-- hero section -->
-    <div class="hero-upper">
-        <h2>Gadget Glimpse</h2><br>
-        <p style="font-size: small;">Review and News Around Technology</p>
-    </div>
-
-    <!-- Navbar Section -->
-    <nav class="navbar bg-body-tertiary">
-    <div class="container-fluid" style="justify-content: center;">
-        <a class="navbar-brand" href="<?= base_url('news')?>">News</a>
-        <a class="navbar-brand active" href="<?= base_url('review')?>">Review</a>
-        <a class="navbar-brand" href="<?= base_url('gadget')?>">Gadget</a>
-        <a class="navbar-brand" href="<?= base_url('laptop')?>">Laptop</a>
-        <li class="nav-item dropdown" style="margin-bottom:18px;">
-            <a class="navbar-brand dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Dropdown
-            </a>
-            <ul class="dropdown-menu dropdown-menu-dark">
-                <li><a class="dropdown-item" href="<?= base_url('rekomendasi') ?>">Rekomendasi</a></li>
-                <li><a class="dropdown-item" href="<?= base_url('speedtest')?>">Speed Test</a></li>
-                <li><a class="dropdown-item" href="<?= base_url('tips')?>">Tips</a></li>
-            </ul>
-        </li>
-    </div>
-    </nav>
+<?= $this->section('content') ?>
 
     <!-- About Section -->
-    <div class="about">
+    <section class="about">
+    <div class="about" style="padding:5px;">
         <div class="text-about">
-            <p style="font-size: 13px;color:white">GadgetGlimpse > <span style="color: #ff184e;">Review</span></p>
-            <h2 style="color: white; margin-bottom:25px">Review</h2>
+            <p style="font-size: 17px;color:white;margin-bottom:28px">GadgetGlimpse > <span style="color: #ff184e;">Review</span></p>
+            <h2 style="color: white; margin-bottom:25px; font-size:29px">Review</h2>
             <p style="color: white;">GadgetGlimpse adalah media gadget & teknologi yang menyajikan review produk gadget terlengkap. Mulai dari smartphone, laptop, kamera, wearable devices (jam pintar dll).</p>
             <p style="color: white;">Review menjadi kanal unggulan dari GadgetGlimpse, yang mengulas produk secara mendalam dari berbagai aspek. Seperti desain, layar, kamera, fitur, performa, baterai, dan sebagainya. Termasuk spesifikasi, harga, kelebihan, dan kekurangan dari setiap produk. Sehingga pembaca bisa mendapatkan gambaran yang lebih utuh sebelum memutuskan untuk membeli gadget yang diinginkan.</p>
         </div>
         <div class="image-about">
-            <img src="<?= base_url('css/img/review.jpeg')?>" class="rounded mx-auto d-block" alt="news">
+            <img src="<?= base_url('css/img/review.jpeg')?>" class="rounded mx-auto d-block" alt="news" style="height: 300px;width:500px">
         </div>
     </div>
+    </section>
 
     <!-- Content Section -->
     <h3 style="margin-left: 50px;margin-top:40px;color:white;"><span style="color: #0ba3e3;">/</span> Latest Reviews <span style="color: #0ba3e3;">/</span></h3>
@@ -71,8 +40,7 @@
             <p class="description">Cantik dan tahan banting. Berikut review OPPO Reno 12F 5G selengkapnya.</p>
             <div class="rating">
             ⭐⭐⭐⭐⭐ | 9 out of 10
-            </div>
-            
+            </div> 
         </div>
         <div class="news-card">
             <div class="image-container">
@@ -84,7 +52,6 @@
             <div class="rating">
             ⭐⭐⭐⭐⭐ | 7.8 out of 10
             </div>
-            
         </div>
         <div class="news-card">
             <div class="image-container">
@@ -96,7 +63,6 @@
             <div class="rating">
             ⭐⭐⭐⭐⭐ | 8.7 out of 10
             </div>
-            
         </div>
         <div class="news-card">
             <div class="image-container">
@@ -108,7 +74,6 @@
             <div class="rating">
             ⭐⭐⭐⭐⭐ | 8.8 out of 10
             </div>
-            
         </div>
         <div class="news-card">
             <div class="image-container">
@@ -120,7 +85,6 @@
             <div class="rating">
             ⭐⭐⭐⭐⭐ | 8.5 out of 10
             </div>
-            
         </div>
         <div class="news-card">
             <div class="image-container">
@@ -132,7 +96,6 @@
             <div class="rating">
             ⭐⭐⭐⭐⭐ | 8.6 out of 10
             </div>
-            
         </div>
         <div class="news-card">
             <div class="image-container">
@@ -143,8 +106,7 @@
             <p class="description">Murah tapi berkualitas? Berikut review realme Buds T110!</p>
             <div class="rating">
             ⭐⭐⭐⭐⭐ | 8.6 out of 10
-            </div>
-            
+            </div> 
         </div>
         <div class="news-card">
             <div class="image-container">
@@ -156,7 +118,6 @@
             <div class="rating">
             ⭐⭐⭐⭐⭐ | 8.3 out of 10
             </div>
-            
         </div>
 
     <!-- Tambahkan card lain sesuai kebutuhan -->
@@ -181,7 +142,4 @@
         </nav>
     </div>
 
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
-</body>
-</html>
+<?= $this->endSection()?>
