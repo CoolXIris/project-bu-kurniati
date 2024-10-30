@@ -297,7 +297,7 @@
                     <div>
                         <div class="flex items-center justify-between">
                             <span class="text-lg text-white">Design</span>
-                            <span class="text-lg text-white">8.8</span>
+                            <span class="text-lg text-white">8.7</span>
                         </div>
                         <div class="h-2 bg-gray-700 rounded-full mt-1">
                             <div class="h-full bg-yellow-500 rounded-full" style="width: 87%;"></div>
