@@ -206,6 +206,7 @@
         <div class="image-about">
             <img src="<?= base_url('css/img/News.jpeg') ?>" class="rounded mx-auto d-block" alt="news">
         </div>
+        ';/L0.L
     </div>
 
     <!-- Content Section -->

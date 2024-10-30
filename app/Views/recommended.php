@@ -269,8 +269,8 @@
                 <img src="<?= base_url('css/img/Samsung-Galaxy-A16.jpeg') ?>" alt="News Image">
                 <span class="badge-bottom-left">HARGA TECNO SPARK 2O PRO+</span>
             </div>
-            <a href="#" class="head_line">Ini 5 kelebihan tecno spark 20 pro+,segudang fitur harga2 jutaan</a>
-            <p class="description">dengan segudang fitur-fitur , kelebihan TECNO SPARK 20 pro+ Menjadi smartphone 2 jutaan...</p>
+            <a href="#" class="head_line">Ini 5 Kelebihan Tecno Spark 20 pro+,Segudang Fitur Harga2 Jutaan</a>
+            <p class="description">Dengan Segudang Fitur-Fitur , kelebihan TECNO SPARK 20 pro+ Menjadi smartphone 2 jutaan...</p>
             <p class="author">bambang dwi atmoko | 20 mei 2024</p>
 
         </div>
