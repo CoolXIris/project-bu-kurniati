@@ -26,7 +26,7 @@
                         </p>
                     </div>
                 </div>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/op_r13.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/op_wtch7.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content" />
                 <div class="bg-gray-800 p-6 rounded-lg shadow-lg mb-4">
                     <div class="flex items-center justify-between border-b border-gray-700 pb-4 mb-4">
                         <div class="flex items-center">
@@ -61,21 +61,21 @@
                 <p class="text-white-300 mb-4" style="text-align: justify;">Dengan peningkatan di berbagai sektor desain, Samsung Galaxy Watch7 jelas menawarkan pengalaman yang lebih baik dibandingkan pendahulunya. Namun, apakah bisa bersaing dengan para kompetitornya? Simak review lengkap Samsung Galaxy Watch7 berikut ini.</p>
 
                 <p class="text-white-300 font-bold mb-4" style="font-size:20px">Desain</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/d_r13.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/d_wtch7.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Samsung Galaxy Watch7 hadir dengan desain modern dan minimalis yang tetap mempertahankan ciri khas Galaxy Watch. Tersedia dalam dua ukuran, 40mm dan 44mm, perangakt ini memenuhi preferensi pengguna yang berbeda terutama berdasarkan ukuran tangan.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Jam tangan ini menggunakan material Armor Aluminum yang lebih ringan dan tahan lama. Galaxy Watch7 tersedia dalam beberapa pilihan warna menarik seperti Cream, Green, dan Silver, sehingga dapat disesuaikan dengan gaya pribadi pengguna.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Bagian depan dilindungi oleh Sapphire Crystal yang memberikan perlindungan ekstra dari goresan dan benturan. Ketersediaan berbagai pilihan tali yang bisa diganti dengan mekanisme quick-release membuat jam ini mudah disesuaikan dengan berbagai gaya, dari kasual hingga formal.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Samsung telah merancang Galaxy Watch7 agar lebih ergonomis dan nyaman dipakai sepanjang hari, bahkan saat berolahraga atau tidur. Desainnya yang ringkas dan ringan menjadi salah satu keunggulan, karena memungkinkan pengguna memakainya tanpa merasa terganggu.</p>
 
                 <p class="text-white-300 font-bold mb-4" style="font-size:20px">Layar</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/l_r13.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/l_wtch7.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Salah satu peningkatan signifikan dari Samsung Galaxy Watch7 adalah layar AMOLED yang kini memiliki kecerahan hingga 2,000-nit, jauh lebih baik dibandingkan dengan model sebelumnya yang hanya memiliki 1,000-nit. Ini berarti pengguna dapat melihat tampilan jam dengan jelas bahkan di bawah sinar matahari langsung. Layar ini juga dilindungi oleh kaca sapphire yang tahan gores, memberikan perlindungan tambahan terhadap benturan sehari-hari.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Galaxy Watch7 dilengkapi dengan layar AMOLED beresolusi tinggi yang mendukung fitur Always-On Display. Layar ini menawarkan tingkat kecerahan yang sangat baik, bahkan saat digunakan di bawah sinar matahari langsung. Warna yang dihasilkan sangat tajam dan kontras, memberikan pengalaman visual yang menyenangkan baik untuk melihat notifikasi, peta, atau aplikasi kesehatan.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Salah satu fitur menarik dari layar Samsung Galaxy Watch7 adalah bezel sentuh yang semakin responsif. Pengguna bisa menggeser atau memilih menu dengan lebih mudah, tanpa harus menyentuh layar secara langsung. Ini membantu menjaga layar tetap bersih dari sidik jari, yang sering menjadi masalah pada perangkat dengan layar sentuh penuh.</p>
 
 
                 <p class="text-white-300 font-bold mb-4" style="font-size:20px">OS dan Antarmuka</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/k_r13.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/os_wtch7.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Galaxy Watch7 berjalan pada Google WearOS 5, menawarkan pengalaman pengguna yang intuitif dengan akses ke berbagai aplikasi dan layanan. Pengguna dapat menikmati berbagai aplikasi kebugaran, media sosial, dan produktivitas langsung dari pergelangan tangan.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Antarmuka Galaxy Watch7 dirancang agar mudah digunakan. Dengan akses cepat ke aplikasi favorit dan kemampuan untuk menyesuaikan tampilan jam sesuai preferensi pengguna, pengalaman menggunakan smartwatch ini menjadi lebih menyenangkan.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Perpindahan antar aplikasi sangat lancar, dan pengguna bisa menyesuaikan tampilan jam dengan berbagai watch faces yang tersedia. Hal ini memberi kebebasan untuk menyesuaikan informasi seperti detak jantung, cuaca, dan pengingat harian langsung di tampilan utama.</p>
@@ -83,31 +83,33 @@
 
 
                 <p class="text-white-300 font-bold mb-4" style="font-size:20px">Fitur Galaxy AI</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/f_r13.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
-                <p class="text-white-300 mb-4" style="text-align: justify;">Menjalankan realme UI 5.0 terbaru berbasis Android 14, realme 13 memberikan tampilan antarmuka yang familiar, cukup simpel dan mudah digunakan. Bloatware bisa ditemukan, namun tidak banyak yang mengganggu dan beberapa dapat di-uninstall. Paling-paling yang menurut saya agak mengganggu adalah notifikasi dari App Market—tentu juga bisa dinonaktifkan.</p>
-                <p class="text-white-300 mb-4" style="text-align: justify;">Fitur esensial seperti NFC tentu sudah tersedia di realme 13. Dan pada sektor audio, disematkan speaker stereo dengan kualitas yang sudah cukup dapat mengimbangi layarnya yang superior. Ingin mendengarkan musik secara maksimal? Ada jack audio dan sertifikasi Hi-Res Audio. realme juga memperkenalkan earphone TWS baru dengan desain open-ear, dapat menjadi pasangan terbaik sekaligus terjangkau untuk bermain game, yakni realme Buds T01.</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/f_r13_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
-                <p class="text-white-300 mb-4" style="text-align: justify;">Earphone TWS satu ini memiliki desain yang pas untuk penggunaan dalam jangka waktu lama, dipasangkan dengan daya tahan baterai yang juga awet. Membuat realme Buds T01 bisa menjadi pasangan tepat bersama realme 13 dalam memaksimalkan pengalaman bermain game.</p>
+                <p class="text-white-300 mb-4" style="text-align: justify;">Salah satu daya tarik utama Galaxy Watch7 adalah integrasi kecerdasan buatan yang dirancang untuk mempermudah berbagai aspek kehidupan pengguna, mulai dari kesehatan hingga komunikasi.</p>
+                <p class="text-white-300 mb-4" style="text-align: justify;">Pertama, Energy Score. Fitur ini membantu pengguna untuk memahami kondisi tubuh mereka lebih baik dengan memantau tidur, detak jantung, dan aktivitas harian. Dengan analisis AI, Galaxy Watch7 dapat memberikan skor energi harian yang membantu pengguna mengetahui kapan waktu terbaik untuk beraktivitas dan kapan tubuh membutuhkan istirahat. Ini memberikan personalisasi yang lebih mendalam dalam manajemen kesehatan.</p>
+                <p class="text-white-300 mb-4" style="text-align: justify;">Kedua, Personalisasi Bersepeda dengan FTP. Samsung Galaxy Watch7 juga memiliki fitur personalisasi untuk pengguna yang gemar bersepeda melalui Functional Threshold Power (FTP). AI menganalisis kekuatan pengguna selama aktivitas bersepeda dan menyesuaikan target pelatihan sesuai dengan performa fisik mereka. Ini memberikan pengalaman latihan yang lebih efektif dan efisien.</p>
+                <p class="text-white-300 mb-4" style="text-align: justify;">Ketiga, Suggested Replies dengan AI. Fitur Suggested Replies memudahkan pengguna dalam merespons pesan langsung dari jam tangan, memanfaatkan AI untuk menghasilkan balasan pesan yang sesuai dengan konteks percakapan. AI ini bahkan mampu menyesuaikan tone balasan berdasarkan mood pengguna, apakah ingin bersikap formal atau lebih santai, membuat komunikasi lebih cepat dan efisien.</p>
+
+                <p class="text-white-300 font-bold mb-4" style="font-size:20px">Fitur Kesehatan</p>
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/f_wtch7.png') ?>" style="width: auto;height:auto;border-radius:2%;object-fit:content" />
+                <p class="text-white-300 mb-4" style="text-align: justify;">Samsung Galaxy Watch7 dilengkapi dengan sensor BioActive yang canggih, memungkinkan pemantauan kesehatan yang lebih akurat. Sensor ini menggabungkan teknologi pemantauan detak jantung, oksigen dalam darah (SpO2), dan analisis elektrokardiogram (EKG) dalam satu perangkat. Dengan fitur-fitur ini, pengguna dapat memantau kebugaran secara real-time dan mendapatkan wawasan yang lebih baik tentang kondisi kesehatan.</p>
+                <p class="text-white-300 mb-4" style="text-align: justify;">Selain pemantauan kesehatan harian, Galaxy Watch7 juga menawarkan fitur pemantauan tidur yang lebih mendalam. Dengan analisis pola tidur, pengguna dapat memahami kualitas tidur dan menerima saran untuk meningkatkan kebiasaan tidur. Fitur pelacakan otomatis untuk berbagai jenis olahraga juga menjadi nilai tambah, termasuk mode triathlon yang baru diperkenalkan.</p>
+                <p class="text-white-300 mb-4" style="text-align: justify;">Salah satu fitur unik dari Galaxy Watch7 adalah Skor Energi yang memberikan wawasan tentang tingkat energi pengguna sepanjang hari. Dengan menggunakan AI, jam tangan ini memberikan tips kesehatan yang dipersonalisasi untuk membantu pengguna menjaga keseimbangan antara aktivitas dan istirahat.</p>
 
                 <p class="text-white-300 font-bold mb-4" style="font-size:20px">Performa</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/p_r13.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
-                <p class="text-white-300 mb-4" style="text-align: justify;">Untuk memberikan pengalaman gaming bintang lima, realme memercayakan chipset yang sudah dikenal cukup bertenaga sekaligus efisien daya pada segmen smartphone 4G di kelasnya. Yakni Snapdragon 685 octa-core dari Qualcomm, dengan fabrikasi 6nm dan clock speed maksimum hingga 2,8GHz. Tentu tidak hanya sektor chipset saja yang diutamakan.</p>
-                <p class="text-white-300 mb-4" style="text-align: justify;">Selain sudah menggunakan jenis penyimpanan UFS dan RAM LPDDR4x hingga 8GB+8GB, realme ingin memastikan bila realme 13 selalu responsif baik secara performa dan respons, serta bisa diandalkan dalam sesi gaming yang lebih lama. Untuk itu, pertama kalinya dibawa ke Number Series, hadir opsi GT Mode yang secara cerdas memaksimalkan kemampuan hardware. Memberikan frame rate dan respons sentuh lebih optimal dalam sekali sentuhan.</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/p_r13_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
-                <p class="text-white-300 mb-4" style="text-align: justify;">Tidak hanya itu, dalam bodinya yang ramping, realme 13 juga sudah dilengkapi dengan sistem pendingin vapor chamber 7 lapis, berukuran cukup besar dengan cakupan hingga 4392mm persegi. Ini adalah solusi hardware yang tergolong penting, dan umumnya hanya dimiliki oleh smartphone gaming di segmennya. Memastikan suhu bodi tidak pernah panas.</p>
-                <p class="text-white-300 mb-4" style="text-align: justify;">Well, selama menggunakan smartphone dengan chipset Snapdragon 685, suhu perangkat memang relatif dingin. Begitu pula di realme 13, ketika saya gunakan untuk bermain game Honor of Kings dalam setting grafis tertinggi hingga 30 menit pun sama sekali tidak ada kenaikan suhu yang signifikan.</p>
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/p_wtch7.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content" />
+                <p class="text-white-300 mb-4" style="text-align: justify;">Galaxy Watch7 didukung oleh prosesor 3nm terbaru yang menawarkan performa lebih cepat dan efisiensi energi yang lebih baik. Pengguna dapat merasakan pengalaman yang lebih lancar saat menjalankan aplikasi atau melakukan navigasi melalui antarmuka smartwatch.</p>
+                <p class="text-white-300 mb-4" style="text-align: justify;">Dalam hal penyimpanan, Galaxy Watch7 juga mengalami peningkatan. Dengan kapasitas penyimpanan yang lebih besar dibandingkan pendahulunya, pengguna dapat menyimpan lebih banyak musik, aplikasi, dan data tanpa khawatir kehabisan ruang.</p>
+                <p class="text-white-300 mb-4" style="text-align: justify;">Jam tangan ini tersedia dalam dua versi: Bluetooth/WiFi dan LTE. Versi LTE memungkinkan pengguna untuk tetap terhubung dengan panggilan dan pesan tanpa perlu mengandalkan smartphone mereka. Ini sangat berguna saat berolahraga atau beraktivitas di luar tanpa membawa ponsel.</p>
 
-                <p class="text-white-300 font-bold mb-4" style="font-size:20px">Baterai</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/b_r13.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
-                <p class="text-white-300 mb-4" style="text-align: justify;">Dalam desainnya yang cukup ramping, baterai realme 13 memiliki kapasitas cukup lega di 5,000 mAh. Mungkin sudah mulai tergolong standar di tahun 2024, namun ketika dipasangkan dengan layar dan chipset hemat daya, baterai tersebut sudah sangat cukup untuk penggunaan seharian penuh secara intensif. Kalau dipakai ringan-ringan saja, bisa mencapai 1,5 hari.</p>
-                <p class="text-white-300 mb-4" style="text-align: justify;">Ada banyak opsi ekstra yang diberikan realme 13 agar penggunanya bisa mendapatkan daya tahan lebih lama. Selain mode hemat daya tentunya, terdapat sejumlah opsi lain seperti Optimized standby dan App Quick Freeze. Begitu pula fitur seperti Smart charging yang otomatis mempelajari pola pengisian daya, serta limit hanya hingga 80% saja—dua opsi yang bisa memperpanjang masa pakai baterai.</p>
-                <p class="text-white-300 mb-4" style="text-align: justify;">Bagaimana dengan kecepatan isi dayanya? realme mengklaim bila smartphone ini menjadi yang pertama di segmennya dengan 67W SuperVOOC. Alhasil seperti smartphone realme yang lebih premium, mengisi daya dari kisaran 10% hingga 50% hanya membutuhkan waktu 15 menit saja. Sementara 30 menit sudah bisa mencapai kisaran 80%, dan terisi penuh dalam waktu kurang dari satu jam.</p>
+                <p class="text-white-300 font-bold mb-4" style="font-size:20px">Daya Tahan Baterai</p>
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/b_wtch7.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content" />
+                <p class="text-white-300 mb-4" style="text-align: justify;">Daya tahan baterai menjadi salah satu pertimbangan utama dalam memilih smartwatch. Samsung Galaxy Watch7 memiliki baterai berkapasitas 300 mAh yang menawarkan waktu penggunaan sekitar 30 jam dengan fitur always-on display diaktifkan. Sementara jika AOD dimatikan, daya tahannya bisa mencapai 40 jam.</p>
+                <p class="text-white-300 mb-4" style="text-align: justify;">Jika dibandingkan dengan kompetitor di kelas premium, daya tahan baterai di Samsung Galaxy Watch7 termasuk cukup singkat. Harus diakui, daya tahan baterai adalah titik lemahnya Galaxy Watch7. Sebagai perbandingan, pada sejumlah perangkat yang beredar di pasaran seperti Huawei Watch GT4, Xiaomi Watch S3, hingga OPPO Watch X dapat bertahan hingga dua minggu dalam penggunaan standar, serta sekitar 5 hingga 7 hari dalam penggunaan intensif dengan AOD aktif.</p>
 
 
                 <p class="text-white-300 font-bold mb-4" style="font-size:20px">Kesimpulan</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/ke_r13.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
-                <p class="text-white-300 mb-4" style="text-align: justify;">realme 13 memberikan solusi komplit untuk pengalaman bermain game yang nyaman sekaligus responsif, berkat kombinasi hardware yang tergolong pas mulai dari chipset, sistem pendingin, hingga layarnya yang juga responsif. Dibanderol tak sampai Rp3 juta untuk varian 128GB, smartphone ini pas menjadi pilihan terbaik di segmennya.</p>
-                <p class="text-white-300 mb-4" style="text-align: justify;">Smartphone realme satu ini juga membawa kualitas kamera yang memuaskan di segmennya, serta tampil dalam desain stylish, sehingga pas bagi para gamer yang menginginkan sebuah perangkat dengan tampilan lebih kalem namun masih terlihat premium.</p>
+                <p class="text-white-300 mb-4" style="text-align: justify;">Dengan berbagai fitur canggih dan desain menarik, Samsung Galaxy Watch7 adalah salah satu smartwatch terbaik di pasaran saat ini. Dari pemantauan kesehatan yang komprehensif hingga performa yang cepat dan antarmuka yang ramah pengguna, Galaxy Watch7 memenuhi kebutuhan pengguna modern yang aktif.</p>
+                <p class="text-white-300 mb-4" style="text-align: justify;">Jika kamu mencari smartwatch dengan fitur lengkap dan kualitas tinggi, Samsung Galaxy Watch7 merupakan investasi yang sepadan. Terutama jika mengharapkan fitur kercerdasan buatan yang membuatnya makin pintar. Satu kekurangan utama adalah terkait daya tahan baterai. Jika ini sudah bisa diatasi, maka bisa jadi ini menjadi perangkat terbaik di pasaran.</p>
+                <p class="text-white-300 mb-4" style="text-align: justify;">Dengan semua keunggulan tersebut, Galaxy Watch7 tidak hanya sekadar aksesori fashion tetapi juga alat bantu kesehatan yang efektif. Jika Anda seorang penggemar teknologi atau seseorang yang peduli dengan kesehatan, jam tangan ini layak dipertimbangkan untuk melengkapi gaya hidup sehari-hari.</p>
 
             </div>
             <div class="lg:w-1/3 lg:pl-8">
@@ -214,8 +216,8 @@
     </div>
 </section>
 
-<section class="specification">
-    <div class="max-w-4xl mx-auto bg-white p-6 rounded-lg shadow-lg">
+<section class="specification" style="width: 900px;">
+    <div class="max-w-4xl mx-auto bg-gray p-6 rounded-lg shadow-lg" style="width: auto;">
         <h1 class="text-2xl font-bold mb-4">Spesifikasi Samsung Galaxy Watch7</h1>
         <table class="w-full text-left border-collapse">
             <tbody>
@@ -269,6 +271,88 @@
                 </tr>
             </tbody>
         </table>
+    </div>
+</section>
+
+<section class="summary">
+    <div class="max-w-3xl ml-3 p-4">
+        <div class="mt-6 border-t border-gray-700 pt-4"></div>
+        <div class="bg-gray-800 rounded-lg overflow-hidden">
+            <div class="flex flex-col md:flex-row">
+                <img
+                    src="<?= base_url('css/img/op_wtch7.png') ?>"
+                    alt="Close-up of ZTE Blade A35 smartphone"
+                    class="w-full md:w-1/2 h-auto mx-auto md:ml-4"
+                    style="border-radius: 3%;" />
+                <div class="w-full md:w-1/2 p-4 flex flex-col justify-center">
+                    <h1 class="text-2xl font-bold text-white">Review Samsung Watch7</h1>
+                    <div class="flex items-center justify-between mt-2">
+                        <div class="text-4xl font-bold text-yellow-500">7.8</div>
+                    </div>
+                </div>
+            </div>
+            <div class="p-4">
+                <!-- Progress bars with ratings -->
+                <div class="space-y-4">
+                    <div>
+                        <div class="flex items-center justify-between">
+                            <span class="text-lg text-white">Design</span>
+                            <span class="text-lg text-white">8</span>
+                        </div>
+                        <div class="h-2 bg-gray-700 rounded-full mt-1">
+                            <div class="h-full bg-yellow-500 rounded-full" style="width: 80%;"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="flex items-center justify-between">
+                            <span class="text-lg text-white">Display</span>
+                            <span class="text-lg text-white">8</span>
+                        </div>
+                        <div class="h-2 bg-gray-700 rounded-full mt-1">
+                            <div class="h-full bg-yellow-500 rounded-full" style="width: 80%;"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="flex items-center justify-between">
+                            <span class="text-lg text-white">Features</span>
+                            <span class="text-lg text-white">9</span>
+                        </div>
+                        <div class="h-2 bg-gray-700 rounded-full mt-1">
+                            <div class="h-full bg-yellow-500 rounded-full" style="width: 90%;"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="flex items-center justify-between">
+                            <span class="text-lg text-white">Battery</span>
+                            <span class="text-lg text-white">6</span>
+                        </div>
+                        <div class="h-2 bg-gray-700 rounded-full mt-1">
+                            <div class="h-full bg-yellow-500 rounded-full" style="width: 60%;"></div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Good stuff / Bad stuff section -->
+                <div class="mt-6 border-t border-gray-700 pt-4 flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
+                    <div class="w-full md:w-1/2">
+                        <h2 class="text-xl font-bold mb-2 text-green-500"><i class="fas fa-thumbs-up"></i> Good Stuff</h2>
+                        <ul class="list-disc list-inside text-white">
+                            <li>Desain modern dan elegan dengan material berkualitas tinggi</li>
+                            <li>Layar Amoled berkualitas</li>
+                            <li>Fitur kesehatan yang canggih seperti sensor BioActive</li>
+                            <li>Kinerja performa yang cepat dengan prosesor 3nm</li>
+                            <li>Sistem operasi WearOS yang kaya fitur dengan konektivitas luas</li>
+                        </ul>
+                    </div>
+                    <div class="w-full md:w-1/2">
+                        <h2 class="text-xl font-bold mb-2 text-red-500"><i class="fas fa-thumbs-down"></i> Bad Stuff</h2>
+                        <ul class="list-disc list-inside text-white">
+                            <li>Baterai terkuras cepat dengan penggunaan berat</li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 
