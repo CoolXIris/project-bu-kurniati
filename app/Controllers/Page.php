@@ -136,4 +136,24 @@ class Page extends BaseController
     {
         return view('page/vnpt');
     }
+    public function mate_xt()
+    {
+        return view('page/mate_xt');
+    }
+    public function bose_sound()
+    {
+        return view('page/bose_sound');
+    }
+    public function realme13series()
+    {
+        return view('page/realme13series');
+    }
+    public function spark30c()
+    {
+        return view('page/spark30c');
+    }
+    public function zeiss()
+    {
+        return view('page/zeiss');
+    }
 }

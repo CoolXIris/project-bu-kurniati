@@ -39,3 +39,8 @@ $routes->get('/page/galaxy_a16', 'Page::galaxy_a16');
 $routes->get('/page/mncplay', 'Page::mncplay');
 $routes->get('/page/lokadata', 'Page::lokadata');
 $routes->get('/page/tiktok_as', 'Page::tiktok_as');
+$routes->get('/page/mate_xt', 'Page::mate_xt');
+$routes->get('/page/bose_sound', 'Page::bose_sound');
+$routes->get('/page/spark30c', 'Page::spark30c');
+$routes->get('/page/realme13series', 'Page::realme13series');
+$routes->get('/page/zeiss', 'Page::zeiss');
