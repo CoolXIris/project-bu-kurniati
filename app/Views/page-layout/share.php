@@ -1,4 +1,4 @@
-<div class="flex items-left justify-between p-4 mb-5" style="width: 900px;">
+<div class="flex items-left justify-between p-3 mb-3" style="width: 900px;">
     <div class="flex items-center space-x-2">
         <i class="fas fa-share-square"></i>
         <span>Bagikan Artikel Ini</span>

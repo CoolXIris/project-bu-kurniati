@@ -37,6 +37,7 @@
 <body class="bg-gray-900 text-white">
    <?= $this->include('page-layout/navbar') ?>
    <?= $this->renderSection('content') ?>
+   <?= $this->include('page-layout/widget') ?>
    <?= $this->include('page-layout/share') ?>
    <?= $this->include('page-layout/reaction') ?>
    <?= $this->include('page-layout/comment') ?>

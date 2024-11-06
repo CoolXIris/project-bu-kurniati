@@ -92,4 +92,48 @@ class Page extends BaseController
     {
         return view('page/gal_wtch7');
     }
+    public function realme_buds()
+    {
+        return view('page/realme_buds');
+    }
+    public function iphone13()
+    {
+        return view('page/iphone13');
+    }
+    public function wd_6tb()
+    {
+        return view('page/wd_6tb');
+    }
+    public function asus_nuc()
+    {
+        return view('page/asus_nuc');
+    }
+    public function smart_ring()
+    {
+        return view('page/smart_ring');
+    }
+    public function galaxy_a16()
+    {
+        return view('page/galaxy_a16');
+    }
+    public function lokadata()
+    {
+        return view('page/lokadata');
+    }
+    public function mncplay()
+    {
+        return view('page/mncplay');
+    }
+    public function synology()
+    {
+        return view('page/synology');
+    }
+    public function tiktok_as()
+    {
+        return view('page/tiktok_as');
+    }
+    public function vnpt()
+    {
+        return view('page/vnpt');
+    }
 }
