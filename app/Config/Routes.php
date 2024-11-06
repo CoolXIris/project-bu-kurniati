@@ -28,3 +28,6 @@ $routes->get('/page/ipad_m2', 'Page::ipad_m2');
 $routes->get('/page/oppo_reno12f', 'Page::oppo_reno12f');
 $routes->get('/page/len_yoga9i', 'Page::len_yoga9i');
 $routes->get('/page/gal_wtch7', 'Page::gal_wtch7');
+$routes->get('/page/iphone13', 'Page::iphone13');
+$routes->get('/page/realme_buds', 'Page::realme_buds');
+$routes->get('/page/wd_6tb', 'Page::wd_6tb');

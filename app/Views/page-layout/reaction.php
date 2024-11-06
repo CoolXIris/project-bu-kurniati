@@ -1,5 +1,5 @@
 <div class="text-left" style="margin-left:150px;width:950px">
-    <h1 class="text-2xl font-bold mb-6" style="margin-left: 190px;">
+    <h1 class="text-2xl font-bold mb-1" style="margin-left: 190px;">
         Bagaimana menurutmu?
     </h1>
     <div class="flex justify-start space-x-6 mb-5">

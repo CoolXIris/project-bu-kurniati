@@ -92,4 +92,16 @@ class Page extends BaseController
     {
         return view('page/gal_wtch7');
     }
+    public function realme_buds()
+    {
+        return view('page/realme_buds');
+    }
+    public function iphone13()
+    {
+        return view('page/iphone13');
+    }
+    public function wd_6tb()
+    {
+        return view('page/wd_6tb');
+    }
 }
