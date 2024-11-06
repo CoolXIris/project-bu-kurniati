@@ -22,19 +22,23 @@
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/MediaTek-Dimensity-9400.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">CHIPSET</span>
+            <span class="badge-bottom-left">
+                <div id="GAMES">GAMES</div>
+            </span>
         </div>
-        <a href="<?= base_url('page/mediatek_dimensity9400') ?>" class="head_line">Chip Flagship Mediatek Dimensity 9400 Maksimalkan Performa & Efisiensi, Siap Untuk Era AI Agentik</a>
-        <p class="description">MediaTek Dimensity 9400 siap debut di flagship terbaru rilisan akhir 2024</p>
+        <a href="<?= base_url('page/mediatek_dimensity9400') ?>" class="head_line">5 Rekomendasi Game Multiplayer PS5 Seru, Bisa Online Maupun Offline</a>
+        <p class="description">Berikut Adalah 5 Rekomendasi Game Seru Multiplayer PS5 Yang Bisa Kamu Mainkan </p>
         <p class="author"><span style="font-style: bold;">Prasetyo Herfianto</span> | 10 October 2024</p>
     </div>
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/XGS-PON-WiFi-7.jpeg') ?>" alt="News Image">
-            <span class="badge-bottom-left">QUALCOMM</span>
+            <span class="badge-bottom-left">
+                <div id="HEADLINE">#HEADLINE</div>
+            </span>
         </div>
-        <a href="#" class="head_line">VNPT & Qualcomm Luncurkan XGS-PON WiFi 7, Kecepatan Internet Sampai 22 Gbps</a>
-        <p class="description">Vietnam Post and Telecommunications Group (VNPT) baru saja meluncurkan layanan XGS-PON WiFi...</p>
+        <a href="#" class="head_line">Rekomendasi Laptop Tipis Bertenaga, Cocok Untuk Kerja Dan Kuliah</a>
+        <p class="description">Ingin Perangkat Kerja Ringan Nan Kencang?Berikut Rekomendasi Laptop Tipis Yang Pas...</p>
         <p class="author">
             <bold>Christopher Louis</bold> | 10 October 2024
         </p>
@@ -43,94 +47,156 @@
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/mobile-banking-ilustrasi.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">APLIKASI FINTECH</span>
+            <span class="badge-bottom-left">#HEADLINE</span>
         </div>
-        <a href="#" class="head_line">Laporan Lokadata: 73 Persen Gen Z Beralih Gunakan Bank Digital</a>
-        <p class="description">Jakarta, GadgetGlimpse - Lokadata.id, perusahaan riset ini mengungkapkan laporannya yang menyebutkan 73...</p>
+        <a href="#" class="head_line">Jajaran AIOT Xiaomi Terbaru, dari Robot Vacuum hingga Electric Scooter</a>
+        <p class="description">Jajaran produk AIoT Xiaomi terbaru 2024 diluncurkan. Mulai dari robot vacuum, smart…</p>
         <p class="author">Christopher Louis | 09 October 2024</p>
 
     </div>
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/Tiktok.jpeg') ?>" alt="News Image">
-            <span class="badge-bottom-left">APLIKASI TIKTOK</span>
+            <span class="badge-bottom-left">METAMASK</span>
         </div>
-        <a href="#" class="head_line">Tiktok Dituntut Jaksa Agung AS, Dianggap Tak Perhatikan Kesehatan Mental Remaja</a>
-        <p class="description">Baru-baru ini, sebanyak 14 jaksa agung dari negara bagian Amerika Serikat telah...</p>
+        <a href="#" class="head_line">5 Rekomendasi Dompet Web3 Paling Potensial di Tahun 2024</a>
+        <p class="description">Dengan teknologi web3 wallet dan blockchain, banyak orang ingin berinvestasi crypto. Ada…</p>
         <p class="author">Christopher Louis | 9 October 2024</p>
 
     </div>
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/indosat-HiFi.jpeg') ?>" alt="News Image">
-            <span class="badge-bottom-left">INDOSAT HIFI</span>
+            <span class="badge-bottom-left">#HEADLINE</span>
         </div>
-        <a href="#" class="head_line">MNC Play Resmi Bermigrasi ke Indosat HiFi, Janjikan Kualitas Interner Lebih Prima</a>
-        <p class="description">Indosat secara resmi mengumumkan transformasi brand layanan internet MNC Play menjadi Indosat...</p>
+        <a href="#" class="head_line">5 Aplikasi Pengganti Tokopedia NOW, Belanja Kebutuhan Pokok Jadi Cepat!</a>
+        <p class="description">Jakarta, Gizmologi - Gizmologi akan memberitahukan kamu aplikasi atau layanan pengganti Tokopedia…</p>
         <p class="author">Christopher Louis | 9 October 2024</p>
 
     </div>
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/Samsung-Galaxy-A16.jpeg') ?>" alt="News Image">
-            <span class="badge-bottom-left">GALAXY A16 5G</span>
+            <span class="badge-bottom-left">#HEADLINE</span>
         </div>
-        <a href="#" class="head_line">Samsung Galaxy A16 5G Siap Meramaikan Pasar Mid-Range Tanah Air</a>
-        <p class="description">Samsung bakal meluncurkan Galaxy A16 5G sebagai ponsel mid-range harga terjangkau di...</p>
+        <a href="#" class="head_line">Rekomendasi Game iOS Seru, Bisa Bikin Kamu Ketagihan!</a>
+        <p class="description">Jakarta, Gizmologi - Bermain game di perangkat gadget merupakan hiburan yang bisa kamu…</p>
         <p class="author">Christopher Louis | 8 October 2024</p>
 
     </div>
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">SOLUSI KEAMANAN DATA</span>
+            <span class="badge-bottom-left">HARGA TECNO SPARK 20 PRO+</span>
         </div>
-        <a href="#" class="head_line">Solusi Enterprise Terbaru Synology, Integrasikan AI & Kamera Pengintai Berbasis Cloud</a>
-        <p class="description">Synology integrasikan AI secara mendalam, termasuk untuk membuat ringkasan dokumen sampai membuat...</p>
+        <a href="#" class="head_line">Ini 5 Kelebihan Tecno Spark 20 Pro+, Segudang Fitur Harga Rp2 Jutaan</a>
+        <p class="description">Dengan segudang fitur-fitur, kelebihan TECNO SPARK 20 Pro+ menjadi smartphone 2 jutaan…</p>
         <p class="author">Christopher Louis | 8 October 2024</p>
 
     </div>
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/Asus-NUC.jpeg') ?>" alt="News Image">
-            <span class="badge-bottom-left">APPLE</span>
+            <span class="badge-bottom-left">#HEADLINE</span>
         </div>
-        <a href="#" class="head_line">Apple Dikabarkan Batal Kembangkan Smart Ring. Ini Alasannya</a>
-        <p class="description">Pasar smart ring kini baru didominasi sejumlah vendor saja, seperti Oura dan ...</p>
+        <a href="#" class="head_line">Jajaran Redmi Watch 4 dan Redmi Buds 5 Series Lengkapi Gaya Iconic Kamu!</a>
+        <p class="description">Xiaomi memiliki rangkaian AIoT Wearables terbaru Redmi Buds 5, Redmi Buds 5…</p>
         <p class="author">Christopher Louis | 8 October 2024</p>
 
     </div>
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">ASUS</span>
+            <span class="badge-bottom-left">#HEADLINE</span>
         </div>
-        <a href="#" class="head_line">Kilas Balik 1 Tahun Asus Akuisisi NUC dari Intel</a>
-        <p class="description">ASUS Nuc berhasil menjadi opsi utama dalam pasar mini PC.</p>
+        <a href="#" class="head_line">Rekomendasi HP Samsung 5 Jutaan Rupiah, Baterai Besar buat Seharian!</a>
+        <p class="description">Berikut rekomendasi hp Samsung 5 jutaan Rupiah atau dibawahnya yang memiliki baterai…</p>
         <p class="author">Christopher Louis | 7 October 2024</p>
 
     </div>
+    <div class="news-card">
+        <div class="image-container">
+            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
+            <span class="badge-bottom-left">DEVELOPER GAME LOKAL</span>
+        </div>
+        <a href="#" class="head_line">Rekomendasi Game Seru di HP Cocok Buat Ngabuburit</a>
+        <p class="description">Jakarta, Gizmologi - Bermain game seru di hp ketika ngabuburit bisa membuat kita…</p>
+        <p class="author">Christopher Louis | 7 October 2024</p>
 
-    <!-- Tambahkan card lain sesuai kebutuhan -->
-</div>
-<div class="pagination" style="justify-content: center;align-items:center;">
-    <nav aria-label="Page navigation example">
-        <ul class="pagination">
-            <li class="page-item">
-                <a class="page-link" href="#" aria-label="Previous">
-                    <span aria-hidden="true">&laquo;</span>
-                </a>
-            </li>
-            <li class="page-item"><a class="page-link" href="#">1</a></li>
-            <li class="page-item"><a class="page-link" href="#">2</a></li>
-            <li class="page-item"><a class="page-link" href="#">3</a></li>
-            <li class="page-item">
-                <a class="page-link" href="#" aria-label="Next">
-                    <span aria-hidden="true">&raquo;</span>
-                </a>
-            </li>
-        </ul>
-    </nav>
-</div>
+    </div>
+    <div class="news-card">
+        <div class="image-container">
+            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
+            <span class="badge-bottom-left">#HEADLINE</span>
+        </div>
+        <a href="#" class="head_line">Rekomendasi Game Ngabuburit di Android Biar Puasa Kamu Makin Seru</a>
+        <p class="description">Merayakan ibadah puasa perlu dijalani dengan menyenangkan, kamu bisa untuk memainkan game…</p>
+        <p class="author">Christopher Louis | 7 October 2024</p>
 
-<?= $this->endSection() ?>
+    </div>
+    <div class="news-card">
+        <div class="image-container">
+            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
+            <span class="badge-bottom-left">#HEADLINE</span>
+        </div>
+        <a href="#" class="head_line">5 Aplikasi Islami yang Bisa Menambah Pahala di Bulan Ramadan</a>
+        <p class="description">Banyak cara dalam mendapatkan pahala, bahkan melalui perangkat smartphone juga bisa dengan…</p>
+        <p class="author">Christopher Louis | 7 October 2024</p>
+
+    </div>
+    <div class="news-card">
+        <div class="image-container">
+            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
+            <span class="badge-bottom-left">#HEADLINE</span>
+        </div>
+        <a href="#" class="head_line">Rekomendasi HP POCO Murah, Bisa Banget Buat Mabar Game MLBB Nih!</a>
+        <p class="description">Terdapat hp POCO murah yang bisa kamu lirik bila budget belum bisa…</p>
+        <p class="author">Christopher Louis | 7 October 2024</p>
+
+    </div>
+    <div class="news-card">
+        <div class="image-container">
+            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
+            <span class="badge-bottom-left">#HEADLINE</span>
+        </div>
+        <a href="#" class="head_line">Rekomendasi Game Offline di Android, Bisa untuk Anak Hingga Dewasa</a>
+        <p class="description">Ini kelima rekomendasi game offline di Android yang bisa kamu unduh lewat…</p>
+        <p class="author">Christopher Louis | 7 October 2024</p>
+
+    </div>
+    <div class="news-card">
+        <div class="image-container">
+            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
+            <span class="badge-bottom-left">GALAXY A15</span>
+        </div>
+        <a href="#" class="head_line">Rekomendasi HP Terjangkau Penuh Inovasi di Januari 2024</a>
+        <p class="description">Gizmologi hadirkan rekomendasi hp terjangkau di Januari 2024 ini. Dari Samsung Galaxy…</p>
+        <p class="author">Christopher Louis | 7 October 2024</p>
+
+
+
+
+
+        <!-- Tambahkan card lain sesuai kebutuhan -->
+    </div>
+    <div class="pagination" style="justify-content: center;align-items:center;">
+        <nav aria-label="Page navigation example">
+            <ul class="pagination">
+                <li class="page-item">
+                    <a class="page-link" href="#" aria-label="Previous">
+                        <span aria-hidden="true">&laquo;</span>
+                    </a>
+                </li>
+                <li class="page-item"><a class="page-link" href="#">1</a></li>
+                <li class="page-item"><a class="page-link" href="#">2</a></li>
+                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                <li class="page-item">
+                    <a class="page-link" href="#" aria-label="Next">
+                        <span aria-hidden="true">&raquo;</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+    <?= $this->endSection() ?>
