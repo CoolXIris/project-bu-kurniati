@@ -22,19 +22,23 @@
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/MediaTek-Dimensity-9400.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">CHIPSET</span>
+            <span class="badge-bottom-left">
+                <div id="GAMES"></div>
+            </span>
         </div>
-        <a href="<?= base_url('page/mediatek_dimensity9400') ?>" class="head_line">Chip Flagship Mediatek Dimensity 9400 Maksimalkan Performa & Efisiensi, Siap Untuk Era AI Agentik</a>
-        <p class="description">MediaTek Dimensity 9400 siap debut di flagship terbaru rilisan akhir 2024</p>
+        <a href="<?= base_url('page/mediatek_dimensity9400') ?>" class="head_line">5 Rekomendasi Game Multiplayer PS5 Seru, Bisa Online Maupun Offline</a>
+        <p class="description">Berikut Adalah 5 Rekomendasi Game Seru Multiplayer PS5 Yang Bisa Kamu Mainkan </p>
         <p class="author"><span style="font-style: bold;">Prasetyo Herfianto</span> | 10 October 2024</p>
     </div>
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/XGS-PON-WiFi-7.jpeg') ?>" alt="News Image">
-            <span class="badge-bottom-left">QUALCOMM</span>
+            <span class="badge-bottom-left">
+                <div id="HEADLINE"></div>
+            </span>
         </div>
-        <a href="#" class="head_line">VNPT & Qualcomm Luncurkan XGS-PON WiFi 7, Kecepatan Internet Sampai 22 Gbps</a>
-        <p class="description">Vietnam Post and Telecommunications Group (VNPT) baru saja meluncurkan layanan XGS-PON WiFi...</p>
+        <a href="#" class="head_line">Rekomendasi Laptop Tipis Bertenaga, Cocok Untuk Kerja Dan Kuliah</a>
+        <p class="description">Ingin Perangkat Kerja Ringan Nan Kencang?Berikut Rekomendasi Laptop Tipis Yang Pas...</p>
         <p class="author">
             <bold>Christopher Louis</bold> | 10 October 2024
         </p>
@@ -53,10 +57,10 @@
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/Tiktok.jpeg') ?>" alt="News Image">
-            <span class="badge-bottom-left">APLIKASI TIKTOK</span>
+            <span class="badge-bottom-left">#HEADLINE</span>
         </div>
-        <a href="#" class="head_line">Tiktok Dituntut Jaksa Agung AS, Dianggap Tak Perhatikan Kesehatan Mental Remaja</a>
-        <p class="description">Baru-baru ini, sebanyak 14 jaksa agung dari negara bagian Amerika Serikat telah...</p>
+        <a href="#" class="head_line">Jajaran AIOT Xiaomi Terbaru, dari Robot Vacuum hingga Electric Scooter</a>
+        <p class="description">Jajaran produk AIoT Xiaomi terbaru 2024 diluncurkan. Mulai dari robot vacuum, smart…</p>
         <p class="author">Christopher Louis | 9 October 2024</p>
 
     </div>
