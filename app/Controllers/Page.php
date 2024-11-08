@@ -192,4 +192,40 @@ class Page extends BaseController
     {
         return view('page/macmini4');
     }
+    public function aiot_xiomi()
+    {
+        return view('page/aiot_xiomi');
+    }
+    public function apk_pengganti()
+    {
+        return view('page/apk_pengganti');
+    }
+    public function dompet_web3()
+    {
+        return view('page/dompet_web3');
+    }
+    public function laptop_tipis()
+    {
+        return view('page/laptop_tipis');
+    }
+    public function mul_ps5()
+    {
+        return view('page/mul_ps5');
+    }
+    public function redmi_wtch4()
+    {
+        return view('page/redmi_wtch4');
+    }
+    public function rek_5hpsmsung()
+    {
+        return view('page/rek_5hpsmsung');
+    }
+    public function rek_gameios()
+    {
+        return view('page/rek_gameios');
+    }
+    public function tecno_spark20()
+    {
+        return view('page/tecno_spark20');
+    }
 }
