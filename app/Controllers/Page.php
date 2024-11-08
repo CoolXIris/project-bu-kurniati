@@ -156,4 +156,40 @@ class Page extends BaseController
     {
         return view('page/zeiss');
     }
+    public function razerv3()
+    {
+        return view('page/razerv3');
+    }
+    public function zenbook14()
+    {
+        return view('page/zenbook14');
+    }
+    public function ryzen9800()
+    {
+        return view('page/ryzen9800');
+    }
+    public function cra_efektif()
+    {
+        return view('page/3cra_efektif');
+    }
+    public function asusz890()
+    {
+        return view('page/zeiss');
+    }
+    public function ayaneo3()
+    {
+        return view('page/ayaneo3');
+    }
+    public function k70pro()
+    {
+        return view('page/k70pro');
+    }
+    public function macbookm4()
+    {
+        return view('page/macbookm4');
+    }
+    public function macmini4()
+    {
+        return view('page/macmini4');
+    }
 }
