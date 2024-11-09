@@ -113,66 +113,6 @@
         <p class="description">Berikut rekomendasi hp Samsung 5 jutaan Rupiah atau dibawahnya yang memiliki baterai…</p>
         <p class="author">Christopher Louis | 7 October 2024</p>
 
-    </div>
-    <div class="news-card">
-        <div class="image-container">
-            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">DEVELOPER GAME LOKAL</span>
-        </div>
-        <a href="#" class="head_line">Rekomendasi Game Seru di HP Cocok Buat Ngabuburit</a>
-        <p class="description">Jakarta, Gizmologi - Bermain game seru di hp ketika ngabuburit bisa membuat kita…</p>
-        <p class="author">Christopher Louis | 7 October 2024</p>
-
-    </div>
-    <div class="news-card">
-        <div class="image-container">
-            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">#HEADLINE</span>
-        </div>
-        <a href="#" class="head_line">Rekomendasi Game Ngabuburit di Android Biar Puasa Kamu Makin Seru</a>
-        <p class="description">Merayakan ibadah puasa perlu dijalani dengan menyenangkan, kamu bisa untuk memainkan game…</p>
-        <p class="author">Christopher Louis | 7 October 2024</p>
-
-    </div>
-    <div class="news-card">
-        <div class="image-container">
-            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">#HEADLINE</span>
-        </div>
-        <a href="#" class="head_line">5 Aplikasi Islami yang Bisa Menambah Pahala di Bulan Ramadan</a>
-        <p class="description">Banyak cara dalam mendapatkan pahala, bahkan melalui perangkat smartphone juga bisa dengan…</p>
-        <p class="author">Christopher Louis | 7 October 2024</p>
-
-    </div>
-    <div class="news-card">
-        <div class="image-container">
-            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">#HEADLINE</span>
-        </div>
-        <a href="#" class="head_line">Rekomendasi HP POCO Murah, Bisa Banget Buat Mabar Game MLBB Nih!</a>
-        <p class="description">Terdapat hp POCO murah yang bisa kamu lirik bila budget belum bisa…</p>
-        <p class="author">Christopher Louis | 7 October 2024</p>
-
-    </div>
-    <div class="news-card">
-        <div class="image-container">
-            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">#HEADLINE</span>
-        </div>
-        <a href="#" class="head_line">Rekomendasi Game Offline di Android, Bisa untuk Anak Hingga Dewasa</a>
-        <p class="description">Ini kelima rekomendasi game offline di Android yang bisa kamu unduh lewat…</p>
-        <p class="author">Christopher Louis | 7 October 2024</p>
-
-    </div>
-    <div class="news-card">
-        <div class="image-container">
-            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">GALAXY A15</span>
-        </div>
-        <a href="#" class="head_line">Rekomendasi HP Terjangkau Penuh Inovasi di Januari 2024</a>
-        <p class="description">Gizmologi hadirkan rekomendasi hp terjangkau di Januari 2024 ini. Dari Samsung Galaxy…</p>
-        <p class="author">Christopher Louis | 7 October 2024</p>
-
 
 
 
