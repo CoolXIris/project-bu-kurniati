@@ -22,7 +22,7 @@
 <div class="news-container">
     <div class="news-card">
         <div class="image-container">
-            <img src="<?= base_url('css/img/MediaTek-Dimensity-9400.jpg') ?>" alt="News Image">
+            <img src="<?= base_url('css/img/razerv3.png') ?>" alt="News Image">
             <span class="badge-bottom-left">MOUSE GAMING</span>
         </div>
         <a href="<?= base_url('page/razerv3') ?>" class="head_line">Razer Luncurkan Viper V3 Pro Sentinels Edition: Kolaborasi Ikonik dengan Tim Esports Sentinels</a>
@@ -31,7 +31,7 @@
     </div>
     <div class="news-card">
         <div class="image-container">
-            <img src="<?= base_url('css/img/XGS-PON-WiFi-7.jpeg') ?>" alt="News Image">
+            <img src="<?= base_url('css/img/k70pro.png') ?>" alt="News Image">
             <span class="badge-bottom-left">AKSESORIS KOMPUTER</span>
         </div>
         <a href="<?= base_url('page/k70pro') ?>" class="head_line">Corsair Luncurkan Keyboard K70 PRO TKL, Punya Teknologi MGX Hyperdrive untuk Gamer Kompetitif</a>
@@ -43,7 +43,7 @@
     </div>
     <div class="news-card">
         <div class="image-container">
-            <img src="<?= base_url('css/img/mobile-banking-ilustrasi.jpg') ?>" alt="News Image">
+            <img src="<?= base_url('css/img/ayaneo3.png') ?>" alt="News Image">
             <span class="badge-bottom-left">AYANEO 3</span>
         </div>
         <a href="<?= base_url('page/ayaneo3') ?>" class="head_line">Teaser Ayaneo 3 Muncul, Siap Jadi Ancaman Baru di Segmen PC Handheld</a>
@@ -53,7 +53,7 @@
     </div>
     <div class="news-card">
         <div class="image-container">
-            <img src="<?= base_url('css/img/Tiktok.jpeg') ?>" alt="News Image">
+            <img src="<?= base_url('css/img/ryzen9800.png') ?>" alt="News Image">
             <span class="badge-bottom-left">AMD REYZEN</span>
         </div>
         <a href="<?= base_url('page/ryzen9800') ?>" class="head_line">AMD Luncurkan Prosesor Ryzen 7 9800X3D: Inovasi Terbaru untuk Pengalaman Gaming Maksimal</a>
@@ -63,7 +63,7 @@
     </div>
     <div class="news-card">
         <div class="image-container">
-            <img src="<?= base_url('css/img/indosat-HiFi.jpeg') ?>" alt="News Image">
+            <img src="<?= base_url('css/img/zenbook14.png') ?>" alt="News Image">
             <span class="badge-bottom-left">ASUS</span>
         </div>
         <a href="<?= base_url('page/zenbook14') ?>" class="head_line">ASUS Zenbook S 14 Diresmikan, Laptop AI Tipis dan Ringan Terbaik Seharga Rp28 Juta</a>
@@ -73,7 +73,7 @@
     </div>
     <div class="news-card">
         <div class="image-container">
-            <img src="<?= base_url('css/img/Samsung-Galaxy-A16.jpeg') ?>" alt="News Image">
+            <img src="<?= base_url('css/img/asusz890.png') ?>" alt="News Image">
             <span class="badge-bottom-left">ASUS</span>
         </div>
         <a href="<?= base_url('page/asusz890') ?>" class="head_line">Motherboard ASUS Z890 Series, Berikan Solusi Baru Bagi Gamer Hingga Kreator</a>
@@ -83,7 +83,7 @@
     </div>
     <div class="news-card">
         <div class="image-container">
-            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
+            <img src="<?= base_url('css/img/macbookm4.png') ?>" alt="News Image">
             <span class="badge-bottom-left">APPLE</span>
         </div>
         <a href="<?= base_url('page/macbookm4') ?>" class="head_line">MacBook Pro M4 Hadir Membawa Webcam 12MP dan Daya Tahan Baterai 24 Jam</a>
@@ -93,20 +93,20 @@
     </div>
     <div class="news-card">
         <div class="image-container">
-            <img src="<?= base_url('css/img/Asus-NUC.jpeg') ?>" alt="News Image">
+            <img src="<?= base_url('css/img/macmini4.png') ?>" alt="News Image">
             <span class="badge-bottom-left">APPLE</span>
         </div>
         <a href="<?= base_url('page/macmini4') ?>" class="head_line">Mac Mini M4 Punya Ukuran Jauh Lebih Kecil, Performa Lebih Kencang</a>
-        <p class="description">auh lebih mungil, Mac Mini M4 tak sampai setengah ukuran generasi sebelumnya.</p>
+        <p class="description">jauh lebih mungil, Mac Mini M4 tak sampai setengah ukuran generasi sebelumnya.</p>
         <p class="author">Prasetyo Herfianto | 20 November 2024</p>
 
     </div>
     <div class="news-card">
         <div class="image-container">
-            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">#TIPS & TRIK</span>
+            <img src="<?= base_url('css/img/cra_efektif.png') ?>" alt="News Image">
+            <span class="badge-bottom-left">TIPS & TRIK</span>
         </div>
-        <a href="<?= base_url('page/3cra_efektif') ?>" class="head_line">Inilah 3 Cara Efektif Membersihkan Laptop dari Debu & Minyak</a>
+        <a href="<?= base_url('page/cra_efektif') ?>" class="head_line">Inilah 3 Cara Efektif Membersihkan Laptop dari Debu & Minyak</a>
         <p class="description">Cara membersihkan laptop dari debu dan minyak ternyata mudah, dan berikut adalah…</p>
         <p class="author">Christopher Louis | 16 Oktober 2024</p>
 

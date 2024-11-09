@@ -228,4 +228,36 @@ class Page extends BaseController
     {
         return view('page/tecno_spark20');
     }
+    public function e_commerce()
+    {
+        return view('page/e_commerce');
+    }
+    public function geminilive()
+    {
+        return view('page/geminilive');
+    }
+    public function live_tiktok()
+    {
+        return view('page/live_tiktok');
+    }
+    public function sensor_hprusak()
+    {
+        return view('page/sensor_hprusak');
+    }
+    public function tips_hppanas()
+    {
+        return view('page/tips_hppanas');
+    }
+    public function wa_kontak()
+    {
+        return view('page/wa_kontak');
+    }
+    public function akun_igp()
+    {
+        return view('page/akun_igp');
+    }
+    public function android_jrkjauh()
+    {
+        return view('page/android_jrkjauh');
+    }
 }
