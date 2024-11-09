@@ -8,11 +8,10 @@
         <div class="text-about">
             <p style="font-size: 17px;color:white;margin-bottom:28px">GadgetGlimpse > <span style="color: #ff184e;">Review</span></p>
             <h2 style="color: white; margin-bottom:25px; font-size:29px">Review</h2>
-            <p style="color: white;">GadgetGlimpse adalah media gadget & teknologi yang menyajikan review produk gadget terlengkap. Mulai dari smartphone, laptop, kamera, wearable devices (jam pintar dll).</p>
-            <p style="color: white;">Review menjadi kanal unggulan dari GadgetGlimpse, yang mengulas produk secara mendalam dari berbagai aspek. Seperti desain, layar, kamera, fitur, performa, baterai, dan sebagainya. Termasuk spesifikasi, harga, kelebihan, dan kekurangan dari setiap produk. Sehingga pembaca bisa mendapatkan gambaran yang lebih utuh sebelum memutuskan untuk membeli gadget yang diinginkan.</p>
+            <p style="color: white;">Gadgetglimpse Menghadirkan Review Laptop Yang Mendalam Dan Detail, Memberikan Pembaca Panduan Lengkap Untuk Menilai Kualitas Setiap Produk Sebelum Memutuskan Pembelian. Setiap Review Disusun Dengan Cermat, Mencakup Aspek-Aspek Penting Seperti Desain, Yang Meliputi Kenyamanan Penggunaan Dan Material; Kualitas Layar, Termasuk Ketajaman, Kecerahan, Dan Akurasi Warna; Serta Performa Yang Ditinjau Berdasarkan Kecepatan Prosesor, Kapasitas RAM, Dan Kemampuan Grafis. Gadgetglimpse Juga Mengulas Daya Tahan Baterai Untuk Berbagai Skenario Penggunaan, Mulai Dari Produktivitas Hingga Hiburan, Dan Menilai Kualitas Suara Dari Speaker Bawaan Untuk Pengalaman Multimedia Yang Optimal. Kami Menyoroti Kelebihan Dan Kekurangan Tiap Laptop Secara Objektif, Serta Memberikan Perbandingan Dengan Produk Lain Di Kelas Yang Sama, Sehingga Pembaca Mendapatkan Gambaran Lengkap Dan Jujur. Dengan Review Yang Transparan Dan Informatif, Gadgetglimpse Menjadi Panduan Tepercaya Bagi Para Pengguna Untuk Memilih Laptop Yang Paling Sesuai Dengan Kebutuhan Mereka.</p>
         </div>
         <div class="image-about">
-            <img src="<?= base_url('css/img/review.jpeg') ?>" class="rounded mx-auto d-block" alt="news" style="height: 300px;width:500px">
+
         </div>
     </div>
 </section>

@@ -8,10 +8,10 @@
         <div class="text-about" style="align-items: center;">
             <p style="font-size: 17px;color:white;margin-bottom:28px">GadgetGlimpse > <span style="color: #ff184e;">News</span></p>
             <h2 style="color: white; margin-bottom:25px; font-size:29px">News</h2>
-            <p style="color: white;font-size:20px" class="about-text">menyajikan ulasan berita terbaru yang komprehensif seputar teknologi informasi dan telekomunikasi, gadget, dan sebagainya.</p>
+            <p style="color: white;font-size:20px" class="about-text">Gadgetglimpse Selalu Menyajikan Berita Terbaru Seputar Dunia Laptop, Memberikan Pembaca Akses Langsung Ke Informasi Terkini Tentang Rilis Produk, Inovasi Teknologi, Dan Perkembangan Pasar. Dalam Kanal Berita Ini, Gadgetglimpse Mengulas Peluncuran Laptop Dari Berbagai Merek Terkemuka, Seperti Apple, Dell, Lenovo, Dan ASUS, Dengan Penjelasan Lengkap Tentang Spesifikasi Dan Fitur-Fitur Terbaru Yang Ditawarkan. Kami Juga Melaporkan Inovasi Teknologi Yang Tengah Dikembangkan, Seperti Kemajuan Dalam Prosesor Generasi Terbaru, Teknologi Layar Yang Semakin Canggih, Serta Fitur Keamanan Dan Kenyamanan Pengguna Yang Semakin Ditingkatkan. Selain Itu, Gadgetglimpse Membahas Tren Pasar, Seperti Permintaan Laptop Untuk Kebutuhan Gaming, Pendidikan Jarak Jauh, Dan Bisnis, Serta Dampak Dari Perubahan Kebutuhan Pengguna Terhadap Produk Yang Dirilis. Dengan Informasi Yang Cepat Dan Andal, Gadgetglimpse Menjadi Sumber Referensi Utama Bagi Pembaca Yang Ingin Selalu Update Dengan Perkembangan Terbaru Di Dunia Laptop.</p>
         </div>
         <div class="image-about">
-            <img src="<?= base_url('css/img/News.jpeg') ?>" class="rounded mx-auto d-block" alt="news" style="height: 270px;width:400px">
+
         </div>
     </div>
 </section>

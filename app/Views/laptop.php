@@ -9,10 +9,10 @@
         <div class="text-about" style="align-items: center;">
             <p style="font-size: 17px;color:white;margin-bottom:28px">GadgetGlimpse > <span style="color: #ff184e;">Laptop</span></p>
             <h2 style="color: white; margin-bottom:25px; font-size:29px">Laptop</h2>
-            <p style="color: white;font-size:20px" class="about-text">Informasi laptop, personal computer (PC), All-in-one (AIO) PC, monitor dam semua yang terkait dengan komputer.</p>
+            <p style="color: white;font-size:20px" class="about-text">Gadgetglimpse Menyediakan Informasi Terbaru Dan Terlengkap Seputar Dunia Laptop, Menghadirkan Ulasan Mendalam Yang Membantu Pembaca Memahami Setiap Aspek Dari Berbagai Merek Dan Model Laptop Yang Beredar Di Pasaran. Setiap Artikel Membahas Spesifikasi Teknis, Performa Prosesor, Kapasitas RAM, Kecepatan Penyimpanan, Kualitas Layar, Serta Ketahanan Baterai Yang Penting Bagi Produktivitas. Gadgetglimpse Juga Mengevaluasi Desain Laptop, Kenyamanan Keyboard Dan Trackpad, Serta Fitur-Fitur Khusus Yang Mungkin Disertakan, Seperti Keamanan Biometrik Atau Kemampuan Layar Sentuh. Selain Itu, Analisis Kelebihan Dan Kekurangan Produk Membantu Pembaca Menentukan Pilihan Laptop Yang Paling Sesuai Dengan Kebutuhan Mereka, Baik Untuk Keperluan Kerja, Pendidikan, Maupun Hiburan. Dengan Informasi Yang Terperinci Dan Objektif, Gadgetglimpse Menjadi Panduan Andal Bagi Siapa Saja Yang Ingin Memilih Laptop Terbaik Sesuai Dengan Anggaran Dan Kebutuhan Mereka.</p>
         </div>
         <div class="image-about">
-            <img src="<?= base_url('css/img/Lenovo-Yoga-Book-9i.jpg') ?>" class="rounded mx-auto d-block" alt="news" style="height: 240px;width:400px">
+
         </div>
     </div>
 </section>
@@ -109,67 +109,6 @@
         <a href="#" class="head_line">Inilah 3 Cara Efektif Membersihkan Laptop dari Debu & Minyak</a>
         <p class="description">Cara membersihkan laptop dari debu dan minyak ternyata mudah, dan berikut adalah…</p>
         <p class="author">Christopher Louis | 16 Oktober 2024</p>
-
-    </div>
-    <div class="news-card">
-        <div class="image-container">
-            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">APPLE</span>
-        </div>
-        <a href="#" class="head_line">Apple Resmikan iMac M4 dengan Peningkatan Performa & Kamera Center Stage, Harga Tetap Sama</a>
-        <p class="description">Selain lebih ngebut, kapasitas RAM iMac M4 juga dibuat dua kali lebih…</p>
-        <p class="author">Christopher Louis | 20 November 2024</p>
-
-    </div>
-    <div class="news-card">
-        <div class="image-container">
-            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">AI APPLE</span>
-        </div>
-        <a href="#" class="head_line">Apple Bakal Menunda Peluncuran Mac Studio dengan Cip M4 Ultra</a>
-        <p class="description">Kabar penundaan Mac Studio dengan cip terbaik M4, disebut karena prioritas pembaruan…</p>
-        <p class="author">Christopher Louis | 30 November 2024</p>
-
-    </div>
-    <div class="news-card">
-        <div class="image-container">
-            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">#HEADLINE</span>
-        </div>
-        <a href="#" class="head_line">Asus Zenbook S 14 OLED, Laptop Tipis dengan Performa Andal</a>
-        <p class="description">Lap terbaru Asus Zenbook S 14 OLED ini harga dan spesifikasi tergolong…</p>
-        <p class="author">Christopher Louis | 7 October 2024</p>
-
-    </div>
-    <div class="news-card">
-        <div class="image-container">
-            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">MOUSE GAMING</span>
-        </div>
-        <a href="#" class="head_line">Razer Viper Mini Signature Edition Jadi Mouse Gaming Ringan & Kompetitif</a>
-        <p class="description">Razer Viper Mini Signature Edition siap meluncur sebagai mouse gaming yang dirancang…</p>
-        <p class="author">Prasetyo Herfianto | 20 October 2024</p>
-
-    </div>
-    <div class="news-card">
-        <div class="image-container">
-            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">LAPTOP BISNIS</span>
-        </div>
-        <a href="#" class="head_line">Jajaran Lenovo ThinkPad P Series Bawa Prosesor Intel Core & GPU NVIDIA Terbaru</a>
-        <p class="description">Mulai Rp30 jutaan, Lenovo ThinkPad P Series terbaru mendukung produktivitas bisnis lebih…</p>
-        <p class="author">Christopher Louis | 29 October 2024</p>
-
-    </div>
-    <div class="news-card">
-        <div class="image-container">
-            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">CREATE WOITH LENOVO</span>
-        </div>
-        <a href="#" class="head_line">Lenovo Pamer Smarter AI for All untuk Semua Perangkat di TechWorld 2024</a>
-        <p class="description">Lenovo telah mengumumkan inovasi AI terbarunya yang diklaim paling ambisius pada acara…</p>
-        <p class="author">Christopher Louis | 17 October 2024</p>
-
 
 
 

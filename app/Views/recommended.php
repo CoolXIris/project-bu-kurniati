@@ -8,10 +8,10 @@
         <div class="text-about" style="align-items: center;">
             <p style="font-size: 17px;color:white;margin-bottom:28px">GadgetGlimpse > <span style="color: #ff184e;">Rekomendasi</span></p>
             <h2 style="color: white; margin-bottom:25px; font-size:29px">Rekomendasi</h2>
-            <p style="color: white;font-size:20px" class="about-text">menyajikan ulasan berita terbaru yang komprehensif seputar teknologi informasi dan telekomunikasi, gadget, dan sebagainya.</p>
+            <p style="color: white;font-size:20px" class="about-text">Gadgetglimpse Menyajikan Berbagai Rekomendasi Gadget Terbaik Untuk Membantu Pembaca Memilih Perangkat Yang Sesuai Dengan Kebutuhan, Mulai Dari Smartphone Hingga Perangkat Audio. Untuk Pengguna Yang Mencari Smartphone Berkinerja Tinggi, Kami Merekomendasikan Pilihan Dengan Prosesor Kuat, Kamera Berkualitas, Dan Baterai Tahan Lama, Sesuai Untuk Aktivitas Multitasking, Fotografi, Atau Gaming. Bagi Pelajar Dan Profesional, Kami Menyarankan Laptop Atau Tablet Dengan Performa Handal Dan Daya Tahan Baterai Yang Optimal Untuk Mendukung Produktivitas.. Setiap Rekomendasi Dilengkapi Ulasan Detail, Spesifikasi, Serta Analisis Kelebihan Dan Kekurangannya, Sehingga Pembaca Dapat Dengan Mudah Menemukan Gadget Yang Paling Sesuai Dengan Gaya Hidup Dan Kebutuhan Mereka.</p>
         </div>
         <div class="image-about">
-            <img src="<?= base_url('css/img/News.jpeg') ?>" class="rounded mx-auto d-block" alt="news" style="height: 270px;width:400px">
+
         </div>
     </div>
 </section>
