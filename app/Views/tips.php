@@ -8,12 +8,7 @@
         <div class="text-about" style="align-items: center;">
             <p style="font-size: 17px;color:white;margin-bottom:28px">GadgetGlimpse > <span style="color: #ff184e;">Tips</span></p>
             <h2 style="color: white; margin-bottom:25px; font-size:29px">Tips</h2>
-            <p style="color: white;font-size:20px" class="about-text">Gadgetglimpse Menawarkan Berbagai Tips Berguna Bagi Pembaca Untuk Meningkatkan Pengalaman Mereka Dalam Menggunakan Gadget Sehari-Hari, Dari Laptop Hingga Perangkat Audio. Salah Satu Tips Utama Adalah Menjaga Kebersihan Perangkat Dengan Membersihkan Debu Dan Kotoran Secara Rutin, Terutama Pada Keyboard, Layar, Dan Ventilasi Laptop, Agar Performa Tetap Optimal Dan Perangkat Lebih Awet. Untuk Melindungi Keamanan Data, Gadgetglimpse Menyarankan Penggunaan Kata Sandi Yang Kuat, Serta Mengaktifkan Enkripsi Dan Verifikasi Dua Langkah, Terutama Untuk Perangkat Yang Menyimpan Informasi Sensitif. Agar Gadget Tetap Hemat Daya, Tips Lain Yang Direkomendasikan Adalah Mengatur Kecerahan Layar, Mematikan Fitur-Fitur Seperti Wi-Fi Atau Bluetooth Saat Tidak Digunakan, Serta Menonaktifkan Aplikasi Latar Belakang Yang Menguras Baterai.
-                Gadgetglimpse Membantu Pembaca Menjaga Kondisi Gadget Mereka, Mengoptimalkan Fungsinya, Dan Memperpanjang Masa Pakai Perangkat Untuk Pengalaman Penggunaan Yang Lebih Memuaskan.
-
-
-
-            </p>
+            <p style="color: white;font-size:20px" class="about-text">Gadgetglimpse Menawarkan Berbagai Tips Berguna Bagi Pembaca Untuk Meningkatkan Pengalaman Mereka Dalam Menggunakan Gadget Sehari-Hari, Dari Laptop Hingga Perangkat Audio. Salah Satu Tips Utama Adalah Menjaga Kebersihan Perangkat Dengan Membersihkan Debu Dan Kotoran Secara Rutin, Terutama Pada Keyboard, Layar, Dan Ventilasi Laptop, Agar Performa Tetap Optimal Dan Perangkat Lebih Awet. Untuk Melindungi Keamanan Data, Gadgetglimpse Menyarankan Penggunaan Kata Sandi Yang Kuat, Serta Mengaktifkan Enkripsi Dan Verifikasi Dua Langkah, Terutama Untuk Perangkat Yang Menyimpan Informasi Sensitif. Agar Gadget Tetap Hemat Daya, Tips Lain Yang Direkomendasikan Adalah Mengatur Kecerahan Layar, Mematikan Fitur-Fitur Seperti Wi-Fi Atau Bluetooth Saat Tidak Digunakan, Serta Menonaktifkan Aplikasi Latar Belakang Yang Menguras Baterai.</p>
         </div>
         <div class="image-about">
 
