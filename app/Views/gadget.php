@@ -7,10 +7,10 @@
     <div class="text-about" style="align-items: center;">
         <p style="font-size: 17px;color:white;margin-bottom:28px">GadgetGlimpse > <span style="color: #ff184e;">Gadget</span></p>
         <h2 style="color: white; margin-bottom:25px; font-size:29px">Gadget</h2>
-        <p style="color: white;font-size:20px">Informasi gadget terbaru baik itu smartphone, kamera, wearable, dan lainnya hanya di GadgetGlimpse</p>
+        <p style="color: white;font-size:20px">Gadgetglimpse Menghadirkan Informasi Terkini Dan Ulasan Mendalam Seputar Berbagai Gadget Terbaru, Mencakup Beragam Perangkat Mulai Dari Smartphone, Tablet, Kamera, Hingga Perangkat Wearable Seperti Jam Pintar Dan Gelang Kebugaran. Setiap Artikel Di Gadgetglimpse Menyajikan Panduan Lengkap Mengenai Spesifikasi Teknis, Fitur Unggulan, Dan Inovasi Terbaru Dari Tiap Gadget Yang Dirilis. Dalam Kanal Ulasan, Gadgetglimpse Menganalisis Performa Perangkat, Mulai Dari Kecepatan Prosesor, Kapasitas Penyimpanan, Daya Tahan Baterai, Hingga Kualitas Kamera, Membantu Pembaca Memahami Setiap Kelebihan Dan Kekurangannya Secara Detail. Selain Itu, Kami Menyediakan Informasi Harga Serta Perbandingan Dengan Gadget Sejenis Di Pasaran, Memberikan Perspektif Yang Lebih Luas Bagi Calon Pembeli. Dengan Berita Terkini, Tips Pemakaian, Dan Rekomendasi Terbaik, Gadgetglimpse Menjadi Sumber Terpercaya Untuk Pecinta Teknologi Yang Ingin Mengetahui Gadget Mana Yang Paling Sesuai Dengan Kebutuhan Dan Tren Terbaru.</p>
     </div>
     <div class="image-about">
-        <img src="<?= base_url('css/img/gadget.jpg') ?>" class="rounded mx-auto d-block" alt="news">
+
     </div>
 </div>
 
