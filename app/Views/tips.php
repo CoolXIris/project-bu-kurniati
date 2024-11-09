@@ -27,7 +27,7 @@
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/MediaTek-Dimensity-9400.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">#TIPS & TRIK</span>
+            <span class="badge-bottom-left">TIPS & TRIK</span>
         </div>
         <a href="<?= base_url('page/mediatek_dimensity9400') ?>" class="head_line">Cara Mengubah Akun Instagram Pribadi Menjadi Akun Bisnis & Profesional</a>
         <p class="description">Cara mengubah akun Instagram Pribadi menjadi akun bisnis dan Profesional. Mudah dan…</p>
