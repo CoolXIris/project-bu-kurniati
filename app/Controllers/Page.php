@@ -136,4 +136,96 @@ class Page extends BaseController
     {
         return view('page/vnpt');
     }
+    public function mate_xt()
+    {
+        return view('page/mate_xt');
+    }
+    public function bose_sound()
+    {
+        return view('page/bose_sound');
+    }
+    public function realme13series()
+    {
+        return view('page/realme13series');
+    }
+    public function spark30c()
+    {
+        return view('page/spark30c');
+    }
+    public function zeiss()
+    {
+        return view('page/zeiss');
+    }
+    public function razerv3()
+    {
+        return view('page/razerv3');
+    }
+    public function zenbook14()
+    {
+        return view('page/zenbook14');
+    }
+    public function ryzen9800()
+    {
+        return view('page/ryzen9800');
+    }
+    public function cra_efektif()
+    {
+        return view('page/3cra_efektif');
+    }
+    public function asusz890()
+    {
+        return view('page/zeiss');
+    }
+    public function ayaneo3()
+    {
+        return view('page/ayaneo3');
+    }
+    public function k70pro()
+    {
+        return view('page/k70pro');
+    }
+    public function macbookm4()
+    {
+        return view('page/macbookm4');
+    }
+    public function macmini4()
+    {
+        return view('page/macmini4');
+    }
+    public function aiot_xiomi()
+    {
+        return view('page/aiot_xiomi');
+    }
+    public function apk_pengganti()
+    {
+        return view('page/apk_pengganti');
+    }
+    public function dompet_web3()
+    {
+        return view('page/dompet_web3');
+    }
+    public function laptop_tipis()
+    {
+        return view('page/laptop_tipis');
+    }
+    public function mul_ps5()
+    {
+        return view('page/mul_ps5');
+    }
+    public function redmi_wtch4()
+    {
+        return view('page/redmi_wtch4');
+    }
+    public function rek_5hpsmsung()
+    {
+        return view('page/rek_5hpsmsung');
+    }
+    public function rek_gameios()
+    {
+        return view('page/rek_gameios');
+    }
+    public function tecno_spark20()
+    {
+        return view('page/tecno_spark20');
+    }
 }
