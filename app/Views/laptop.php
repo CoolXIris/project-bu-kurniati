@@ -9,7 +9,7 @@
         <div class="text-about" style="align-items: center;">
             <p style="font-size: 17px;color:white;margin-bottom:28px">GadgetGlimpse > <span style="color: #ff184e;">Laptop</span></p>
             <h2 style="color: white; margin-bottom:25px; font-size:29px">Laptop</h2>
-            <p style="color: white;font-size:20px" class="about-text">menyajikan ulasan berita terbaru yang komprehensif seputar teknologi informasi dan telekomunikasi, gadget, dan sebagainya.</p>
+            <p style="color: white;font-size:20px" class="about-text">Informasi laptop, personal computer (PC), All-in-one (AIO) PC, monitor dam semua yang terkait dengan komputer.</p>
         </div>
         <div class="image-about">
             <img src="<?= base_url('css/img/Lenovo-Yoga-Book-9i.jpg') ?>" class="rounded mx-auto d-block" alt="news" style="height: 240px;width:400px">
@@ -23,19 +23,19 @@
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/MediaTek-Dimensity-9400.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">CHIPSET</span>
+            <span class="badge-bottom-left">MOUSE GAMING</span>
         </div>
-        <a href="<?= base_url('page/mediatek_dimensity9400') ?>" class="head_line">Chip Flagship Mediatek Dimensity 9400 Maksimalkan Performa & Efisiensi, Siap Untuk Era AI Agentik</a>
-        <p class="description">MediaTek Dimensity 9400 siap debut di flagship terbaru rilisan akhir 2024</p>
+        <a href="<?= base_url('page/mediatek_dimensity9400') ?>" class="head_line">Razer Luncurkan Viper V3 Pro Sentinels Edition: Kolaborasi Ikonik dengan Tim Esports Sentinels</a>
+        <p class="description">Razer bersama dengan Sentinels merilis mouse gaming lewat Viper V3 Pro Sentinels…</p>
         <p class="author"><span style="font-style: bold;">Prasetyo Herfianto</span> | 10 October 2024</p>
     </div>
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/XGS-PON-WiFi-7.jpeg') ?>" alt="News Image">
-            <span class="badge-bottom-left">QUALCOMM</span>
+            <span class="badge-bottom-left">AKSESORIS KOMPUTER</span>
         </div>
-        <a href="#" class="head_line">VNPT & Qualcomm Luncurkan XGS-PON WiFi 7, Kecepatan Internet Sampai 22 Gbps</a>
-        <p class="description">Vietnam Post and Telecommunications Group (VNPT) baru saja meluncurkan layanan XGS-PON WiFi...</p>
+        <a href="#" class="head_line">Corsair Luncurkan Keyboard K70 PRO TKL, Punya Teknologi MGX Hyperdrive untuk Gamer Kompetitif</a>
+        <p class="description">Inovasi terbaru Corsair untuk para gamer tercermin lewat fitur unggulan keyboard K70…</p>
         <p class="author">
             <bold>Christopher Louis</bold> | 10 October 2024
         </p>
@@ -44,51 +44,51 @@
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/mobile-banking-ilustrasi.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">APLIKASI FINTECH</span>
+            <span class="badge-bottom-left">AYANEO 3</span>
         </div>
-        <a href="#" class="head_line">Laporan Lokadata: 73 Persen Gen Z Beralih Gunakan Bank Digital</a>
-        <p class="description">Jakarta, GadgetGlimpse - Lokadata.id, perusahaan riset ini mengungkapkan laporannya yang menyebutkan 73...</p>
+        <a href="#" class="head_line">Teaser Ayaneo 3 Muncul, Siap Jadi Ancaman Baru di Segmen PC Handheld</a>
+        <p class="description">Begini penampakan awal pada Ayaneo 3, digadang sebagai PC Gaming Handheld dengan…</p>
         <p class="author">Christopher Louis | 09 October 2024</p>
 
     </div>
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/Tiktok.jpeg') ?>" alt="News Image">
-            <span class="badge-bottom-left">APLIKASI TIKTOK</span>
+            <span class="badge-bottom-left">AMD REYZEN</span>
         </div>
-        <a href="#" class="head_line">Tiktok Dituntut Jaksa Agung AS, Dianggap Tak Perhatikan Kesehatan Mental Remaja</a>
-        <p class="description">Baru-baru ini, sebanyak 14 jaksa agung dari negara bagian Amerika Serikat telah...</p>
-        <p class="author">Christopher Louis | 9 October 2024</p>
+        <a href="#" class="head_line">AMD Luncurkan Prosesor Ryzen 7 9800X3D: Inovasi Terbaru untuk Pengalaman Gaming Maksimal</a>
+        <p class="description">AMD Ryzen 7 9800X3D Siap Meluncur, Dirancang khusus para gamer yang mengincar…</p>
+        <p class="author">Christopher Louis | 10 November 2024</p>
 
     </div>
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/indosat-HiFi.jpeg') ?>" alt="News Image">
-            <span class="badge-bottom-left">INDOSAT HIFI</span>
+            <span class="badge-bottom-left">ASUS</span>
         </div>
-        <a href="#" class="head_line">MNC Play Resmi Bermigrasi ke Indosat HiFi, Janjikan Kualitas Interner Lebih Prima</a>
-        <p class="description">Indosat secara resmi mengumumkan transformasi brand layanan internet MNC Play menjadi Indosat...</p>
-        <p class="author">Christopher Louis | 9 October 2024</p>
+        <a href="#" class="head_line">ASUS Zenbook S 14 Diresmikan, Laptop AI Tipis dan Ringan Terbaik Seharga Rp28 Juta</a>
+        <p class="description">Dengan harga premium, ASUS Zenbook S 14 terbaru bawa sejumlah keunggulan menarik.</p>
+        <p class="author">Christopher Louis | 15 November 2024</p>
 
     </div>
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/Samsung-Galaxy-A16.jpeg') ?>" alt="News Image">
-            <span class="badge-bottom-left">GALAXY A16 5G</span>
+            <span class="badge-bottom-left">ASUS</span>
         </div>
-        <a href="#" class="head_line">Samsung Galaxy A16 5G Siap Meramaikan Pasar Mid-Range Tanah Air</a>
-        <p class="description">Samsung bakal meluncurkan Galaxy A16 5G sebagai ponsel mid-range harga terjangkau di...</p>
+        <a href="#" class="head_line">Motherboard ASUS Z890 Series, Berikan Solusi Baru Bagi Gamer Hingga Kreator</a>
+        <p class="description">Asus resmi merilis motherboard terbarunya, ASUS Z890 Series yang mencakup ekosistem Prime,…</p>
         <p class="author">Christopher Louis | 8 October 2024</p>
 
     </div>
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">SOLUSI KEAMANAN DATA</span>
+            <span class="badge-bottom-left">APPLE</span>
         </div>
-        <a href="#" class="head_line">Solusi Enterprise Terbaru Synology, Integrasikan AI & Kamera Pengintai Berbasis Cloud</a>
-        <p class="description">Synology integrasikan AI secara mendalam, termasuk untuk membuat ringkasan dokumen sampai membuat...</p>
-        <p class="author">Christopher Louis | 8 October 2024</p>
+        <a href="#" class="head_line">MacBook Pro M4 Hadir Membawa Webcam 12MP dan Daya Tahan Baterai 24 Jam</a>
+        <p class="description">MacBook Pro M4 kembali tersedia dalam tiga opsi cip berbeda dan dua…</p>
+        <p class="author">Christopher Louis | 12 Desember 2024</p>
 
     </div>
     <div class="news-card">
@@ -96,43 +96,107 @@
             <img src="<?= base_url('css/img/Asus-NUC.jpeg') ?>" alt="News Image">
             <span class="badge-bottom-left">APPLE</span>
         </div>
-        <a href="#" class="head_line">Apple Dikabarkan Batal Kembangkan Smart Ring. Ini Alasannya</a>
-        <p class="description">Pasar smart ring kini baru didominasi sejumlah vendor saja, seperti Oura dan ...</p>
-        <p class="author">Christopher Louis | 8 October 2024</p>
+        <a href="#" class="head_line">Mac Mini M4 Punya Ukuran Jauh Lebih Kecil, Performa Lebih Kencang</a>
+        <p class="description">auh lebih mungil, Mac Mini M4 tak sampai setengah ukuran generasi sebelumnya.</p>
+        <p class="author">Prasetyo Herfianto | 20 November 2024</p>
 
     </div>
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
-            <span class="badge-bottom-left">ASUS</span>
+            <span class="badge-bottom-left">#TIPS & TRIK</span>
         </div>
-        <a href="#" class="head_line">Kilas Balik 1 Tahun Asus Akuisisi NUC dari Intel</a>
-        <p class="description">ASUS Nuc berhasil menjadi opsi utama dalam pasar mini PC.</p>
+        <a href="#" class="head_line">Inilah 3 Cara Efektif Membersihkan Laptop dari Debu & Minyak</a>
+        <p class="description">Cara membersihkan laptop dari debu dan minyak ternyata mudah, dan berikut adalah…</p>
+        <p class="author">Christopher Louis | 16 Oktober 2024</p>
+
+    </div>
+    <div class="news-card">
+        <div class="image-container">
+            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
+            <span class="badge-bottom-left">APPLE</span>
+        </div>
+        <a href="#" class="head_line">Apple Resmikan iMac M4 dengan Peningkatan Performa & Kamera Center Stage, Harga Tetap Sama</a>
+        <p class="description">Selain lebih ngebut, kapasitas RAM iMac M4 juga dibuat dua kali lebih…</p>
+        <p class="author">Christopher Louis | 20 November 2024</p>
+
+    </div>
+    <div class="news-card">
+        <div class="image-container">
+            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
+            <span class="badge-bottom-left">AI APPLE</span>
+        </div>
+        <a href="#" class="head_line">Apple Bakal Menunda Peluncuran Mac Studio dengan Cip M4 Ultra</a>
+        <p class="description">Kabar penundaan Mac Studio dengan cip terbaik M4, disebut karena prioritas pembaruan…</p>
+        <p class="author">Christopher Louis | 30 November 2024</p>
+
+    </div>
+    <div class="news-card">
+        <div class="image-container">
+            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
+            <span class="badge-bottom-left">#HEADLINE</span>
+        </div>
+        <a href="#" class="head_line">Asus Zenbook S 14 OLED, Laptop Tipis dengan Performa Andal</a>
+        <p class="description">Lap terbaru Asus Zenbook S 14 OLED ini harga dan spesifikasi tergolong…</p>
         <p class="author">Christopher Louis | 7 October 2024</p>
 
     </div>
+    <div class="news-card">
+        <div class="image-container">
+            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
+            <span class="badge-bottom-left">MOUSE GAMING</span>
+        </div>
+        <a href="#" class="head_line">Razer Viper Mini Signature Edition Jadi Mouse Gaming Ringan & Kompetitif</a>
+        <p class="description">Razer Viper Mini Signature Edition siap meluncur sebagai mouse gaming yang dirancang…</p>
+        <p class="author">Prasetyo Herfianto | 20 October 2024</p>
 
-    <!-- Tambahkan card lain sesuai kebutuhan -->
-</div>
-<div class="pagination" style="justify-content: center;align-items:center;">
-    <nav aria-label="Page navigation example">
-        <ul class="pagination">
-            <li class="page-item">
-                <a class="page-link" href="#" aria-label="Previous">
-                    <span aria-hidden="true">&laquo;</span>
-                </a>
-            </li>
-            <li class="page-item"><a class="page-link" href="#">1</a></li>
-            <li class="page-item"><a class="page-link" href="#">2</a></li>
-            <li class="page-item"><a class="page-link" href="#">3</a></li>
-            <li class="page-item">
-                <a class="page-link" href="#" aria-label="Next">
-                    <span aria-hidden="true">&raquo;</span>
-                </a>
-            </li>
-        </ul>
-    </nav>
-</div>
+    </div>
+    <div class="news-card">
+        <div class="image-container">
+            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
+            <span class="badge-bottom-left">LAPTOP BISNIS</span>
+        </div>
+        <a href="#" class="head_line">Jajaran Lenovo ThinkPad P Series Bawa Prosesor Intel Core & GPU NVIDIA Terbaru</a>
+        <p class="description">Mulai Rp30 jutaan, Lenovo ThinkPad P Series terbaru mendukung produktivitas bisnis lebih…</p>
+        <p class="author">Christopher Louis | 29 October 2024</p>
+
+    </div>
+    <div class="news-card">
+        <div class="image-container">
+            <img src="<?= base_url('css/img/Synology-Solution.jpg') ?>" alt="News Image">
+            <span class="badge-bottom-left">CREATE WOITH LENOVO</span>
+        </div>
+        <a href="#" class="head_line">Lenovo Pamer Smarter AI for All untuk Semua Perangkat di TechWorld 2024</a>
+        <p class="description">Lenovo telah mengumumkan inovasi AI terbarunya yang diklaim paling ambisius pada acara…</p>
+        <p class="author">Christopher Louis | 17 October 2024</p>
 
 
-<?= $this->endSection() ?>
+
+
+
+
+
+        <!-- Tambahkan card lain sesuai kebutuhan -->
+    </div>
+    <div class="pagination" style="justify-content: center;align-items:center;">
+        <nav aria-label="Page navigation example">
+            <ul class="pagination">
+                <li class="page-item">
+                    <a class="page-link" href="#" aria-label="Previous">
+                        <span aria-hidden="true">&laquo;</span>
+                    </a>
+                </li>
+                <li class="page-item"><a class="page-link" href="#">1</a></li>
+                <li class="page-item"><a class="page-link" href="#">2</a></li>
+                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                <li class="page-item">
+                    <a class="page-link" href="#" aria-label="Next">
+                        <span aria-hidden="true">&raquo;</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+
+    <?= $this->endSection() ?>
