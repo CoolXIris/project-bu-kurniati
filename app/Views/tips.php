@@ -26,7 +26,7 @@
 <div class="news-container">
     <div class="news-card">
         <div class="image-container">
-            <img src="<?= base_url('css/img/akun_igp') ?>" alt="News Image">
+            <img src="<?= base_url('css/img/akun_igp.png') ?>" alt="News Image">
             <span class="badge-bottom-left">TIPS & TRIK</span>
         </div>
         <a href="<?= base_url('page/akun_igp') ?>" class="head_line">Cara Mengubah Akun Instagram Pribadi Menjadi Akun Bisnis & Profesional</a>

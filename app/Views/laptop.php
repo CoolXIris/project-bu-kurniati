@@ -110,11 +110,6 @@
         <p class="description">Cara membersihkan laptop dari debu dan minyak ternyata mudah, dan berikut adalah…</p>
         <p class="author">Christopher Louis | 16 Oktober 2024</p>
 
-
-
-
-
-
         <!-- Tambahkan card lain sesuai kebutuhan -->
     </div>
     <div class="pagination" style="justify-content: center;align-items:center;">
