@@ -4,14 +4,11 @@
 
 <!-- About Section -->
 <section id="about">
-    <div class="about" style="padding: 40px;">
+    <div class="about" style="padding: 38px;">
         <div class="text-about" style="align-items: center;">
             <p style="font-size: 17px;color:white;margin-bottom:28px">GadgetGlimpse > <span style="color: #ff184e;">News</span></p>
             <h2 style="color: white; margin-bottom:25px; font-size:29px">News</h2>
-            <p style="color: white;font-size:20px" class="about-text">Gadgetglimpse Selalu Menyajikan Berita Terbaru Seputar Dunia Laptop, Memberikan Pembaca Akses Langsung Ke Informasi Terkini Tentang Rilis Produk, Inovasi Teknologi, Dan Perkembangan Pasar. Dalam Kanal Berita Ini, Gadgetglimpse Mengulas Peluncuran Laptop Dari Berbagai Merek Terkemuka, Seperti Apple, Dell, Lenovo, Dan ASUS, Dengan Penjelasan Lengkap Tentang Spesifikasi Dan Fitur-Fitur Terbaru Yang Ditawarkan. Kami Juga Melaporkan Inovasi Teknologi Yang Tengah Dikembangkan, Seperti Kemajuan Dalam Prosesor Generasi Terbaru, Teknologi Layar Yang Semakin Canggih, Serta Fitur Keamanan Dan Kenyamanan Pengguna Yang Semakin Ditingkatkan. Selain Itu, Gadgetglimpse Membahas Tren Pasar, Seperti Permintaan Laptop Untuk Kebutuhan Gaming, Pendidikan Jarak Jauh, Dan Bisnis, Serta Dampak Dari Perubahan Kebutuhan Pengguna Terhadap Produk Yang Dirilis. Dengan Informasi Yang Cepat Dan Andal, Gadgetglimpse Menjadi Sumber Referensi Utama Bagi Pembaca Yang Ingin Selalu Update Dengan Perkembangan Terbaru Di Dunia Laptop.</p>
-        </div>
-        <div class="image-about">
-
+            <p style="color: white;font-size:20px;text-align: justify" class="about-text">Laman ini menyajikan berita terkini seputar dunia teknologi, mulai dari rilis produk, inovasi teranyar, hingga tren pasar yang membentuk masa depan. Pembaca dapat menemukan update perkembangan teknologi yang mencakup beragam sektor, dari kecerdasan buatan, komputasi awan, hingga transformasi digital dalam dunia bisnis. Tidak hanya menyajikan informasi mendalam, laman ini juga merangkum analisis pasar dan tren yang sedang panas dibicarakan, sehingga menjadi sumber referensi terpercaya bagi siapa saja yang ingin selalu up-to-date dengan dunia teknologi. Dengan gaya penyajian yang dinamis dan kaya informasi, laman ini siap membawa pembaca lebih dekat dengan inovasi masa kini dan masa depan.</p>
         </div>
     </div>
 </section>
