@@ -28,7 +28,7 @@
                         </p>
                     </div>
                 </div>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/MediaTek-Dimensity-9400.jpg') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/cra_efektif.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
                 <p class="text-gray-300 mb-4">
                     <span class="font-bold">
                         Jakarta, GadgetGlimpse
@@ -41,7 +41,7 @@
 
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">1 . Membersihkan Layar Laptop dari Debu dan Minyak </p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/cra_efektif1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Bagian layar merupakan area yang paling sering terpapar debu dan sidik jari, sehingga sering terlihat buram atau berminyak. Membersihkan laptop di bagian layar memerlukan kehati-hatian karena sifatnya yang sensitif terhadap goresan. Berikut ini adalah cara membersihkan layar laptop secara efektif:</p>
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Gunakan Kain Microfiber untuk Membersihkan Debu</p>
@@ -55,7 +55,7 @@
 
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">2. Membersihkan Laptop Di Bagian Keyboard dan Area Sekitar Touchpad</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/cra_efektif2.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Membersihkan laptop pada bagian keyboard dan area touchpad adalah bagian laptop yang paling sering bersentuhan dengan tangan, sehingga mudah sekali berminyak dan kotor. Debu yang menumpuk di sela-sela keyboard juga dapat mengganggu respons tombol. Berikut ini beberapa cara untuk membersihkan bagian ini:</p>
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Gunakan Kuas Kecil untuk Debu di Sela-sela Keyboard</p>
@@ -69,7 +69,7 @@
 
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">3. Tips Tambahan untuk Menjaga Kebersihan Laptop</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/cra_efektif3.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Selain membersihkan bagian layar dan keyboard, ada beberapa tips tambahan yang bisa kamu terapkan untuk menjaga laptop tetap bersih dan bebas dari debu dan minyak dalam jangka waktu yang lebih lama:</p>
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Hindari Makan dan Minum di Dekat Laptop</p>

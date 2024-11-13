@@ -28,7 +28,7 @@
                         </p>
                     </div>
                 </div>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/MediaTek-Dimensity-9400.jpg') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/wa_kontak.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content" />
                 <p class="text-gray-300 mb-4">
                     <span class="font-bold">
                         Jakarta, GadgetGlimpse
@@ -41,7 +41,7 @@
 
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Fitur Kelola Kontak Diharapkan Menjadi Fitur Favorit Pengguna</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/wa_kontak1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">WA memperkenalkan pilihan baru untuk menyimpan kontak secara eksklusif. Kontak WhatsApp akan sangat ideal, dan pastinya hadirnya fitur ini menjadi salah satu fitur yang bisa selalu dimanfaatkan, terkhusus bagi para pengguna yang tidak mempunyai second phone. Maka dari itu, pengguna akan dengan mudah memisahkan kontak bisnis dan kontak pribadi. Fitur ini bisa sangat bermanfaat untuk para pelaku bisnis atau orang yang selalu memanfaatkan WhatsApp sebagai sarana untuk berkomunikasi dengan kolega atau orang-orang yang berkaitan dengan pekerjaan mereka.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Pembaruan ini akan sangat memudahkan pengguna dalam mengelola dan menyimpan kontak berdasarkan nama pengguna. Secara dasar, nama pengguna di WA akan menambahkan lapisan privasi yang ekstra, sehingga kamu tidak perlu membagikan nomor ponsel ketika kamu hendak mengirimkan pesan kepada seseorang. Maka dari itu, ini merupakan salah satu langkah penting untuk mewujudkan peningkatan privasi dan WhatsApp juga mengatakan bahwa mereka akan memiliki banyak hal baru ketika sudah siap.</p>
 

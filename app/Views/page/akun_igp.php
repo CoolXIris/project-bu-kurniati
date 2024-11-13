@@ -28,7 +28,7 @@
                         </p>
                     </div>
                 </div>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/MediaTek-Dimensity-9400.jpg') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/akun_igp.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content" />
                 <p class="text-gray-300 mb-4">
                     <span class="font-bold">
                         Jakarta, GadgetGlimpse
@@ -37,7 +37,7 @@
                 </p>
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Persiapan Sebelum Beralih ke Akun Bisnis atau Profesional </p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/akun_igp1.png') ?>" style="width: auto;height:auto;border-radius:2%;object-fit:content;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Sebelum memulai proses mengubah akun Instagram pribadi Anda menjadi akun bisnis atau profesional, pastikan Anda memiliki tujuan yang jelas. Akun bisnis biasanya cocok untuk usaha kecil, merek, atau perusahaan yang ingin mempromosikan produk atau layanan. Sementara itu, akun profesional, yang sering disebut akun Kreator, lebih cocok untuk individu seperti influencer, seniman, musisi, atau tokoh publik yang ingin memanfaatkan fitur khusus untuk kreator konten.</p>
 
 
