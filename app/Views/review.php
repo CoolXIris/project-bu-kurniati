@@ -8,7 +8,7 @@
         <div class="text-about">
             <p style="font-size: 17px;color:white;margin-bottom:28px">GadgetGlimpse > <span style="color: #ff184e;">Review</span></p>
             <h2 style="color: white; margin-bottom:25px; font-size:29px">Review</h2>
-            <p style="color: white;">Gadgetglimpse Menghadirkan Review Laptop Yang Mendalam Dan Detail, Memberikan Pembaca Panduan Lengkap Untuk Menilai Kualitas Setiap Produk Sebelum Memutuskan Pembelian. Setiap Review Disusun Dengan Cermat, Mencakup Aspek-Aspek Penting Seperti Desain, Yang Meliputi Kenyamanan Penggunaan Dan Material; Kualitas Layar, Termasuk Ketajaman, Kecerahan, Dan Akurasi Warna; Serta Performa Yang Ditinjau Berdasarkan Kecepatan Prosesor, Kapasitas RAM, Dan Kemampuan Grafis. Gadgetglimpse Juga Mengulas Daya Tahan Baterai Untuk Berbagai Skenario Penggunaan, Mulai Dari Produktivitas Hingga Hiburan, Dan Menilai Kualitas Suara Dari Speaker Bawaan Untuk Pengalaman Multimedia Yang Optimal. Kami Menyoroti Kelebihan Dan Kekurangan Tiap Laptop Secara Objektif, Serta Memberikan Perbandingan Dengan Produk Lain Di Kelas Yang Sama, Sehingga Pembaca Mendapatkan Gambaran Lengkap Dan Jujur. Dengan Review Yang Transparan Dan Informatif, Gadgetglimpse Menjadi Panduan Tepercaya Bagi Para Pengguna Untuk Memilih Laptop Yang Paling Sesuai Dengan Kebutuhan Mereka.</p>
+            <p style="color: white;font-size:20px;text-align: justify" class="about-text">Laman ini menyajikan ulasan terbaru yang membahas produk secara mendalam dari berbagai aspek penting. Mulai dari desain, kualitas layar, performa kamera, fitur unggulan, hingga performa dan daya tahan baterai, semuanya dibahas tuntas. Tak hanya itu, ulasan juga mencakup spesifikasi lengkap, harga pasar, serta kelebihan dan kekurangan dari setiap produk yang direview. Dengan informasi yang komprehensif ini, pembaca dapat memperoleh gambaran menyeluruh yang membantu dalam mempertimbangkan pilihan, sehingga keputusan untuk membeli gadget impian menjadi lebih bijak dan sesuai kebutuhan.</p>
         </div>
         <div class="image-about">
 
@@ -17,7 +17,7 @@
 </section>
 
 <!-- Content Section -->
-<h3 style="margin-left: 50px;margin-top:40px;color:white;"><span style="color: #0ba3e3;">/</span> Latest Reviews <span style="color: #0ba3e3;">/</span></h3>
+<h3 style="margin-left: 50px;margin-top:40px;color:white;font-size:25px"><span style="color: #0ba3e3;">/</span> Latest Reviews <span style="color: #0ba3e3;">/</span></h3>
 <div class="news-container">
     <div class="news-card">
         <div class="image-container">

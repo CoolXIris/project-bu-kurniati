@@ -7,7 +7,7 @@
     <div class="text-about" style="align-items: center;">
         <p style="font-size: 17px;color:white;margin-bottom:28px">GadgetGlimpse > <span style="color: #ff184e;">Gadget</span></p>
         <h2 style="color: white; margin-bottom:25px; font-size:29px">Gadget</h2>
-        <p style="color: white;font-size:20px">Gadgetglimpse Menghadirkan Informasi Terkini Dan Ulasan Mendalam Seputar Berbagai Gadget Terbaru, Mencakup Beragam Perangkat Mulai Dari Smartphone, Tablet, Kamera, Hingga Perangkat Wearable Seperti Jam Pintar Dan Gelang Kebugaran. Setiap Artikel Di Gadgetglimpse Menyajikan Panduan Lengkap Mengenai Spesifikasi Teknis, Fitur Unggulan, Dan Inovasi Terbaru Dari Tiap Gadget Yang Dirilis. Dalam Kanal Ulasan, Gadgetglimpse Menganalisis Performa Perangkat, Mulai Dari Kecepatan Prosesor, Kapasitas Penyimpanan, Daya Tahan Baterai, Hingga Kualitas Kamera, Membantu Pembaca Memahami Setiap Kelebihan Dan Kekurangannya Secara Detail. Selain Itu, Kami Menyediakan Informasi Harga Serta Perbandingan Dengan Gadget Sejenis Di Pasaran, Memberikan Perspektif Yang Lebih Luas Bagi Calon Pembeli. Dengan Berita Terkini, Tips Pemakaian, Dan Rekomendasi Terbaik, Gadgetglimpse Menjadi Sumber Terpercaya Untuk Pecinta Teknologi Yang Ingin Mengetahui Gadget Mana Yang Paling Sesuai Dengan Kebutuhan Dan Tren Terbaru.</p>
+        <p style="color: white;font-size:20px;text-align: justify" class="about-text">Laman ini menyajikan berita terbaru dan ulasan terkini seputar gadget, mengupas produk-produk terbaru secara mendalam. Fokus bahasan meliputi review gadget dari berbagai aspek penting seperti desain, performa layar, kualitas kamera, fitur unggulan, hingga daya tahan baterai. Setiap ulasan juga menyajikan informasi lengkap mengenai spesifikasi, harga, serta kelebihan dan kekurangan dari produk terkait. Selain review, laman ini juga menghadirkan update terbaru tentang tren dan inovasi dalam dunia gadget, memberikan pembaca wawasan terkini yang membantu dalam mengikuti perkembangan pesat di industri ini sebelum memutuskan untuk membeli perangkat terbaru.</p>
     </div>
     <div class="image-about">
 
@@ -15,7 +15,7 @@
 </div>
 
 <!-- Content Section -->
-<h3 style="margin-left: 50px;margin-top:40px;color:white;border-bottom:2px solid white;box-shadow: 0 3px 0 0 red;"> Latest News </h3>
+<h3 style="margin-left: 50px;margin-top:40px;color:white;border-bottom:2px solid white;box-shadow: 0 3px 0 0 red;font-size:25px;"> Latest Gadgets </h3>
 <div class="news-container">
     <div class="news-card">
         <div class="image-container">
