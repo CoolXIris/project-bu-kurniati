@@ -28,7 +28,7 @@
                         </p>
                     </div>
                 </div>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/MediaTek-Dimensity-9400.jpg') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/ayaneo3.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content" />
                 <p class="text-gray-300 mb-4">
                     <span class="font-bold">
                         Jakarta, GadgetGlimpse
@@ -42,14 +42,18 @@
 
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Teknologi MGX Hyperdrive untuk Kecepatan Maksimal </p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/ayaneo31.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Corsair K70 PRO TKL menghadirkan teknologi switch magnetik MGX Hyperdrive teranyar. Nah, teknologi ini sendiri memanfaatkan sensor efek Hall, switch ini mampu memberikan respons yang lebih cepat dibandingkan switch mekanis pada umumnya. Fitur ini mampu merespons setiap sentuhan tombol dengan kecepatan yang lebih responsif..</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Fitur Rapid Trigger pada keyboard ini semakin mendukung kecepatan permainan dengan kemampuannya untuk meregistrasi dan mereset tombol secara instan. Hal ini sangat menguntungkan bagi para gamer yang mengutamakan respons cepat, terutama dalam permainan yang membutuhkan aksi cepat seperti FPS atau MOBA. Rapid Trigger memungkinkan pemain untuk tetap fokus pada strategi permainan tanpa khawatir adanya jeda waktu.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Selain itu, pemain juga dapat menyesuaikan jarak aktuasi sesuai preferensi mereka, mulai dari jarak yang sangat pendek hingga dalam. Dengan fleksibilitas ini, Corsair K70 PRO TKL dapat disesuaikan untuk berbagai gaya bermain, baik untuk pemain yang membutuhkan sentuhan ringan atau mereka yang lebih nyaman dengan jarak aktuasi lebih dalam.</p>
 
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Beberapa Peningkatan Ayaneo 3</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <div class="w-full max-w-4xl">
+                    <div class="relative">
+                        <iframe width="900" height="500" src="https://www.youtube.com/embed/c_-0boVoewU?si=3TDeZVqnCUxGF5as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    </div>
+                </div>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Beredar rumor yang mengatakan bahwa Ayaneo 3 ini memiliki berbagai peningkatan yang diharapkan bisa mengobati rasa kecewa yang dihadirkan dari Ayaneo Geek yang lalu. Mengutip dari TechPowerUp, Ayaneo 3 ini memiliki APU yang cukup kuat, karena sudah menyematkan iGPU yang sudah ditingkatkan. Maka dari itu, pengguna bisa mendapatkan PC Handheld yang memiliki performa mumpuni ketika bermain game dengan kualitas AAA sekalipun.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Kemudian, kabarnya Ayaneo juga meningkatkan Cooling System seperti yang sudah dijelaskan. Maka dari itu, pengguna bisa mendapatkan PC Handheld yang memiliki temperatur lebih optimal jika dibandingkan dengan generasi pendahulunya. PC Handheld yang memiliki suhu optimal juga akan berpengaruh dengan kenyamanan pemain yang sedang bermain game. </p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Dari berbagai rumor juga bisa disimpulkan bahwa Ayaneo memang sudah belajar dari kesalahan dan melihat kompetitor justru bukan sebagai pesaing, melainkan sebagai inspirasi Ayaneo agar bisa menawarkan PC Handheld yang semakin maksimal dari segi kualitas dan juga performa.</p>

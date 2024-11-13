@@ -8,7 +8,7 @@
         <div class="text-about" style="align-items: center;">
             <p style="font-size: 17px;color:white;margin-bottom:28px">GadgetGlimpse > <span style="color: #ff184e;">Tips</span></p>
             <h2 style="color: white; margin-bottom:25px; font-size:29px">Tips</h2>
-            <p style="color: white;font-size:20px" class="about-text">Gadgetglimpse Menawarkan Berbagai Tips Berguna Bagi Pembaca Untuk Meningkatkan Pengalaman Mereka Dalam Menggunakan Gadget Sehari-Hari, Dari Laptop Hingga Perangkat Audio. Salah Satu Tips Utama Adalah Menjaga Kebersihan Perangkat Dengan Membersihkan Debu Dan Kotoran Secara Rutin, Terutama Pada Keyboard, Layar, Dan Ventilasi Laptop, Agar Performa Tetap Optimal Dan Perangkat Lebih Awet. Untuk Melindungi Keamanan Data, Gadgetglimpse Menyarankan Penggunaan Kata Sandi Yang Kuat, Serta Mengaktifkan Enkripsi Dan Verifikasi Dua Langkah, Terutama Untuk Perangkat Yang Menyimpan Informasi Sensitif. Agar Gadget Tetap Hemat Daya, Tips Lain Yang Direkomendasikan Adalah Mengatur Kecerahan Layar, Mematikan Fitur-Fitur Seperti Wi-Fi Atau Bluetooth Saat Tidak Digunakan, Serta Menonaktifkan Aplikasi Latar Belakang Yang Menguras Baterai.</p>
+            <p style="color: white;font-size:20px;text-align:justify;" class="about-text">Laman ini menyajikan berbagai tips bermanfaat seputar dunia teknologi, mencakup gadget, laptop, aplikasi, game, hingga ponsel pintar. Setiap artikel dirancang untuk memberikan panduan praktis kepada pembaca, mulai dari cara memaksimalkan performa perangkat, tips memilih aplikasi yang sesuai, hingga trik bermain game yang lebih efektif. Selain itu, laman ini juga menyajikan langkah-langkah mudah untuk merawat perangkat elektronik agar tetap awet dan berfungsi optimal. Dengan tips yang informatif dan mudah dipahami, laman ini membantu pembaca memahami teknologi dengan lebih baik dan memanfaatkannya secara maksimal dalam kehidupan sehari-hari.</p>
         </div>
         <div class="image-about">
 
@@ -17,7 +17,7 @@
 </section>
 
 <!-- Content Section -->
-<h3 style="margin-left: 50px;margin-top:40px;color:white;font-size:25px"><span style="color: #ff184e;">/</span> Latest News <span style="color: #ff184e;">/</span></h3>
+<h3 style="margin-left: 50px;margin-top:40px;color:white;font-size:25px"><span style="color: #ff184e;">/</span> Latest Tips <span style="color: #ff184e;">/</span></h3>
 <div class="news-container">
     <div class="news-card">
         <div class="image-container">
@@ -78,7 +78,7 @@
             <span class="badge-bottom-left">BELANJA DI E-COMMERCE</span>
         </div>
         <a href="<?= base_url('page/e_commerce') ?>" class="head_line">Lima Tips Anti Boncos Ketika Belanja di E-commerce, Makin Hemat!</a>
-        <p class="description">Jakarta, Gizmologi - Berbelanja di e-commerce terkadang bisa buat lupa diri, oleh…</p>
+        <p class="description">Jakarta, GadgetGlimpse - Berbelanja di e-commerce terkadang bisa buat lupa diri, oleh…</p>
         <p class="author">Christopher Louis | 8 October 2024</p>
 
     </div>
@@ -112,24 +112,6 @@
         <p class="author">Christopher Louis | 7 October 2024</p>
 
     </div>
-    <div class="pagination" style="justify-content: center;align-items:center;">
-        <nav aria-label="Page navigation example">
-            <ul class="pagination">
-                <li class="page-item">
-                    <a class="page-link" href="#" aria-label="Previous">
-                        <span aria-hidden="true">&laquo;</span>
-                    </a>
-                </li>
-                <li class="page-item"><a class="page-link" href="#">1</a></li>
-                <li class="page-item"><a class="page-link" href="#">2</a></li>
-                <li class="page-item"><a class="page-link" href="#">3</a></li>
-                <li class="page-item">
-                    <a class="page-link" href="#" aria-label="Next">
-                        <span aria-hidden="true">&raquo;</span>
-                    </a>
-                </li>
-            </ul>
-        </nav>
-    </div>
+</div>
 
-    <?= $this->endSection() ?>
+<?= $this->endSection() ?>

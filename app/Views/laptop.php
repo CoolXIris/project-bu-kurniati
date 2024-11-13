@@ -54,7 +54,7 @@
     <div class="news-card">
         <div class="image-container">
             <img src="<?= base_url('css/img/ryzen9800.png') ?>" alt="News Image">
-            <span class="badge-bottom-left">AMD REYZEN</span>
+            <span class="badge-bottom-left">AMD RYZEN</span>
         </div>
         <a href="<?= base_url('page/ryzen9800') ?>" class="head_line">AMD Luncurkan Prosesor Ryzen 7 9800X3D: Inovasi Terbaru untuk Pengalaman Gaming Maksimal</a>
         <p class="description">AMD Ryzen 7 9800X3D Siap Meluncur, Dirancang khusus para gamer yang mengincar…</p>
@@ -109,28 +109,7 @@
         <a href="<?= base_url('page/cra_efektif') ?>" class="head_line">Inilah 3 Cara Efektif Membersihkan Laptop dari Debu & Minyak</a>
         <p class="description">Cara membersihkan laptop dari debu dan minyak ternyata mudah, dan berikut adalah…</p>
         <p class="author">Christopher Louis | 16 Oktober 2024</p>
-
-        <!-- Tambahkan card lain sesuai kebutuhan -->
     </div>
-    <div class="pagination" style="justify-content: center;align-items:center;">
-        <nav aria-label="Page navigation example">
-            <ul class="pagination">
-                <li class="page-item">
-                    <a class="page-link" href="#" aria-label="Previous">
-                        <span aria-hidden="true">&laquo;</span>
-                    </a>
-                </li>
-                <li class="page-item"><a class="page-link" href="#">1</a></li>
-                <li class="page-item"><a class="page-link" href="#">2</a></li>
-                <li class="page-item"><a class="page-link" href="#">3</a></li>
-                <li class="page-item">
-                    <a class="page-link" href="#" aria-label="Next">
-                        <span aria-hidden="true">&raquo;</span>
-                    </a>
-                </li>
-            </ul>
-        </nav>
-    </div>
+</div>
 
-
-    <?= $this->endSection() ?>
+<?= $this->endSection() ?>
