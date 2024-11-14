@@ -28,7 +28,7 @@
                         </p>
                     </div>
                 </div>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/MediaTek-Dimensity-9400.jpg') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/aiot_xiomi.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content" />
                 <p class="text-gray-300 mb-4">
                     <span class="font-bold">
                         Jakarta, GadgetGlimpse
@@ -41,25 +41,25 @@
 
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Jajaran Produk AIoT Xiaomi 2024 </p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/aiot_xiomi1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Dengan fokus pada kesinambungan gaya hidup digital, pengalaman terintegrasi, dan inovasi berkelanjutan, lini produk AIoT Xiaomi menjadi langkah strategis dalam memenuhi kebutuhan pasar yang terus berkembang. Untuk mengetahui informasi produk lebih lanjut, berikut pilihan produk-produk AIoT terbaru dari Xiaomi yang akan mendukung gaya hidup semakin efisien.</p>
 
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Xiaomi Electric Scooter 4 Lite (2nd Gen)</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/aiot_xiomi2.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Untuk pertama kalinya Xiaomi membawa skuter elektrik ke pasar Indonesia. Tampilan yang trendi serta performa yang yang stabil, Xiaomi Electric Scooter 4 Lite 2nd Gen merupakan inovasi dalam pengalaman berkendara. Dibawa dengan ban besar 10 inch memastikan penggunanya merasakan pengalaman berkendara yang mulus dan nyaman bahkan di medan yang kasar atau bergelombang</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Xiaomi Electric Scooter 4 Lite 2nd Gen juga telah mampu untuk menempuh jarak maksimal 25 km, sehingga dapat memenuhi kebutuhan transportasi sehari-hari pengguna dengan mudah. Pengguna juga bebas memilih 3 mode yang tersedia di skuter ini; mode pejalan kaki 6 km/jam, mode standar 15 km/jam, dan mode olahraga 25 km/jam, ketiga mode kecepatan dapat disesuaikan dengan preferensi penggunanya. Tak hanya itu, skuter ini juga dapat dilipat dengan tiga langkah saja, sehingga pengguna tidak perlu khawatir akan ruang yang cukup ketika diperlukan saat dibawa bepergian.</p>
 
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Xiaomi Robot Vacuum S20
-                    <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                    <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/aiot_xiomi3.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Jika pengguna yang menginginkan robot vacuum kecil, pintar, dan bertenaga, Xiaomi Robot Vacuum S20 dapat dijadikan salah satu opsinya. Robot vacuum ini mampu melakukan penyedotan dan pengepelan yang efisien yang menghemat waktu dan energi penggunanya. Selain itu, telah dilengkapi laser LDS sehingga mampu menjangkau hingga ke area-area terselubung sekalipun.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Xiaomi Robot Vacuum S20 dibawa dengan blower yang bertenaga 5000Pa, mampu menghisap seluruh debu di rumah dalam sekali jalan. Robot vacuum ini juga dapat berjalan dengan rute zig-zag memastikan efisiensi pembersihan maksimum, sedangkan rute bentuk Y dirancang khusus untuk mengepel dan mensimulasikan pembersihan manual dengan mengepel area yang sama dalam dua arah, sehingga mudah menghilangkan noda.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Konsumen juga dapat mengontrol robot vacuum ini dari jarak jauh sekalipun dengan menggunakan smartphone melalui aplikasi Mi Home atau Xiaomi Home.</p>
 
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Xiaomi Smart Rice Cooker
-                    <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                    <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/aiot_xiomi4.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Produk AIoT Xiaomi berikutnya adalah penanak nasi dengan kinerja tinggi untuk menghasilkan hidangan yang lezat dan aromatik. Xiaomi Smart Multifunctional Rice Cooker dilengkapi dengan 8-in-1 fungsionalitas memasak nasi, pengguna hanya perlu memilih jenis resep apa yang akan dimasak sehingga menjadi lebih mudah dan praktis. Penanak nasi ini juga memiliki timer penundaan 24 jam serta dilengkapi fitur tetap hangat selama 12 jam. Tak kalah canggih, pengguna juga dapat menautkan penanak nasi ke aplikasi Mi Home atau Xiaomi Home untuk mengontrol program memasak dari jarak jauh sekalipun. </p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Panci bagian dalam juga telah menggunakan panci anti lengket yang akan memudahkan pengguna ketika proses pembersihan. Detil yang cermat diciptakan untuk memberikan pengalaman pengguna yang lebih mudah, penutup bagian dalam dan katup uap yang dapat dilepas pasang, membuka atau menutup penanak nasi dengan sekali ketuk, serta kelengkapan pengukus juga disediakan sehingga lebih praktis.</p>
 

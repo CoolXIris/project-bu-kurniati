@@ -25,7 +25,7 @@
                         </p>
                     </div>
                 </div>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/MediaTek-Dimensity-9400.jpg') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/geminilive.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content" />
                 <p class="text-gray-300 mb-4">
                     <span class="font-bold">
                         Jakarta, GadgetGlimpse
@@ -38,7 +38,7 @@
 
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Cara Mengaktifkan Bahasa Indonesia di Gemini Live</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/geminilive1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Jangan khawatir, karena kami akan memberikan langkah mudah yang bisa kamu lakukan agar mampu dalam mengaktifkan Bahasa Indonesia pada platform Gemini Live. Berikut adalah langkah yang bisa kamu ikuti:</p>
 
                 <p class="text-white-300 mb-4" style="text-align: justify;">1 . Pada smartphone atau tablet, kamu bisa buka Google dan pada bagian atas klik gambar profil kamu seperti biasa.</p>
@@ -50,37 +50,11 @@
 
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Tentang Google Gemini</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/geminilive2.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Google Gemini adalah proyek kecerdasan buatan dari Google yang menandai kemajuan dalam bidang model bahasa besar (Large Language Model/LLM). Gemini dirancang sebagai generasi penerus dari Google Bard, menggabungkan kekuatan AI dengan model bahasa yang lebih maju untuk pemahaman dan pemrosesan data yang lebih baik.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Salah satu keunggulan Gemini adalah kemampuannya dalam pemrosesan gambar, teks, dan data kompleks secara lebih efisien. Gemini tidak hanya memahami konteks dengan lebih baik, tetapi juga menggabungkan informasi visual dan tekstual secara bersamaan untuk memberikan hasil yang lebih akurat.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Google mengembangkan Gemini dengan fokus pada peningkatan interaksi manusia dengan AI, memungkinkan aplikasi di berbagai sektor seperti bisnis, pendidikan, dan kesehatan. Selain itu, Gemini diposisikan untuk menyaingi model AI dari perusahaan besar lainnya, seperti GPT dari OpenAI.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Dengan teknologi canggih ini, Google berharap Gemini akan membantu pengguna memecahkan masalah yang lebih kompleks, memperluas kapabilitas teknologi AI, dan mempercepat pengembangan produk-produk berbasis kecerdasan buatan dalam waktu dekat.</p>
-
-
-
-                <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Gunakan Kuas Kecil untuk Debu di Sela-sela Keyboard</p>
-                <p class="text-white-300 mb-4" style="text-align: justify;">Sela-sela keyboard adalah tempat di mana debu sering kali tersangkut. Untuk membersihkannya, kamu bisa menggunakan kuas kecil yang lembut. Arahkan kuas di sela-sela tombol untuk mengangkat debu dan kotoran kecil yang terperangkap. Jika memiliki peniup debu atau compressed air, alat ini bisa digunakan untuk meniup debu dari sela-sela keyboard dengan lebih efektif. Hindari meniup langsung dengan mulut agar tidak ada uap air yang menempel pada keyboard.</p>
-
-                <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Bersihkan Permukaan Keyboard dan Touchpad dengan Kain Basah</p>
-                <p class="text-white-300 mb-4" style="text-align: justify;">Untuk membersihkan minyak atau noda pada permukaan keyboard dan touchpad, gunakan kain microfiber yang dibasahi sedikit dengan air atau cairan pembersih ringan. Usapkan kain perlahan-lahan ke seluruh permukaan keyboard dan touchpad. Hindari penggunaan kain yang terlalu basah agar tidak ada air yang meresap ke dalam komponen laptop.</p>
-
-                <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Gunakan Cotton Bud untuk Area Sulit Dijangkau</p>
-                <p class="text-white-300 mb-4" style="text-align: justify;">Untuk membersihkan sudut-sudut kecil atau bagian keyboard yang sulit dijangkau, kamu bisa menggunakan cotton bud yang sedikit dibasahi. Cotton bud ini sangat efektif untuk membersihkan sisa-sisa debu atau minyak yang menempel di area yang sempit. Gunakan cotton bud dengan lembut agar tidak merusak tombol atau komponen di sekitar keyboard.</p>
-
-
-                <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">3. Tips Tambahan untuk Menjaga Kebersihan Laptop</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
-                <p class="text-white-300 mb-4" style="text-align: justify;">Selain membersihkan bagian layar dan keyboard, ada beberapa tips tambahan yang bisa kamu terapkan untuk menjaga laptop tetap bersih dan bebas dari debu dan minyak dalam jangka waktu yang lebih lama:</p>
-
-                <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Hindari Makan dan Minum di Dekat Laptop</p>
-                <p class="text-white-300 mb-4" style="text-align: justify;">Salah satu penyebab laptop cepat kotor adalah kebiasaan makan atau minum di dekat laptop. Sisa makanan dan percikan minuman bisa membuat laptop mudah kotor atau bahkan merusak komponen di dalamnya. Jika memungkinkan, jauhkan laptop saat sedang makan atau minum untuk mengurangi risiko noda dan kerusakan.</p>
-
-                <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Gunakan Pelindung Keyboard</p>
-                <p class="text-white-300 mb-4" style="text-align: justify;">Jika kamu sering mengetik atau menggunakan laptop dalam waktu lama, pertimbangkan untuk menggunakan pelindung keyboard. Selain menjaga keyboard dari debu dan minyak, pelindung ini juga dapat melindungi laptop dari kemungkinan kerusakan akibat tumpahan cairan. Pelindung keyboard bisa dilepas dan dibersihkan dengan mudah, sehingga mempermudah perawatan laptop.</p>
-
-                <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Lakukan Pembersihan Secara Rutin</p>
-                <p class="text-white-300 mb-4" style="text-align: justify;">Debu dan minyak bisa menumpuk jika laptop tidak dibersihkan secara berkala. Lakukan pembersihan ringan setiap satu atau dua minggu sekali, terutama pada bagian layar dan keyboard. Dengan membersihkan secara rutin, laptop Anda akan selalu terlihat bersih, nyaman digunakan, dan performanya pun tetap optimal.</p>
-                <p class="text-white-300 mb-4" style="text-align: justify;">Menjaga kebersihan laptop adalah bagian penting dalam merawat perangkat agar tetap awet dan berfungsi dengan baik. Dengan menerapkan langkah-langkah pembersihan ini secara rutin, Anda tidak hanya akan menjaga tampilan laptop agar selalu terlihat rapi, tetapi juga membantu memperpanjang umur laptop dan memastikan performanya tetap prima.</p>
 
             </div>
             <div class="lg:w-1/3 lg:pl-8">

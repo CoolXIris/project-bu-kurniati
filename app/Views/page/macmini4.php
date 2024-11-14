@@ -25,7 +25,7 @@
                         </p>
                     </div>
                 </div>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/MediaTek-Dimensity-9400.jpg') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/macmini4.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content" />
                 <p class="text-gray-300 mb-4">
                     <span class="font-bold">
                         Jakarta, GadgetGlimpse
@@ -38,16 +38,16 @@
 
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Tak Sampai Setengah Dimensi Mac Mini Sebelumnya</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/macmini41.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Lantas seberapa kecil dimensi Mac Mini M4 terbaru? Pihak Apple sendiri sebuttkan bila secara keseluruhan, dimensinya tak sampai setengah dari Mac Mini M2 sebelumnya. Secara satuan sentimeter, dimensinya 12,7 x 12,7, dengan ketebalan yang memang lebih “tinggi” mencapai 5cm. Bobotnya? Mulai dari kisaran 670 gram saja—jauh lebih ringan dibandingkan 1,18 kilogram pada generasi sebelumnya.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Menariknya, dalam dimensi yang sangat mungil tersebut, konektivitasnya justru dibuat lebih superior. Memang, Mac Mini M4 kini tak lagi membawa dua port USB-A. Namun justru digantikan dengan kehadiran dua port USB-C tambahan di sisi depan (sekaligus audio jack) demi kemudahan sambungan, serta tiga port USB-C tambahan di sisi belakang.</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/macmini42.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Ketiga port tersebut, ditemani dengan port HDMI, ethernet, dan port khusus daya. Apple berani membuat sebuah klaim cukup berani, bila Mac Mini M4 mampu memberikan hingga 6 kali performa lebih kencang dibandingkan PC desktop paling laris di segmen harganya, dalam dimensi 1/20 lebih kecil.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Walaupun mungil, Mac Mini M4 justru menjadi perangkat Mac pertama Apple, yang sudah mencapai standar carbon neutral—terbuat dari lebih 50% bahan daur ulang, pemrosesan manufaktur dengan daya listrik terbarukan seutuhnya, dan metod pengiriman yang rendah karbon. Apple juga merancang ulang sistem pendinginnya, yang bisa mengendalikan suhu optimal dengan alur angin bersumber dari bawah perangkat.</p>
 
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Harga Mac Mini M4 Tetap Mulai Rp9 Jutaan</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/macmini43.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Hadir dalam dua pilihan cip, Mac Mini M4 versi standar hadir dengan cip Apple M4 yang membawa 10 inti CPU, 10 inti GPU, serta kapasitas RAM minimum 16GB. Dibandingkan generasi M1, performa CPU meningkat hingga 1,8 kali lipat, sementara GPU 2,2 kali lebih kencang. Tentu juga membawa dukungan Apple Intelligence.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Sementara versi Mac Mini M4 Pro, hadir dengan hingga 14 inti CPU, hingga 20 inti GPU, dan RAM hingga 64GB dengan bandwidth besar sampai 273GB/s. Khusus versi Pro, jenis port USB-C meningkat dari standar Thunderbolt 4 ke Thunderbolt 5, dengan kecepatan transfer data sampai maksimum 120GB/s.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Dimensi yang lebih kecil, cip lebih kencang, dan kapasitas RAM dasar lebih lega, tak membuat Apple menaikkan harga desktop mungilnya satu ini. Harga Mac Mini M4 dibanderol mulai USD599, atau sekitar Rp9,4 jutaan. Tak seperti iMac, kamu harus membeli aksesori lainnya seperti Magic Keyboard atau Magic Mouse secara terpisah.</p>

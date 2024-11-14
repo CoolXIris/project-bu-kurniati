@@ -28,7 +28,7 @@
                         </p>
                     </div>
                 </div>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/MediaTek-Dimensity-9400.jpg') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/k70pro.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content" />
                 <p class="text-gray-300 mb-4">
                     <span class="font-bold">
                         Jakarta, GadgetGlimpse
@@ -41,14 +41,14 @@
 
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Teknologi MGX Hyperdrive untuk Kecepatan Maksimal </p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/k70pro1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Corsair K70 PRO TKL menghadirkan teknologi switch magnetik MGX Hyperdrive teranyar. Nah, teknologi ini sendiri memanfaatkan sensor efek Hall, switch ini mampu memberikan respons yang lebih cepat dibandingkan switch mekanis pada umumnya. Fitur ini mampu merespons setiap sentuhan tombol dengan kecepatan yang lebih responsif..</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Fitur Rapid Trigger pada keyboard ini semakin mendukung kecepatan permainan dengan kemampuannya untuk meregistrasi dan mereset tombol secara instan. Hal ini sangat menguntungkan bagi para gamer yang mengutamakan respons cepat, terutama dalam permainan yang membutuhkan aksi cepat seperti FPS atau MOBA. Rapid Trigger memungkinkan pemain untuk tetap fokus pada strategi permainan tanpa khawatir adanya jeda waktu.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Selain itu, pemain juga dapat menyesuaikan jarak aktuasi sesuai preferensi mereka, mulai dari jarak yang sangat pendek hingga dalam. Dengan fleksibilitas ini, Corsair K70 PRO TKL dapat disesuaikan untuk berbagai gaya bermain, baik untuk pemain yang membutuhkan sentuhan ringan atau mereka yang lebih nyaman dengan jarak aktuasi lebih dalam.</p>
 
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Teknologi AXON Minimalisir Delay</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/k70pro2.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:content;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Untuk memastikan tidak ada momen yang terlewat dalam permainan, Corsair menyematkan teknologi hyper-processing AXON pada K70 PRO TKL. Teknologi ini dirancang untuk meminimalisir input lag atau keterlambatan registrasi tombol, membuat setiap aksi lebih cepat tereksekusi. Dengan polling rate sebesar 8,000 Hz, keyboard ini mampu meregistrasi setiap penekanan tombol dalam waktu hanya 1/8 milidetik.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Kecepatan polling rate yang tinggi ini memberikan keuntungan signifikan bagi para gamer kompetitif, terutama dalam permainan yang membutuhkan respons cepat di setiap detiknya. Dengan AXON, K70 PRO TKL memastikan setiap aksi pemain tereksekusi tanpa jeda, meningkatkan peluang pemain untuk menang dalam pertandingan yang menuntut ketepatan dan kecepatan.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Keyboard ini juga didesain dengan dua lapisan busa peredam suara yang berfungsi untuk mengurangi suara berlebih saat tombol ditekan. Dengan tambahan pelumas pada setiap switch MGX Hyperdrive, setiap penekanan tombol akan terasa lebih halus dan konsisten, memberikan pengalaman mengetik yang nyaman sekaligus meningkatkan performa bermain.</p>
