@@ -29,6 +29,7 @@
                 <?php if (!empty($feedbacks)) : ?>
                     <?php foreach ($feedbacks as $feedback) : ?>
                         <div class="py-4">
+                            <p class="text-sm text-green-500">Email: <?= $feedback['email']; ?></p>
                             <p class="text-white-300"><strong><?= $feedback['nama'] ?: 'Anonim'; ?>:</strong> <?= $feedback['komentar']; ?></p>
                             <p class="text-sm text-white-500">Tanggal: <?= $feedback['created_at']; ?></p>
                         </div>
