@@ -30,13 +30,13 @@
                     <span class="hidden sm:inline">
                         •
                     </span>
-                    <a class="hover:underline" href="#">
+                    <a class="hover:underline" href="<?= base_url('about') ?>">
                         Kelompok Kami
                     </a>
                     <span class="hidden sm:inline">
                         •
                     </span>
-                    <a class="hover:underline" href="#">
+                    <a class="hover:underline" href="<?= base_url('medsos') ?>">
                         Media Sosial
                     </a>
                 </div>

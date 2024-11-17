@@ -260,4 +260,12 @@ class Page extends BaseController
     {
         return view('page/android_jrkjauh');
     }
+    public function about()
+    {
+        return view('about');
+    }
+    public function medsos()
+    {
+        return view('medsos');
+    }
 }

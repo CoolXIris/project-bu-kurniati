@@ -32,6 +32,77 @@
          }
       }
    </script>
+   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+   <script>
+      $(document).ready(function() {
+         $("#feedbackForm").on("submit", function(e) {
+            e.preventDefault(); // Mencegah refresh halaman
+
+            // Ambil data form
+            const komentar = $("textarea[name='komentar']").val();
+            const nama = $("input[name='nama']").val() || "Anonim";
+            const email = $("input[name='email']").val();
+            const situs = $("input[name='situs']").val();
+
+            // Validasi sederhana sebelum mengirim data
+            if (!komentar.trim()) {
+               alert("Komentar tidak boleh kosong!");
+               return;
+            }
+
+            // Kirim data dengan AJAX
+            $.ajax({
+               url: "<?= site_url('feedback/send'); ?>", // Endpoint ke controller
+               method: "POST",
+               data: {
+                  komentar: komentar,
+                  nama: nama,
+                  email: email,
+                  situs: situs
+               },
+               success: function(response) {
+                  if (response.status === "success") {
+                     alert("Komentar berhasil disimpan!"); // Notifikasi berhasil
+                     $("#feedbackForm")[0].reset(); // Reset form setelah berhasil
+                  } else {
+                     alert("Gagal menyimpan komentar: " + response.message); // Notifikasi jika gagal
+                  }
+               },
+               error: function(xhr, status, error) {
+                  alert("Terjadi kesalahan saat mengirim komentar: " + error); // Notifikasi error
+               }
+            });
+         });
+      });
+   </script>
+
+   <script>
+      function handleClick(type) {
+         fetch('/reaction', {
+               method: 'POST',
+               headers: {
+                  'Content-Type': 'application/json',
+               },
+               body: JSON.stringify({
+                  reaction_type: type
+               })
+            })
+            .then(response => response.json())
+            .then(data => {
+               if (data.status === 'success') {
+                  alert('Terima kasih atas reaksi Anda!');
+               } else {
+                  alert('Terjadi kesalahan: ' + data.message);
+               }
+            })
+            .catch(error => {
+               alert('Terjadi kesalahan, coba lagi.');
+               console.error(error);
+            });
+      }
+   </script>
+
 </head>
 
 <body class="bg-gray-900 text-white">

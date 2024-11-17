@@ -168,6 +168,7 @@
             <ul class="dropdown-menu dropdown-menu-dark">
                 <li><a class="dropdown-item" href="<?= base_url('recommended') ?>">Rekomendasi</a></li>
                 <li><a class="dropdown-item" href="<?= base_url('tips') ?>">Tips</a></li>
+                <li><a class="dropdown-item" href="<?= base_url('feedback/list') ?>">Feed Back Pembaca</a></li>
             </ul>
         </li>
     </div>

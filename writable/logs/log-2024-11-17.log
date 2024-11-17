@@ -1,0 +1,293 @@
+CRITICAL - 2024-11-17 11:52:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/feedback_list.php"
+[Method: GET, Route: feedback_list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/feedback_list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('page/feedback_list', [], true)
+ 3 APPPATH\Controllers\Page.php(265): view('page/feedback_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Page->feedback_list()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 11:52:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/feedback_list.php"
+[Method: GET, Route: feedback_list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/feedback_list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('page/feedback_list', [], true)
+ 3 APPPATH\Controllers\Page.php(265): view('page/feedback_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Page->feedback_list()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 12:00:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/feedback_list.php"
+[Method: GET, Route: feedback_list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/feedback_list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('page/feedback_list', [], true)
+ 3 APPPATH\Controllers\Page.php(265): view('page/feedback_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Page->feedback_list()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 12:00:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/feedback_list.php"
+[Method: GET, Route: feedback_list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/feedback_list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('page/feedback_list', [], true)
+ 3 APPPATH\Controllers\Page.php(265): view('page/feedback_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Page->feedback_list()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 12:01:48 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/feedback_list.php"
+[Method: GET, Route: feedback_list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/feedback_list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('page/feedback_list', [], true)
+ 3 APPPATH\Controllers\Page.php(265): view('page/feedback_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Page->feedback_list()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 12:01:48 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/feedback_list.php"
+[Method: GET, Route: feedback_list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/feedback_list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('page/feedback_list', [], true)
+ 3 APPPATH\Controllers\Page.php(265): view('page/feedback_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Page->feedback_list()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 12:01:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/feedback_list.php"
+[Method: GET, Route: feedback_list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/feedback_list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('page/feedback_list', [], true)
+ 3 APPPATH\Controllers\Page.php(265): view('page/feedback_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Page->feedback_list()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 12:01:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/feedback_list.php"
+[Method: GET, Route: feedback_list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/feedback_list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('page/feedback_list', [], true)
+ 3 APPPATH\Controllers\Page.php(265): view('page/feedback_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Page->feedback_list()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 12:09:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/feedback_list.php"
+[Method: GET, Route: feedback_list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/feedback_list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('page/feedback_list', [], true)
+ 3 APPPATH\Controllers\Page.php(265): view('page/feedback_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Page->feedback_list()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 12:09:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/feedback_list.php"
+[Method: GET, Route: feedback_list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/feedback_list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('page/feedback_list', [], true)
+ 3 APPPATH\Controllers\Page.php(265): view('page/feedback_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Page->feedback_list()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 12:09:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/feedback_list.php"
+[Method: GET, Route: feedback_list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/feedback_list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('page/feedback_list', [], true)
+ 3 APPPATH\Controllers\Page.php(265): view('page/feedback_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Page->feedback_list()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 12:09:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/feedback_list.php"
+[Method: GET, Route: feedback_list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/feedback_list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('page/feedback_list', [], true)
+ 3 APPPATH\Controllers\Page.php(265): view('page/feedback_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Page->feedback_list()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 12:09:40 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/feedback_list.php"
+[Method: GET, Route: feedback_list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/feedback_list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('page/feedback_list', [], true)
+ 3 APPPATH\Controllers\Page.php(265): view('page/feedback_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Page->feedback_list()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 12:09:40 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/feedback_list.php"
+[Method: GET, Route: feedback_list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/feedback_list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('page/feedback_list', [], true)
+ 3 APPPATH\Controllers\Page.php(265): view('page/feedback_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Page->feedback_list()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 12:10:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/feedback_list.php"
+[Method: GET, Route: feedback_list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/feedback_list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('page/feedback_list', [], true)
+ 3 APPPATH\Controllers\Page.php(265): view('page/feedback_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Page->feedback_list()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 12:10:39 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/feedback_list.php"
+[Method: GET, Route: feedback_list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/feedback_list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('page/feedback_list', [], true)
+ 3 APPPATH\Controllers\Page.php(265): view('page/feedback_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Page->feedback_list()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 12:10:40 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/feedback_list.php"
+[Method: GET, Route: feedback_list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/feedback_list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('page/feedback_list', [], true)
+ 3 APPPATH\Controllers\Page.php(265): view('page/feedback_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Page->feedback_list()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 12:10:40 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/feedback_list.php"
+[Method: GET, Route: feedback_list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/feedback_list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('page/feedback_list', [], true)
+ 3 APPPATH\Controllers\Page.php(265): view('page/feedback_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Page->feedback_list()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 12:10:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/feedback_list.php"
+[Method: GET, Route: feedback_list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/feedback_list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('page/feedback_list', [], true)
+ 3 APPPATH\Controllers\Page.php(265): view('page/feedback_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Page->feedback_list()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 12:10:44 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "page/feedback_list.php"
+[Method: GET, Route: feedback_list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('page/feedback_list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('page/feedback_list', [], true)
+ 3 APPPATH\Controllers\Page.php(265): view('page/feedback_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Page->feedback_list()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 13:00:33 --> ErrorException: Undefined array key "reaction"
+[Method: GET, Route: reaction/stats]
+in APPPATH\Controllers\FeedbackController.php on line 73.
+ 1 APPPATH\Controllers\FeedbackController.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "reaction"', 'C:\\project bu kurniati\\ci4\\app\\Controllers\\FeedbackController.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\FeedbackController->reactionStats()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FeedbackController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 13:38:52 --> ErrorException: Undefined array key "reaction"
+[Method: GET, Route: reaction/stats]
+in APPPATH\Controllers\FeedbackController.php on line 73.
+ 1 APPPATH\Controllers\FeedbackController.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "reaction"', 'C:\\project bu kurniati\\ci4\\app\\Controllers\\FeedbackController.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\FeedbackController->reactionStats()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FeedbackController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
+CRITICAL - 2024-11-17 13:48:52 --> ErrorException: Undefined array key "reaction"
+[Method: GET, Route: reaction/stats]
+in APPPATH\Controllers\FeedbackController.php on line 73.
+ 1 APPPATH\Controllers\FeedbackController.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "reaction"', 'C:\\project bu kurniati\\ci4\\app\\Controllers\\FeedbackController.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\FeedbackController->reactionStats()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FeedbackController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\project bu kurniati\\ci4\\public\\index.php')
