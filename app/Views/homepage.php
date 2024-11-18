@@ -51,7 +51,7 @@
                 </div>
             </div>
             <div class="flex items-center space-x-4">
-                <button class="focus:outline-none"><i class="fas fa-search"></i></button>
+                <a href="<?= base_url('search') ?>"><button class="focus:outline-none"><i class="fas fa-search"></i></button></a>
                 <button class="focus:outline-none">Aa</button>
                 <button class="focus:outline-none"><i class="fas fa-adjust"></i></button>
                 <button class="relative focus:outline-none">

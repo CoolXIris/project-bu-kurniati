@@ -18,7 +18,7 @@
                     <span class="hidden sm:inline">
                         •
                     </span>
-                    <a class="hover:underline" href="#">
+                    <a class="hover:underline" href="<?= base_url('about_us') ?>">
                         Tentang GadgetGlimpse
                     </a>
                     <span class="hidden sm:inline">

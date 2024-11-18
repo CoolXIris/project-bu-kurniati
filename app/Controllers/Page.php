@@ -264,6 +264,10 @@ class Page extends BaseController
     {
         return view('about');
     }
+    public function about_us()
+    {
+        return view('about_us');
+    }
     public function medsos()
     {
         return view('medsos');
