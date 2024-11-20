@@ -34,7 +34,7 @@
             <img src="<?= base_url('css/img/cra_efektif.png') ?>" alt="News Image">
             <span class="badge-bottom-left">TIPS & TRIK</span>
         </div>
-        <a href="<?= base_url('page/3cra_efektif') ?>" class="head_line">Inilah 3 Cara Efektif Membersihkan Laptop dari Debu & Minyak</a>
+        <a href="<?= base_url('page/cra_efektif') ?>" class="head_line">Inilah 3 Cara Efektif Membersihkan Laptop dari Debu & Minyak</a>
         <p class="description">Cara membersihkan laptop dari debu dan minyak ternyata mudah, dan berikut adalah…</p>
         <p class="author">
             <bold>Christopher Louis</bold> | 10 October 2024

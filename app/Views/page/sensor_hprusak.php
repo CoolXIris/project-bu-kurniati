@@ -28,7 +28,7 @@
                         </p>
                     </div>
                 </div>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/MediaTek-Dimensity-9400.jpg') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/a6.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
                 <p class="text-gray-300 mb-4">
                     <span class="font-bold">
                         Jakarta, GadgetGlimpse
@@ -40,13 +40,13 @@
 
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Alasan & Penjelasan Terkait Laser dengan Kamera HP saat Konser</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/a7.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Banyak penjelasan yang mengatakan bahwa efek visual dari sebuah konser akan selalu menggunakan laser. Bahkan, PetaPixel mengatakan bahwa laser yang biasanya digunakan pada sebuah konser merupakan jenis yang cukup kuat, lantas pancaran laser tersebut bisa memberikan pengaruh yang signifikan pada komponen kamera, terkhusus pada sensor kamera yang digunakan.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Sifat dari laser tersebut merupakan sebuah laser yang memiliki konsentrasi tinggi, sehingga bisa langsung menembus bagian terluar dari lensa kamera. Maka dari itu, pancaran laser ini merupakan hal yang sangat wajib untuk diwaspadai ketika sedang menonton konser.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Kerusakan bisa terjadi seketika jika sinar laser langsung mengenai sensor kamera HP. Namun, kerusakan juga bisa terjadi secara tidak langsung, misalnya jika sinar laser memantul dari permukaan lain sebelum mencapai kamera HP. Meski intensitas pantulan lebih rendah, masih bisa merusak sensor jika terkena dalam waktu yang lama.</p>
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Cara Menjaga Kamera HP saat Konser dari Paparan Laser</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/a8.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Sebenarnya, untuk menjaga kamera HP saat konser dari paparan laser cukup mudah. Biasanya, konser akan memberikan indikasi tertentu ketika visual yang menggunakan laser akan segera diperlihatkan. Nah, sangat disarankan ketika laser sudah mulai muncul, sebisa mungkin untuk tidak mengabadikan momen dan mengarahkan kamera ke panggung. Dengan melakukan itu, maka kamu bisa menjaga kamera, terkhusus sensor kamera HP.</p>
                 <p class="text-white-300 mb-4" style="text-align: justify;">Pastikan juga jangan melakukan zooming ketika sedang banyaknya paparan laser karena memang hal ini bisa saja membakar sensor dari kamera HP yang digunakan. Berikut adalah beberapa langkah tambahan yang bisa kamu lakukan untuk menjaga HP dari paparan laser saat konser:</p>
 

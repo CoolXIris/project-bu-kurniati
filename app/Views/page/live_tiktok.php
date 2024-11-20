@@ -25,7 +25,7 @@
                         </p>
                     </div>
                 </div>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/MediaTek-Dimensity-9400.jpg') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4" height="400" src="<?= base_url('css/img/a10.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover" />
                 <p class="text-gray-300 mb-4">
                     <span class="font-bold">
                         Jakarta, GadgetGlimpse
@@ -37,7 +37,7 @@
 
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Syarat Melakukan Live Tiktok</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/a11.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Sebelum melakukan live TikTok, maka kamu bisa melihat beberapa persyaratan dibawah yang kami ambil langsung dari persyaratan yang sudah dirancang oleh Tiktok:</p>
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">1 . Akun sudah terverifikasi dengan sah.</p>
@@ -48,7 +48,7 @@
                 <p class="text-white-300 mb-4" style="text-align: justify;">Dengan mengikuti keempat syarat sederhana tersebut, maka kamu sudah bisa melakukan live TikTok melalui aplikasi. Perlu diingat, melakukan live merupakan salah satu aktivitas yang disiarkan secara langsung, sehingga sangat disarankan untuk menyediakan konten live yang sesuai dengan peraturan Tiktok, jikalau tidak maka akun kamu akan memiliki potensi terkena ban.</p>
 
                 <p class="text-white-300 font-bold mb-3" style="font-size: 20px;">Cara Melakukan Live Tiktok</p>
-                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/2200_1.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
+                <img alt="Gaming setup with a monitor displaying a game, a gaming PC with RGB lighting, and gaming accessories" class="w-full mb-4 mx-auto" height="400" src="<?= base_url('css/img/a12.png') ?>" style="width: 900px;height:500px;border-radius:2%;object-fit:cover;" />
                 <p class="text-white-300 mb-4" style="text-align: justify;">Perlu diketahui, melakukan live Tiktok merupakan salah satu hal yang cukup mudah untuk dilakukan. Seperti yang sudah disebutkan, kamu bisa saja mendapatkan uang melalui live TikTok, dan uang tersebut bisa dihasilkan melalui berbagai gift yang diberikan oleh para penonton live kamu.</p>
 
                 <p class="text-white-300 mb-4" style="text-align: justify;">Namun, sebelum itu kamu wajib mengetahui cara untuk mengaktifkan live TikTok, dan berikut adalah langkah sederhana yang bisa kamu lakukan:</p>

@@ -54,7 +54,7 @@
                 </button>
             </div>
             <div class="flex items-center justify-center w-full md:w-1/2">
-                <img alt="Portrait of another person, a freelance developer, standing in front of a brick wall wearing a casual shirt" class="w-48 h-48 md:w-96 md:h-96 rounded-full shadow-lg" height="384" src="<?= base_url('css/img/foto2.jpg') ?>" width="384" style="object-fit: cover;" />
+                <img alt="Portrait of another person, a freelance developer, standing in front of a brick wall wearing a casual shirt" class="w-48 h-48 md:w-96 md:h-96 rounded-full shadow-lg" height="384" src="<?= base_url('css/img/foto3.jpeg') ?>" width="384" style="object-fit: cover;" />
             </div>
         </div>
     </div>
